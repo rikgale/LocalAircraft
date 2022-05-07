@@ -7,4 +7,4 @@ Download ``LocalAircraft.txt`` Place file in configuration of VRS and wait until
 
 Windows install of VRS - to find the configuration folder go to ``Help | About`` and click the link to the configuration folder.
 
-Linux - various, but look for ``~.local/share/VirtualRadar``
+Linux - varies dependant on where/how VRS was installed, but look for ``~.local/share/VirtualRadar`` or run a search for StandingData.sqb and place ``LocalAircraft.txt`` in the same location as this database.
