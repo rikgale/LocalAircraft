@@ -1,4 +1,8 @@
-[Guernsey]
+[Germany]		
+3E9150	civ	# SF25 D-FUKO 22-05-09
+3E810F	civ	# SF25 D-KOBN 22-05-09
+		
+[Guernsey]		
 43ED48	civ	# S22T 2-ZIVA
 43ECD8	civ	# CL60 2-SLOW
 43ED6C	civ	# CL60 2-REIN
@@ -164,24 +168,28 @@
 43EB04	civ	# NAVI 2-RIOH
 43EC60	civ	# P28B 2-GOLD
 43EC83	civ	# PC12 2-FLYT
-
-[Italy]
+		
+[Italy]		
 33FE08	mil	# IAM Tornado MM7053 22-05-05
 33FE09	mil	# IAM Tornado MM7054 22-05-05
 33FE01	mil	# IAM Tornado MM7055 22-05-05
-
-[United Kingdom]
+		
+[Slovenia]		
+506F30	civ	# PIPA S5-MTT 22-05-09
+		
+[United Kingdom]		
 43EB96	civ	# C510 2-MSTG
 43EB77	civ	# GLF5 2-TRAV
 43ECF9	civ	# DA40 2-PASC
 43ECFA	civ	# DA40 2-PASD
 43EC2B	civ	# C25B 2-RBTS
-
-[Unknown or unassigned country]
+		
+[United Arab Emirates]		
+896C40	mil	# C17 1230 22-05-09
+		
+[Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
 43EE22	civ	# A320 2-VIHC
 43EE13	civ	# AT46 2-ATRO
 43ED5A	civ	# AT76 2-HOPL
 43EDD1	civ	# EA50 2-DAVE
-
-
