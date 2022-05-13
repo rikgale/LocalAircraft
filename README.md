@@ -7,7 +7,7 @@ Please post additions as Issues.
 
 # Usage
 
-Download ``LocalAircraft.txt`` Place file in configuration folder of VRS and wait until the nightly refresh of the standing data. Don't expect this to work striaght away.
+Save [``LocalAircraft.txt``](https://raw.githubusercontent.com/rikgale/LocalAircraft/main/LocalAircraft.txt) to local computer (Open link -> Right Click -> Save As -> ``LocalAircraft.txt``). Place saved file in configuration folder of VRS and wait until the nightly refresh of the standing data. Don't expect this to work striaght away.
 
 - Windows 
   - Go to ``Help | About`` and click the link to the configuration folder. Place ``LocalAircraft.txt`` in this folder. 
