@@ -1,5 +1,4 @@
 # LocalAircraft
-LocalAircraft.txt for use with Virtual Radar Server.
 
 If civil aircraft are incorrectly flagged as Military in Virtual Radar Server and visa-versa, this will fix it.
 
