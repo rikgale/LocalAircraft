@@ -1,3 +1,17 @@
+[Bahrain],,
+894088,mil,# C30J 702 JT 22-05-17
+,,
+[Belgium],,
+449825,mil,# FA7X OO-FAE JT 22-05-17
+44B2AD,mil,# FA7X OO-LUM JT 22-05-17
+,,
+[China],,
+79A666,mil,# EC25 B-4073 JT 17-05-17
+7B0EAB,mil,# CRJ7 B-4067 JT 22-05-17
+78042A,mil,# CRJ2 B-4005 JT 22-05-17
+7A425F,mil,# Y20 (1)1155 JT 22-05-17
+7A4221,mil,# IL76 21042 JT 22-05-17
+,,
 [Germany],,
 3E9150,civ,# SF25 D-FUKO 22-05-09
 3E810F,civ,# SF25 D-KOBN 22-05-09
@@ -170,13 +184,70 @@
 43EC60,civ,# P28B 2-GOLD
 43EC83,civ,# PC12 2-FLYT
 ,,
+[Ireland],,
+4CA44B,mil,# IRL PC12 280 22-05-13 JT
+4CA41C,mil,# IRL PC12 281 22-05-13 JT
+4CA41D,mil,# IRL PC12 282 22-05-17 JT
+4CA41E,mil,# IRL PC12 281 22-05-13 JT
+,,
 [Italy],,
 33FE08,mil,# IAM Tornado MM7053 22-05-05
 33FE09,mil,# IAM Tornado MM7054 22-05-05
 33FE01,mil,# IAM Tornado MM7055 22-05-05
+33FDC2,mil,# IAM G550 MM62329 22-05-13 JT
+33FDC2,mil,# IAM G550 MM62293 22-05-13 JT
+33FD99,mil,# IAM G550 MM62303 22-05-13 JT
+,,
+[Japan],,
+87CD05,mil,#C68A 12-3033 JT 22-05-17
+,,
+[Lebanon],,
+748714,mil,# E314 748714 JT 22-05-17
+,,
+[Mexico],,
+0D05AF,mil,# C295 3202 
+,,
+[Morocco],,
+020130,mil,# B748 CN-MBH
+,,
+[Netherlands],,
+48104F,mil,# NH90 N-318
+481042,mil,# NH90 N-102
+,,
+[Pakistan],,
+761047,mil,# G450 4270
+,,
+[Poland],,
+48D900,mil,# PZ3T 029
+48D901,mil,# PZ3T 030
+48D905,mil,# PZ3T 038
+48D908,mil,# PZ3T 042
+48D909,mil,# PZ3T 043
+48D980,mil,# B738 0110
+,,
+[Romania],,
+4A35AF,mil,# C27J 2706
+4A35A7,mil,# AN30 1104
+4A3618,mil,# C560 1122
+,,
+[Russia],,
+4501C8,mil,# T134 RF-65992
+14F124,mil,# A148 RF-61732
+,,
+[Saudi Arabia],,
+710022,mil,# G450 HZ-MS4C
+,,
+[Slovakia],,
+505F6B,mil,# L410 2901
 ,,
 [Slovenia],,
 506F30,civ,# PIPA S5-MTT 22-05-09
+,,
+[Spain],,
+341390,mil,# F900 T.18-1
+,,
+[Turkey],,
+4B9297,mil,# E737 13-003
 ,,
 [United Kingdom],,
 43EB96,civ,# C510 2-MSTG
@@ -184,9 +255,13 @@
 43ECF9,civ,# DA40 2-PASC
 43ECFA,civ,# DA40 2-PASD
 43EC2B,civ,# C25B 2-RBTS
+406F50,mil,# A109 GZ100
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230 22-05-09
+,,
+[United States],,
+A79B15,mil,# DHC7 N59AG
 ,,
 [Unknown or unassigned country],,
 43EE42,civ,# EA50 2-KISS
