@@ -11,6 +11,15 @@
 78042A	mil	# CRJ2 B-4005 JT 22-05-17
 7A425F	mil	# Y20 (1)1155 JT 22-05-17
 7A4221	mil	# IL76 21042 JT 22-05-17
+7B7EB7	mil	# EC25 B-4075
+7BC7B7	mil	# A319 B-4090
+		
+[Colombia]		
+0AC3A8	mil	# B737 FAC0001
+		
+[Egypt]		
+010177	mil	# C295 SU-BRU
+010166	mil	# C295 SU-BRR
 		
 [Germany]		
 3E9150	civ	# SF25 D-FUKO 22-05-09
@@ -197,7 +206,9 @@
 33FDC2	mil	# IAM G550 MM62329 22-05-13 JT
 33FDC2	mil	# IAM G550 MM62293 22-05-13 JT
 33FD99	mil	# IAM G550 MM62303 22-05-13 JT
-<<<<<<< HEAD
+33FD69	mil	# RQ4 MMAV-SA-0016
+300500	civ	# F900 I-NEMO
+33FE10	mil	# A139 MM81807
 		
 [Japan]		
 87CD05	mil	#C68A 12-3033 JT 22-05-17
@@ -209,11 +220,16 @@
 0D05AF	mil	# C295 3202 
 		
 [Morocco]		
-020130	mil	# B748 CN-MBH
+20130	mil	# B748 CN-MBH
+		
+[Malaysia]		
+75026D	mil	# A320 9M-NAB
 		
 [Netherlands]		
 48104F	mil	# NH90 N-318
 481042	mil	# NH90 N-102
+481053	mil	# NH90 N-326
+481054	mil	# NH90 N-327
 		
 [Pakistan]		
 761047	mil	# G450 4270
@@ -225,23 +241,27 @@
 48D908	mil	# PZ3T 042
 48D909	mil	# PZ3T 043
 48D980	mil	# B738 0110
+48D981	mil	# B738 0112
 		
 [Romania]		
 4A35AF	mil	# C27J 2706
 4A35A7	mil	# AN30 1104
 4A3618	mil	# C560 1122
+4A35A2	mil	# C130 5930
 		
 [Russia]		
 4501C8	mil	# T134 RF-65992
+150177	mil	# T134 RA-65911
 14F124	mil	# A148 RF-61732
+154DB2	mil	# T154 RA-85426
+154C32	mil	# T154 RA-85042
+1533F8	mil	# IL76 RA-78840
 		
 [Saudi Arabia]		
 710022	mil	# G450 HZ-MS4C
 		
 [Slovakia]		
 505F6B	mil	# L410 2901
-=======
->>>>>>> 3f17545ebeed1cbe69b8627f57bfdc0d64de6489
 		
 [Slovenia]		
 506F30	civ	# PIPA S5-MTT 22-05-09
@@ -265,6 +285,7 @@
 		
 [United States]		
 A79B15	mil	# DHC7 N59AG
+A60693	mil	
 		
 [Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
