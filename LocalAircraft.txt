@@ -187,11 +187,8 @@
 [Ireland]		
 4CA44B	mil	# IRL PC12 280 22-05-13 JT
 4CA41C	mil	# IRL PC12 281 22-05-13 JT
-<<<<<<< HEAD
 4CA41D	mil	# IRL PC12 282 22-05-17 JT
 4CA41E	mil	# IRL PC12 281 22-05-13 JT
-=======
->>>>>>> 3f17545ebeed1cbe69b8627f57bfdc0d64de6489
 		
 [Italy]		
 33FE08	mil	# IAM Tornado MM7053 22-05-05
