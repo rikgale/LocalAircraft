@@ -18,8 +18,8 @@
 0AC3A8	mil	# B737 FAC0001
 		
 [Egypt]		
-010177	mil	# C295 SU-BRU
-010166	mil	# C295 SU-BRR
+10177	mil	# C295 SU-BRU
+10166	mil	# C295 SU-BRR
 		
 [Germany]		
 3E9150	civ	# SF25 D-FUKO 22-05-09
@@ -212,6 +212,8 @@
 		
 [Japan]		
 87CD05	mil	#C68A 12-3033 JT 22-05-17
+87C847	mil	# P1 5524
+87C84B	mil	# P1 5528
 		
 [Lebanon]		
 748714	mil	# E314 748714 JT 22-05-17
@@ -248,6 +250,7 @@
 4A35A7	mil	# AN30 1104
 4A3618	mil	# C560 1122
 4A35A2	mil	# C130 5930
+4A35AE	mil	# C295 2075
 		
 [Russia]		
 4501C8	mil	# T134 RF-65992
@@ -256,9 +259,11 @@
 154DB2	mil	# T154 RA-85426
 154C32	mil	# T154 RA-85042
 1533F8	mil	# IL76 RA-78840
+14F121	mil	# A148 RA-61729
 		
 [Saudi Arabia]		
 710022	mil	# G450 HZ-MS4C
+710391	civ	# B737 HZ-101
 		
 [Slovakia]		
 505F6B	mil	# L410 2901
@@ -279,6 +284,7 @@
 43ECFA	civ	# DA40 2-PASD
 43EC2B	civ	# C25B 2-RBTS
 406F50	mil	# A109 GZ100
+400EA8	civ	# G115 G-BYXK
 		
 [United Arab Emirates]		
 896C40	mil	# C17 1230 22-05-09
