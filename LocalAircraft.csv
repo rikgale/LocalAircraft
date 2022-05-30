@@ -13,9 +13,15 @@
 7A4221,mil,# IL76 21042 JT 22-05-17
 7B7EB7,mil,# EC25 B-4075
 7BC7B7,mil,# A319 B-4090
+78CCAF,mil,# B738 B-4083
+7B0B31,mil,# A319 B-4092
 ,,
 [Colombia],,
 0AC3A8,mil,# B737 FAC0001
+,,
+[Czech Republic]
+4520F3,mil,# Z42 OK-0854
+4520F4,mil,# Z42 OK-0855
 ,,
 [Egypt],,
 010177,mil,# C295 SU-BRU
@@ -214,6 +220,7 @@
 87CD05,mil,#C68A 12-3033 JT 22-05-17
 87C847,mil,# P1 5524
 87C84B,mil,# P1 5528
+87CD04,mil,# C68A 02-3032
 ,,
 [Lebanon],,
 748714,mil,# E314 748714 JT 22-05-17
@@ -244,6 +251,9 @@
 48D909,mil,# PZ3T 043
 48D980,mil,# B738 0110
 48D981,mil,# B738 0112
+48DA80,mil,# W3 0915
+48DA84,mil,# W3 1016
+48D902,mil,# PZ3T 031
 ,,
 [Romania],,
 4A35AF,mil,# C27J 2706
@@ -261,6 +271,8 @@
 1533F8,mil,# IL76 RA-78840
 14F121,mil,# A148 RA-61729
 149C77,mil,# T154 RA-85563
+14F116,mil,# A148 RA-61718
+14F120,mil,# A148 RA-61728
 ,,
 [Saudi Arabia],,
 710022,mil,# G450 HZ-MS4C
@@ -289,6 +301,7 @@
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230 22-05-09
+896C6B,mil,# CL60 1350
 ,,
 [United States],,
 A79B15,mil,# DHC7 N59AG
