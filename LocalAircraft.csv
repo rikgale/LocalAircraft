@@ -1,9 +1,15 @@
+[Argentina],,
+E20022,mil,# C130 TC-69
+,,
 [Bahrain],,
 894088,mil,# C30J 702 JT 22-05-17
 ,,
 [Belgium],,
 449825,mil,# FA7X OO-FAE JT 22-05-17
 44B2AD,mil,# FA7X OO-LUM JT 22-05-17
+,,
+[Brazil],,
+E494A5,mil, # K390 2857
 ,,
 [Canada],,
 C2BCF1,mil,# C295 295507
@@ -18,6 +24,8 @@ C2BCF1,mil,# C295 295507
 7BC7B7,mil,# A319 B-4090
 78CCAF,mil,# B738 B-4083
 7B0B31,mil,# A319 B-4092
+79C7D0,mil,# B733 B-4018 
+78C84D,mil,# B738 B-4082
 ,,
 [Colombia],,
 0AC3A8,mil,# B737 FAC0001
@@ -224,6 +232,7 @@ C2BCF1,mil,# C295 295507
 87C847,mil,# P1 5524
 87C84B,mil,# P1 5528
 87CD04,mil,# C68A 02-3032
+87C400,mil,# B350 23051
 ,,
 [Lebanon],,
 748714,mil,# E314 748714 JT 22-05-17
@@ -290,6 +299,10 @@ C2BCF1,mil,# C295 295507
 ,,
 [Slovenia],,
 506F30,civ,# PIPA S5-MTT 22-05-09
+506F37,civ,# PIPA S5-MTA
+,,
+[South Korea],,
+71FC05,mil# E737 65-330
 ,,
 [Spain],,
 341390,mil,# F900 T.18-1
@@ -308,7 +321,8 @@ C2BCF1,mil,# C295 295507
 43EC2B,civ,# C25B 2-RBTS
 406F50,mil,# A109 GZ100
 400EA8,civ,# G115 G-BYXK
-405358,Mil,# AS65 ZJ165
+405358,mil,# AS65 ZJ165
+43F2CE,civ,# C25C ZJ-THC
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230 22-05-09
@@ -326,3 +340,4 @@ A60693,mil,# CL60 N488CR
 43EDD1,civ,# EA50 2-DAVE
 4520F3,mil,# Z42 OK-0854
 4520F4,mil,# Z42 OK-0855
+43EDE5,civ,# B738 2-VVOT
