@@ -11,6 +11,7 @@ E20022,mil,# C130 TC-69
 [Brazil],,
 E494A5,mil,# K390 2857
 E49217,mil,# E550 3602
+E49592,mil,# E50P 3701
 ,,
 [Canada],,
 C2BCF1,mil,# C295 295507
@@ -27,6 +28,7 @@ C2BCF1,mil,# C295 295507
 7B0B31,mil,# A319 B-4092
 79C7D0,mil,# B733 B-4018 
 78C84D,mil,# B738 B-4082
+899160,civ,# A359 B-18912
 ,,
 [Colombia],,
 0AC3A8,mil,# B737 FAC0001
@@ -238,6 +240,12 @@ C2BCF1,mil,# C295 295507
 87C829,mil,# C130 9052
 87CD1B,mil,# C2 18-1215
 ,,
+[Kuwait],,
+7061F6,mil,# C130 KAF327
+,,
+[Lithuania],,
+503FD5,mil,# MI8 26Blue
+,,
 [Lebanon],,
 748714,mil,# E314 748714 JT 22-05-17
 ,,
@@ -311,6 +319,7 @@ C2BCF1,mil,# C295 295507
 [Singapore],,
 76E723,mil,# PC21 9103
 76E724,mil,# PC21 9104
+76E72F,mil,# PC21 9115
 ,,
 [Slovakia],,
 505F6B,mil,# L410 2901
