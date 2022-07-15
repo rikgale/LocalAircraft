@@ -64,6 +64,9 @@ C2BCF1,mil,# C295 295507
 0100D2,mil,# AN74 SU-BPN
 0101F5,mil,# IL76 SU-BTY
 ,,
+[Estonia],,
+511122,mil,# M28 44 BLACK
+,,
 [Germany],,
 3E9150,civ,# SF25 D-FUKO 
 3E810F,civ,# SF25 D-KOBN 
@@ -314,7 +317,8 @@ C2BCF1,mil,# C295 295507
 706216,mil,# C17 KAF343
 ,,
 [Lithuania],,
-503FD5,mil,# MI8 26Blue
+503FD5,mil,# MI8 26 Blue
+503FDB,mil,# AS65 42 BLUE
 ,,
 [Lebanon],,
 748714,mil,# E314 748714
@@ -473,6 +477,7 @@ C2BCF1,mil,# C295 295507
 [Spain],,
 341390,mil,# F900 T.18-1
 3432CD,mil,# CN35 T.19B-21
+3425CB,civ,#, EC-KBS P68
 ,,
 [Thailand],,
 885336,mil,# A345 60204
