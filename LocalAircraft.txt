@@ -11,6 +11,9 @@ E200AE	mil	# B737 T-99
 7CC54C	civ	# PIVE 23-2055
 7CCF31	civ	# ULAC 32-8654
 		
+[Austria]		
+447AC2	civ	# TWR/RDR ???
+		
 [Bahrain]		
 894087	mil	# C30J 701
 894088	mil	# C30J 702
@@ -607,3 +610,6 @@ A3B079	mil	# M28 12-0337/N337GU
 001260	mil	# UAV TB2
 001453	mil	# UAV TB2
 520273	mil	# SW4 94-0265
+		
+[Uzbekistan]		
+507FA2	mil	# IL76 08 White
