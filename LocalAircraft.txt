@@ -540,7 +540,9 @@ C2BCF1	mil	# C295 295507
 71F822	mil	# C30J 55-036
 71FA07	mil	# CN35 02050
 71F8E0	mil	# CN35 40-098
-71F882	mil	# A332 19-003
+71F802	mil	# A332 19-003 (hex swap??)
+71F882	mil	# A332 19-003 (hex swap??)
+
 		
 [Spain]		
 341390	mil	# F900 T.18-1

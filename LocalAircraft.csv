@@ -67,7 +67,7 @@ C2BCF1,mil,# C295 295507
 7A425D,mil,# Y20 11152
 7A426E,mil,# Y20 11159
 7A428D,mil,# Y20 20144
-
+,,
 ,,
 [Colombia],,
 0AC3A8,mil,# B737 FAC0001
@@ -539,8 +539,9 @@ C2BCF1,mil,# C295 295507
 71F9C3,mil,# C30J 45-747
 71F822,mil,# C30J 55-036
 71FA07,mil,# CN35 02050
-71F8E0,mil,# CN35 40-098
-71F882,mil,# A332 19-003
+71F8E0,mil,# CN35 40-098 
+71F882,mil,# A332 19-003 (hex swap??)
+71F802,mil,# A332 19-003 (hex swap??)
 ,,
 [Spain],,
 341390,mil,# F900 T.18-1
