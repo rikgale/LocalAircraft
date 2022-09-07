@@ -620,10 +620,10 @@ ADF993	civ	# -TWR Radar
 ADFBDF	civ	# -TWR Radar
 ADF994	civ	# -TWR Radar
 ADFBE0	civ	# -TWR Radar
-ADF992	mil	# -TWR Test1234
-ADF991	mil	# -TWR Test1234
-ADFBDE	mil	# -TWR Test1234
-ADFBDD	mil	# -TWR Test1234
+ADF992	civ	# -TWR Test1234
+ADF991	civ	# -TWR Test1234
+ADFBDE	civ	# -TWR Test1234
+ADFBDD	civ	# -TWR Test1234
 A3B079	mil	# M28 12-0337/N337GU
 		
 [Unknown or unassigned country]		
@@ -649,3 +649,4 @@ A3B079	mil	# M28 12-0337/N337GU
 		
 [Uzbekistan]		
 507FA2	mil	# IL76 08 White
+		
