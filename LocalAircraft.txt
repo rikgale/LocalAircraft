@@ -39,6 +39,9 @@ E494A4	mil	# E390 2856
 E494A5	mil	# E390 2857
 E4920F	mil	# E390 PT-ZNG
 		
+[Bulgaria]		
+454544	mil	# EH10 ZH???? Mis-coding EH101
+		
 [Canada]		
 C2BCF1	mil	# C295 295507
 		
@@ -68,6 +71,7 @@ C2BCF1	mil	# C295 295507
 7A425D	mil	# Y20 11152
 7A426E	mil	# Y20 11159
 7A428D	mil	# Y20 20144
+7A4299	mil	# ZZZZ-KJ500 30741
 		
 [Colombia]		
 0AC3A8	mil	# B737 FAC0001
@@ -366,6 +370,7 @@ C2BCF1	mil	# C295 295507
 		
 [Jordan]		
 743596	mil	# PC21 ????
+743587	mil	# PC21 1170 
 743588	mil	# PC21 1171
 743589	mil	# PC21 1172
 74358A	mil	# PC21 1173
@@ -387,7 +392,8 @@ C2BCF1	mil	# C295 295507
 503FDB	mil	# AS65 42 Blue
 		
 [Lebanon]		
-748714	mil	# E314 748714
+748713	mil	# E314 L-713
+748714	mil	# E314 L-713
 748715	mil	# E314 L-715
 		
 [Malta]		
