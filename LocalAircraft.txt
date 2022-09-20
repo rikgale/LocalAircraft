@@ -67,6 +67,7 @@ C2BCF1	mil	# C295 295507
 79C7D0	mil	# B733 B-4018 
 78059D	mil	# B738 B-4080
 78C84D	mil	# B738 B-4082
+7A427A	mil	# B738 B-209Z
 899160	civ	# A359 B-18912
 7A424E	mil	# YUN9 10255
 7A425B	mil	# Y20 11150
@@ -99,8 +100,11 @@ C2BCF1	mil	# C295 295507
 0101A9	mil	# C295 SU-BTF
 0101AA	mil	# C295 SU-BTG 
 0101AC	mil	# C295 SU-BTI
+0101A2	mil	# C295 SU-BSZ
+010198	mil	# C295 SU-BSQ
 0100D2	mil	# AN74 SU-BPN
 0101F5	mil	# IL76 SU-BTY
+010071	mil	# B190 SU-BKV
 		
 [Estonia]		
 511122	mil	# M28 44 BLACK
@@ -385,7 +389,8 @@ C2BCF1	mil	# C295 295507
 74358D	mil	# PC21 1176
 743592	mil	# PC21 1177 
 743593	mil	# PC21 1179/1182 
-743595	mil	# PC21 1162 
+743595	mil	# PC21 1162
+743594	mil	# PC21 1183
 		
 [Kuwait]		
 7061F5	mil	# C30J KAF326
@@ -441,6 +446,7 @@ C2BCF1	mil	# C295 295507
 48D900	mil	# PZ3T 029
 48D901	mil	# PZ3T 030
 48D905	mil	# PZ3T 038
+48D906	mil	# PZ3T 040
 48D907	mil	# PZ3T 041
 48D908	mil	# PZ3T 042
 48D909	mil	# PZ3T 043
@@ -479,6 +485,7 @@ C2BCF1	mil	# C295 295507
 4A35AE	mil	# C295 2075
 		
 [Russia]		
+15405E	mil	# A124 RA-82014
 150177	mil	# T134 RA-65911
 1500C1	mil	# T134 RA-65729
 150011	mil	# T134 RF-65553
@@ -493,6 +500,7 @@ C2BCF1	mil	# C295 295507
 14F123	mil	# A148 RA-61731
 155221	mil	# IL62 RA-86561
 15522C	mil	# IL62 RA-86572
+1551DF	mil	# IL62 (find out!)
 152A26	mil	# IL76 RF-76326
 152C1C	mil	# IL76 RF-76828
 1533F3	mil	# IL76 RA-78835
@@ -556,6 +564,9 @@ C2BCF1	mil	# C295 295507
 506F37	civ	# PIPA S5-MTA
 506F2F	civ	# ONE S5-MMY
 		
+[South Africa]		
+00AEC9	mil	# B737 ZS-RSA 
+		
 [South Korea]		
 71FC02	mil	# E737 65-327
 71FC05	mil	# E737 65-330
@@ -568,6 +579,23 @@ C2BCF1	mil	# C295 295507
 71F8E0	mil	# CN35 40-098 
 71F882	mil	# A332 19-003 (hex swap??)
 71F802	mil	# A332 19-003 (hex swap??)
+71BE43	mil	# B748 22001
+71F001	mil	# P3 950901
+71F832	mil	# ???? ???? 
+71F83F	mil	# ???? ???? 
+71F84E	mil	# ???? ???? 
+71F85B	mil	# ???? ???? 
+71F815	mil	# ???? ???? 
+71F005	mil	# ???? ???? 
+71F810	mil	# ???? ???? 
+71F849	mil	# ???? ???? 
+71F8CA	mil	# ???? ???? 
+71F8F4	mil	# ???? ???? 
+71F8FB	mil	# ???? ???? 
+71F832	mil	# ???? ???? 
+71F8F4	mil	# ???? ???? 
+71F853	mil	# ???? ???? 
+71F85F	mil	# ???? ???? 
 		
 [Spain]		
 341390	mil	# F900 T.18-1
@@ -587,10 +615,11 @@ C2BCF1	mil	# C295 295507
 		
 [Turkey]		
 4B9297	mil	# E737 13-003
-001071	mil	# UAV TB2
-001265	mil	# UAV TB2
-4B8378	mil	# UAV TB2
-5A65EE	mil	# UAV TB2
+001071	mil	# TB2
+001265	mil	# TB2
+4B8378	mil	# TB2
+5A65EE	mil	# TB2
+4B83A1	mil	# TB2 T318 
 4B8344	mil	# AT76 TCB703
 		
 [Ukraine]		
@@ -617,6 +646,7 @@ C2BCF1	mil	# C295 295507
 43EE94	civ	# B738 2-BPDJ
 407D8F	mil	# F900 G-ZAHS
 407D90	mil	# F900 G-ZABH
+06A20A	mil	# EUFI ZR502
 		
 [United Arab Emirates]		
 896C40	mil	# C17 1230
