@@ -12,6 +12,8 @@ E20094	mil	# C130 TC-66
 7CC54C	civ	# PIVE 23-2055
 7CCF31	civ	# ULAC 32-8654
 7CC565	civ	# NG5 23-2074
+7CC557	civ	# EV97 23-2066
+7CC4F6	civ	# AP32 23-8852
 		
 [Austria]		
 447AC2	civ	# TWR/RDR ???
@@ -290,6 +292,7 @@ C2BCF1	mil	# C295 295507
 43EE6D	civ	# B38M 9H-CHI Guernsey - Poss ex 2-MSFL with box not recoded
 43EEC6	civ	# AT72 2-NEIL
 43EED2	civ	# BE20 2-WKTN
+43EED9	civ	# PRM1 2-PHIL
 		
 [Ireland]		
 4CA44B	mil	# IRL PC12 280 
@@ -302,6 +305,11 @@ C2BCF1	mil	# C295 295507
 800790	mil	# C17 CB-8003
 800793	mil	# C17 CB-8006
 800795	mil	# C17 CB-8008
+		
+[Indonesia]		
+8A0134	mil	# KT1 LL-0112
+8A0132	mil	# KT1 LL-0111
+8A0132	mil	# KT1 LL-0110
 		
 [Italy]		
 320040	mil	# AT76 MM62315
@@ -329,6 +337,7 @@ C2BCF1	mil	# C295 295507
 320003	mil	# P180 MM62248
 33FE75	mil	# P180 MM62162
 33FE28	mil	# P180 MM62163
+33FE79	mil	# P180 MM62167
 33FE9E	mil	# P180 MM62168
 33FEC8	mil	# P180 MM62169
 320052	mil	# AT76 MM62321
@@ -341,6 +350,9 @@ C2BCF1	mil	# C295 295507
 		
 [Iran]		
 7324E3	mil	# F900 EP-IGC/5-9017
+		
+[Iraq]		
+728132	mil	# C30J YI-306
 		
 [Japan]		
 87CD05	mil	# C68A 12-3033
@@ -401,6 +413,7 @@ C2BCF1	mil	# C295 295507
 503FD5	mil	# MI8 26 Blue
 503FD8	mil	# MI8 28 Blue
 503FDB	mil	# AS65 42 Blue
+503FD7	mil	# MI8 21 White
 		
 [Lebanon]		
 748713	mil	# E314 L-713
@@ -470,6 +483,9 @@ C2BCF1	mil	# C295 295507
 48DA84	mil	# W3 1016
 48D960	mil	# G550 0001
 		
+[Portugal]		
+497024	mil	# UAV E512
+		
 [Qatar]		
 06A20D	mil	# EUFI ZR505
 06A20F	mil	# EUFI ZR507
@@ -528,6 +544,11 @@ C2BCF1	mil	# C295 295507
 14FC0D	mil	# T204 RF-64525
 15520B	mil	# IL62 RA-86539
 157766	mil	# IL96 RA-96102
+1501C6	mil	# T134 RF-65990
+154EE7	mil	# T154 RF-85735 
+154C8F	mil	# T154 RF-85135 
+14FA27	mil	# T204 RF-64039 
+1485CD	mil	# MI8 RF-34253
 		
 [Saudi Arabia]		
 710022	mil	# G450 HZ-MS4C
@@ -563,6 +584,7 @@ C2BCF1	mil	# C295 295507
 506F30	civ	# PIPA S5-MTT 
 506F37	civ	# PIPA S5-MTA
 506F2F	civ	# ONE S5-MMY
+506F2D	civ	# TRAL S5-NGJ
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA 
@@ -571,6 +593,7 @@ C2BCF1	mil	# C295 295507
 71FC02	mil	# E737 65-327
 71FC05	mil	# E737 65-330
 71FC04	mil	# E737 65-329
+71FC22	mil	# E7? ????
 71F9C4	mil	# C30J 45-750
 71F9C1	mil	# C30J 35-730
 71F9C3	mil	# C30J 45-747
@@ -579,8 +602,10 @@ C2BCF1	mil	# C295 295507
 71F8E0	mil	# CN35 40-098 
 71F882	mil	# A332 19-003 (hex swap??)
 71F802	mil	# A332 19-003 (hex swap??)
+71F863	mil	# A332 19-002 
+71F880	mil	# A332 18-001 
+71F883	mil	# A332 19-004
 71BE43	mil	# B748 22001
-71F001	mil	# P3 950901
 71F832	mil	# ???? ???? 
 71F83F	mil	# ???? ???? 
 71F84E	mil	# ???? ???? 
@@ -596,6 +621,16 @@ C2BCF1	mil	# C295 295507
 71F8F4	mil	# ???? ???? 
 71F853	mil	# ???? ???? 
 71F85F	mil	# ???? ???? 
+71F8AC	mil	# ???? ????
+71F8B8	mil	# ???? ????
+71F001	mil	# P3 950901
+71F002	mil	# P3 950902 
+71F003	mil	# P3 950903 
+71F005	mil	# P3 950905 
+71F006	mil	# P3 950906 
+71F007	mil	# P3 950907
+71F008	mil	# P3 950908
+71F009	mil	# P3 950909
 		
 [Spain]		
 341390	mil	# F900 T.18-1
@@ -621,6 +656,7 @@ C2BCF1	mil	# C295 295507
 5A65EE	mil	# TB2
 4B83A1	mil	# TB2 T318 
 4B8344	mil	# AT76 TCB703
+4B839C	mil	# CL60 KLH71
 		
 [Ukraine]		
 50FFB6	mil	# AN26 01 BLUE
@@ -674,6 +710,7 @@ ADF991	civ	# -TWR Test1234
 ADFBDE	civ	# -TWR Test1234
 ADFBDD	civ	# -TWR Test1234
 A3B079	mil	# M28 12-0337/N337GU
+A60BA5	mil	# DH8C 17-01610 / N489SN
 		
 [Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
