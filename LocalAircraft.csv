@@ -292,6 +292,7 @@ C2BCF1,mil,# C295 295507
 43EE6D,civ,# B38M 9H-CHI Guernsey - Poss ex 2-MSFL with box not recoded
 43EEC6,civ,# AT72 2-NEIL
 43EED2,civ,# BE20 2-WKTN
+43EED9,civ,# PRM1 2-PHIL
 ,,
 [Ireland],,
 4CA44B,mil,# IRL PC12 280 
@@ -349,6 +350,9 @@ C2BCF1,mil,# C295 295507
 ,,
 [Iran],,
 7324E3,mil,# F900 EP-IGC/5-9017
+,,
+[Iraq],,
+728132,mil,# C30J YI-306
 ,,
 [Japan],,
 87CD05,mil,# C68A 12-3033
@@ -479,6 +483,9 @@ C2BCF1,mil,# C295 295507
 48DA84,mil,# W3 1016
 48D960,mil,# G550 0001
 ,,
+[Portugal],,
+497024,mil,# UAV E512
+,,
 [Qatar],,
 06A20D,mil,# EUFI ZR505
 06A20F,mil,# EUFI ZR507
@@ -586,6 +593,7 @@ C2BCF1,mil,# C295 295507
 71FC02,mil,# E737 65-327
 71FC05,mil,# E737 65-330
 71FC04,mil,# E737 65-329
+71FC22,mil,# E7? ????
 71F9C4,mil,# C30J 45-750
 71F9C1,mil,# C30J 35-730
 71F9C3,mil,# C30J 45-747
@@ -594,8 +602,10 @@ C2BCF1,mil,# C295 295507
 71F8E0,mil,# CN35 40-098 
 71F882,mil,# A332 19-003 (hex swap??)
 71F802,mil,# A332 19-003 (hex swap??)
+71F863,mil,# A332 19-002 
+71F880,mil,# A332 18-001 
+71F883,mil,# A332 19-004
 71BE43,mil,# B748 22001
-71F001,mil,# P3 950901
 71F832,mil,# ???? ???? 
 71F83F,mil,# ???? ???? 
 71F84E,mil,# ???? ???? 
@@ -611,6 +621,16 @@ C2BCF1,mil,# C295 295507
 71F8F4,mil,# ???? ???? 
 71F853,mil,# ???? ???? 
 71F85F,mil,# ???? ???? 
+71F8AC,mil,# ???? ????
+71F8B8,mil,# ???? ????
+71F001,mil,# P3 950901
+71F002,mil,# P3 950902 
+71F003,mil,# P3 950903 
+71F005,mil,# P3 950905 
+71F006,mil,# P3 950906 
+71F007,mil,# P3 950907
+71F008,mil,# P3 950908
+71F009,mil,# P3 950909
 ,,
 [Spain],,
 341390,mil,# F900 T.18-1
@@ -636,6 +656,7 @@ C2BCF1,mil,# C295 295507
 5A65EE,mil,# TB2
 4B83A1,mil,# TB2 T318 
 4B8344,mil,# AT76 TCB703
+4B839C,mil,# CL60 KLH71
 ,,
 [Ukraine],,
 50FFB6,mil,# AN26 01 BLUE
