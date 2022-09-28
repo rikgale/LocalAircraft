@@ -4,6 +4,8 @@ If civil aircraft are incorrectly flagged as Military in Virtual Radar Server an
 
 Please post additions as Issues.
 
+Currently 623 on list.
+
 # Usage
 
 Save [``LocalAircraft.txt``](https://raw.githubusercontent.com/rikgale/LocalAircraft/main/LocalAircraft.txt) to local computer (Open link -> Right Click -> Save As -> ``LocalAircraft.txt``). Place saved file in configuration folder of VRS and wait until the nightly refresh of the standing data. Don't expect this to work striaght away.
