@@ -4,7 +4,7 @@ If civil aircraft are incorrectly flagged as Military in Virtual Radar Server an
 
 Please post additions as Issues.
 
-Currently 644 on list.
+Currently 654 on list.
 
 # Usage
 
