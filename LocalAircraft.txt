@@ -4,7 +4,7 @@ E20007	mil	# C130 TC-61
 E14D34	mil	# LJ60 T-11
 E200AE	mil	# B737 T-99
 E20094	mil	# C130 TC-66
-
+		
 [Australia]		
 7CBBF2	civ	# SONX 19-8776
 7CBBC3	civ	# JAB2 19-8399
@@ -21,26 +21,26 @@ E20094	mil	# C130 TC-66
 7CC426	civ	# AP32 23-8639
 7CC4F7	civ	# AP32 23-8848
 7CC426	civ	# AP32 23-8639
-7CC427	civ	# AP32 23-8666
-7CC43C	civ	# SLG2 23-1132
+7CC427	civ	# AP32 23-8666 
+7CC43C	civ	# SLG2 23-1132 
 7CC4BE	civ	# ECHO 24-8395
 7CC405	civ	# NG5 24-8762
-
+		
 [Austria]		
 447AC2	civ	# TWR/RDR ???
 445566	civ	# -GND
-
+		
 [Bahrain]		
 894087	mil	# C30J 701
 894088	mil	# C30J 702
-
+		
 [Bangladesh]		
 702C25	mil	# C30J 99-5479/S3-AGE
-
+		
 [Belgium]		
-449825	mil	# FA7X OO-FAE
+449825	mil	# FA7X OO-FAE 
 44B2AD	mil	# FA7X OO-LUM
-
+		
 [Brazil]		
 E49174	mil	# E550 3601
 E49217	mil	# E550 3602
@@ -52,18 +52,18 @@ E494A3	mil	# E390 2855
 E494A4	mil	# E390 2856
 E494A5	mil	# E390 2857
 E4920F	mil	# E390 PT-ZNG
-
+		
 [Bulgaria]		
 454544	mil	# EH10 ZH???? Mis-coding EH101
-
+		
 [Canada]		
 C2BCF1	mil	# C295 295507
-
+		
 [Chile]		
 E80612	civ	# A21N CC-AWS
-
+		
 [China]		
-79A666	mil	# EC25 B-4073
+79A666	mil	# EC25 B-4073 
 7B0EAB	mil	# CRJ7 B-4067
 7B7026	mil	# CRJ7 B-4069
 789002	mil	# CRJ7 B-4661
@@ -80,7 +80,7 @@ E80612	civ	# A21N CC-AWS
 7BC7B7	mil	# A319 B-4090
 78CCAF	mil	# B738 B-4083
 7B0B31	mil	# A319 B-4092
-79C7D0	mil	# B733 B-4018
+79C7D0	mil	# B733 B-4018 
 78059D	mil	# B738 B-4080
 78C84D	mil	# B738 B-4082
 7A427A	mil	# B738 B-209Z
@@ -91,21 +91,22 @@ E80612	civ	# A21N CC-AWS
 7A426E	mil	# Y20 11159
 7A428D	mil	# Y20 20144
 7A4299	mil	# ZZZZ-KJ500 30741
-
+		
 [Colombia]		
 0AC3A8	mil	# B737 FAC0001
-
+		
 [Cyprus]		
 4C8080	mil	# A139 701
 4C8081	mil	# A139 702
-
+		
 [Czech Republic]		
 498483	civ	# Z42 OK-ADC
 4984C4	civ	# -TWR Prague Airport
-
+		
 [Denmark]		
 459902	mil	# BN2P OY-FHB
-
+459901	mil	# BN2P OY-FHA
+		
 [Egypt]		
 010177	mil	# C295 SU-BRU
 0101A1	mil	# C295 SU-BSY
@@ -115,26 +116,26 @@ E80612	civ	# A21N CC-AWS
 010192	mil	# C295 SU-BSG
 0101A0	mil	# C295 SU-BSX
 0101A9	mil	# C295 SU-BTF
-0101AA	mil	# C295 SU-BTG
+0101AA	mil	# C295 SU-BTG 
 0101AC	mil	# C295 SU-BTI
 0101A2	mil	# C295 SU-BSZ
 010198	mil	# C295 SU-BSQ
 0100D2	mil	# AN74 SU-BPN
 0101F5	mil	# IL76 SU-BTY
 010071	mil	# B190 SU-BKV
-
+		
 [Estonia]		
 511122	mil	# M28 44 BLACK
-
+		
 [France]		
 39A847	civ	# SR20 F-HKCH
 39514F	mil	# G120 F-GUKP
-
+		
 [Germany]		
-3E9150	civ	# SF25 D-FUKO
-3E810F	civ	# SF25 D-KOBN
+3E9150	civ	# SF25 D-FUKO 
+3E810F	civ	# SF25 D-KOBN 
 3C14AB	mil	# A319 15+01 (HFDL Hex)
-
+		
 [Guernsey]		
 43EDD4	civ	# AT76 2-KBCA
 43ED48	civ	# S22T 2-ZIVA
@@ -309,39 +310,39 @@ E80612	civ	# A21N CC-AWS
 43EEC6	civ	# AT72 2-NEIL
 43EED2	civ	# BE20 2-WKTN
 43EED9	civ	# PRM1 2-PHIL
-
+		
 [Ireland]		
-4CA44B	mil	# IRL PC12 280
-4CA41C	mil	# IRL PC12 281
-4CA41D	mil	# IRL PC12 282
-4CA41E	mil	# IRL PC12 283
+4CA44B	mil	# IRL PC12 280 
+4CA41C	mil	# IRL PC12 281 
+4CA41D	mil	# IRL PC12 282 
+4CA41E	mil	# IRL PC12 283 
 4CA41A	mil	# PC9 269
-
+		
 [India]		
 800790	mil	# C17 CB-8003
 800793	mil	# C17 CB-8006
 800795	mil	# C17 CB-8008
 800333	mil	# C30J KC-3802
-
+		
 [Indonesia]		
 8A0134	mil	# KT1 LL-0112
 8A0132	mil	# KT1 LL-0111
 8A0132	mil	# KT1 LL-0110
-
+		
 [Italy]		
 320040	mil	# AT76 MM62315
 33FE02	mil	# TOR MM7019
 33FE08	mil	# Tornado MM7053
 33FE09	mil	# Tornado MM7054
 33FE01	mil	# Tornado MM7055
-33FDC2	mil	# GLF5 MM62293
+33FDC2	mil	# GLF5 MM62293 
 33FD99	mil	# GLF5 MM62303
 33FD69	mil	# RQ4 MMAV-SA-0016
 33FD6A	mil	# Q4 MMAV-SA-0015
 33FE12	mil	# D228 MM62158
 33FD0A	mil	# GLF5 MM62329
 300500	civ	# F900 I-NEMO
-33FE1B	mil	# A139 MM81803
+33FE1B	mil	# A139 MM81803 
 33FE10	mil	# A139 MM81807
 33FD54	mil	# A169 MM81977
 33FD4B	mil	# A139 MM81989
@@ -363,17 +364,17 @@ E80612	civ	# A21N CC-AWS
 320052	mil	# AT76 MM62321
 33FDDE	mil	# AT76 MM62279
 33FD3E	mil	# M345 MM55236
-320040	mil	# M346 MM55213
+320040	mil	# M346 MM55213 
 33FDC1	mil	# M346 MM55153
 33FDAB	mil	# M346 MM55214
 33FDE2	mil	# A149 CSX81848
-
+		
 [Iran]		
 7324E3	mil	# F900 EP-IGC/5-9017
-
+		
 [Iraq]		
 728132	mil	# C30J YI-306
-
+		
 [Japan]		
 87CD05	mil	# C68A 12-3033
 87CD04	mil	# C68A 02-3032
@@ -409,62 +410,62 @@ E80612	civ	# A21N CC-AWS
 87C002	mil	# B77W 80-1111
 87C003	mil	# B77W 80-1112
 87C404	mil	# B350 23055
-
+		
 [Jordan]		
 743596	mil	# PC21 ????
-743587	mil	# PC21 1170
+743587	mil	# PC21 1170 
 743588	mil	# PC21 1171
 743589	mil	# PC21 1172
 74358A	mil	# PC21 1173
 74358B	mil	# PC21 1174
 74358C	mil	# PC21 1175
 74358D	mil	# PC21 1176
-743592	mil	# PC21 1177
-743593	mil	# PC21 1179/1182
+743592	mil	# PC21 1177 
+743593	mil	# PC21 1179/1182 
 743595	mil	# PC21 1162
 743594	mil	# PC21 1183
 74368C	mil	# CL60 RJAF-300
 A7C9DC	mil	# AT8T 2280/1580
 A7CA7F	mil	# AT8T 2282/1584
 A7CE16	mil	# AT8T 1585
-
+		
 [Kuwait]		
 7061F5	mil	# C30J KAF326
 7061F6	mil	# C130 KAF327
 706216	mil	# C17 KAF343
-
+		
 [Lithuania]		
 503FD5	mil	# MI8 26 Blue
 503FD8	mil	# MI8 28 Blue
 503FDB	mil	# AS65 42 Blue
 503FD7	mil	# MI8 21 White
-
+		
 [Lebanon]		
 748713	mil	# E314 L-713
 748714	mil	# E314 L-713
 748715	mil	# E314 L-715
-
+		
 [Malta]		
 4D20C1	mil	# DH8D 77 Pakistan Navy Malta (by ICAOHex)
 4D23B3	mil	# BN2T AS9819
-
+		
 [Mexico]		
-0D05AF	mil	# C295 3202
+0D05AF	mil	# C295 3202 
 0D07C5	mil	# B350 ANX-1190
 0D0A13	mil	# B738 3528
 0D08A7	mil	# B350 5209
-
+		
 [Morocco]		
 020130	mil	# B748 CN-MBH
 0200EE	mil	# CL4T CN-ATN
 020107	mil	# CL4T CN-ATO
 02012D	mil	# GLF5 CN-MMR
 020131	mil	# B350 CN-TMS
-020061	mil	# CN35 CN-AME
-
+020061	mil	# CN35 CN-AME 
+		
 [Malaysia]		
 75026D	mil	# A320 9M-NAB
-
+		
 [Netherlands]		
 48104F	mil	# NH90 N-318
 481042	mil	# NH90 N-102
@@ -472,14 +473,14 @@ A7CE16	mil	# AT8T 1585
 481054	mil	# NH90 N-327
 481047	mil	# NH90 N-227
 481045	mil	# NH90 N-175
-
+		
 [Oman]		
 70C08D	mil	# C30J 505
 70C092	mil	# C295 904
-
+		
 [Pakistan]		
 761047	mil	# GLF4 4270
-
+		
 [Poland]		
 48D900	mil	# PZ3T 029
 48D901	mil	# PZ3T 030
@@ -508,24 +509,24 @@ A7CE16	mil	# AT8T 1585
 48DA84	mil	# W3 1016
 48D960	mil	# G550 0001
 485849	mil	# C295 020 miscode for 48D849 shows up as Netherlands
-
+		
 [Portugal]		
 497024	mil	# UAV E512
-
+		
 [Qatar]		
 06A20D	mil	# EUFI ZR505
 06A20F	mil	# EUFI ZR507
 06A210	mil	# EUFI ZR508
 06A211	mil	# EUFI ZR509
 06A27C	mil	# C17 MAO
-
+		
 [Romania]		
 4A35AF	mil	# C27J 2706
 4A35A7	mil	# AN30 1104
 4A3618	mil	# C560 1122
 4A35A2	mil	# C130 5930
 4A35AE	mil	# C295 2075
-
+		
 [Russia]		
 15405E	mil	# A124 RA-82014
 150177	mil	# T134 RA-65911
@@ -571,17 +572,17 @@ A7CE16	mil	# AT8T 1585
 15520B	mil	# IL62 RA-86539
 157766	mil	# IL96 RA-96102
 1501C6	mil	# T134 RF-65990
-154EE7	mil	# T154 RF-85735
-154C8F	mil	# T154 RF-85135
-14FA27	mil	# T204 RF-64039
+154EE7	mil	# T154 RF-85735 
+154C8F	mil	# T154 RF-85135 
+14FA27	mil	# T204 RF-64039 
 1485CD	mil	# MI8 RF-34253
-
+		
 [Saudi Arabia]		
 710022	mil	# G450 HZ-MS4C
 710391	civ	# B737 HZ-101
 7103B5	mil	# B350 4106
 7102E0	mil	# C130 1631
-
+		
 [Singapore]		
 76E721	mil	# PC21 9101
 76E722	mil	# PC21 9102
@@ -602,24 +603,24 @@ A7CE16	mil	# AT8T 1585
 76E731	mil	# PC21 9117
 76E732	mil	# PC21 9118
 76E733	mil	# PC21 9119
-
+		
 [Slovakia]		
 505F6B	mil	# L410 2901
 505F6E	mil	# C27J 1962
-
+		
 [Slovenia]		
-506F30	civ	# PIPA S5-MTT
+506F30	civ	# PIPA S5-MTT 
 506F37	civ	# PIPA S5-MTA
 506F2F	civ	# ONE S5-MMY
 506F2D	civ	# TRAL S5-NGJ
 506F31	civ	# WT9 S5-PIF
-506E1E	mil	# Z42 S5-DGF
+506E1E	mil	# Z42 S5-DGF 
 506F3A	civ	# TL30 S5-PGD
 506F11	civ	# ULAC S5-MBM
-
+		
 [South Africa]		
-00AEC9	mil	# B737 ZS-RSA
-
+00AEC9	mil	# B737 ZS-RSA 
+		
 [South Korea]		
 71FC02	mil	# E737 65-327
 71FC05	mil	# E737 65-330
@@ -632,73 +633,73 @@ A7CE16	mil	# AT8T 1585
 71F9C3	mil	# C30J 45-747
 71F822	mil	# C30J 55-036
 71FA07	mil	# CN35 02050
-71F8E0	mil	# CN35 40-098
+71F8E0	mil	# CN35 40-098 
 71F882	mil	# A332 19-003 (hex swap??)
 71F802	mil	# A332 19-003 (hex swap??)
-71F863	mil	# A332 19-002
-71F880	mil	# A332 18-001
+71F863	mil	# A332 19-002 
+71F880	mil	# A332 18-001 
 71F883	mil	# A332 19-004
 71BE43	mil	# B748 22001
-71F832	mil	# ???? ????
-71F83F	mil	# ???? ????
-71F84E	mil	# ???? ????
-71F85B	mil	# ???? ????
-71F815	mil	# ???? ????
-71F005	mil	# ???? ????
-71F810	mil	# ???? ????
-71F849	mil	# ???? ????
-71F8CA	mil	# ???? ????
-71F8F4	mil	# ???? ????
-71F8FB	mil	# ???? ????
-71F832	mil	# ???? ????
-71F8F4	mil	# ???? ????
-71F853	mil	# ???? ????
-71F85F	mil	# ???? ????
+71F832	mil	# ???? ???? 
+71F83F	mil	# ???? ???? 
+71F84E	mil	# ???? ???? 
+71F85B	mil	# ???? ???? 
+71F815	mil	# ???? ???? 
+71F005	mil	# ???? ???? 
+71F810	mil	# ???? ???? 
+71F849	mil	# ???? ???? 
+71F8CA	mil	# ???? ???? 
+71F8F4	mil	# ???? ???? 
+71F8FB	mil	# ???? ???? 
+71F832	mil	# ???? ???? 
+71F8F4	mil	# ???? ???? 
+71F853	mil	# ???? ???? 
+71F85F	mil	# ???? ???? 
 71F8AC	mil	# ???? ????
 71F8B8	mil	# ???? ????
 71F001	mil	# P3 950901
-71F002	mil	# P3 950902
-71F003	mil	# P3 950903
-71F005	mil	# P3 950905
-71F006	mil	# P3 950906
+71F002	mil	# P3 950902 
+71F003	mil	# P3 950903 
+71F005	mil	# P3 950905 
+71F006	mil	# P3 950906 
 71F007	mil	# P3 950907
 71F008	mil	# P3 950908
 71F009	mil	# P3 950909
-
+		
 [Spain]		
 341390	mil	# F900 T.18-1
 3432CD	mil	# CN35 T.19B-21
 3425CB	civ	# EC-KBS P68
 345678	civ	# AJET AT-18
-
+		
 [Sweden]		
 4A8220	mil	# SF34 100004
 4AEC63	mil	# LJ35 35-075
-
+		
 [Thailand]		
 885336	mil	# A345 60204
 885334	mil	# A320 60203
 885337	mil	# A320 60205
 881B81	mil	# SF34 70201
-
+		
 [Tunisia]		
 02B26A	mil	# C30J Z21121
 02B26B	mil	# C30J Z21122
-
+		
 [Turkey]		
 4B9297	mil	# E737 13-003
 001071	mil	# TB2
 001265	mil	# TB2
 4B8378	mil	# TB2
 5A65EE	mil	# TB2
-4B83A1	mil	# TB2 T318
+4B83A1	mil	# TB2 T318 
 4B8344	mil	# AT76 TCB703
 4B839C	mil	# CL60 KLH71
-
+		
 [Ukraine]		
 50FFB6	mil	# AN26 01 BLUE
 50FF9B	mil	# AN26 04 BLUE
-
+		
 [United Kingdom]		
 43EB96	civ	# C510 2-MSTG
 43EB77	civ	# GLF5 2-TRAV
@@ -714,14 +715,14 @@ A7CE16	mil	# AT8T 1585
 43EDE7	civ	# B738 2-VVOY
 43EDE0	civ	# B738 2-BBRV
 43EE8C	civ	# CL60 2-SMSN
-43EEBD	civ	# AT76 2-ELZE
+43EEBD	civ	# AT76 2-ELZE 
 43EEC8	civ	# KODI 2-RUFF
 43EE94	civ	# B738 2-BPDJ
 407D8F	mil	# F900 G-ZAHS
 407D90	mil	# F900 G-ZABH
 06A20A	mil	# EUFI ZR502
 43EECA	civ	# B738 United Kingdom - using old box code for 2-ASKY B738 -> 5V-TTV
-
+		
 [United Arab Emirates]		
 896C40	mil	# C17 1230
 896C6B	mil	# CL60 1350
@@ -730,7 +731,7 @@ A7CE16	mil	# AT8T 1585
 896C42	mil	# C295 821
 A1B361	mil	# AT8T 2202
 A1B22E	mil	# AT8T 2295
-
+		
 [United States]		
 A79B15	mil	# DHC7 N59AG
 A60693	mil	# CL60 N488CR
@@ -746,7 +747,7 @@ ADFBDE	civ	# -TWR Test1234
 ADFBDD	civ	# -TWR Test1234
 A3B079	mil	# M28 12-0337/N337GU
 A60BA5	mil	# DH8C 17-01610 / N489SN
-
+		
 [Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
 43EE22	civ	# A320 2-VIHC
@@ -767,6 +768,7 @@ A60BA5	mil	# DH8C 17-01610 / N489SN
 001260	mil	# UAV TB2
 001453	mil	# UAV TB2
 520273	mil	# SW4 94-0265
-
+		
 [Uzbekistan]		
 507FA2	mil	# IL76 08 White
+		
