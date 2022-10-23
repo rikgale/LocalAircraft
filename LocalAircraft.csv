@@ -533,6 +533,7 @@ A7CE16,mil,# AT8T 1585
 06A20F,mil,# EUFI ZR507
 06A210,mil,# EUFI ZR508
 06A211,mil,# EUFI ZR509
+06A212,mil,# EUFI ZR510
 06A27C,mil,# C17 MAO
 ,,
 [Romania],,
@@ -742,7 +743,6 @@ A7CE16,mil,# AT8T 1585
 06A20A,mil,# EUFI ZR502
 43EECA,civ,# B738 United Kingdom - using old box code for 2-ASKY B738 -> 5V-TTV
 400ED0,civ,# G115 G-BYUL
-06A212,mil,# EUFI ZR510
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230
