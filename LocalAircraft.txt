@@ -44,6 +44,7 @@ E20094	mil	# C130 TC-66
 [Belgium]		
 449825	mil	# FA7X OO-FAE 
 44B2AD	mil	# FA7X OO-LUM
+44C1E7	civ	# EXPL G-11
 		
 [Brazil]		
 E49174	mil	# E550 3601
@@ -103,6 +104,9 @@ E80617	civ	# A20N CC-AWX
 		
 [Colombia]		
 0AC3A8	mil	# B737 FAC0001
+		
+[Côte d'Ivoire]		
+038615	mil	# GLF5 TU-VAE
 		
 [Cyprus]		
 4C8080	mil	# A139 701
@@ -1102,6 +1106,7 @@ E880E8	mil	# C680 FAP3001
 154EE7	mil	# T154 RF-85735 
 154C8F	mil	# T154 RF-85135 
 14FA27	mil	# T204 RF-64039
+14FA27	civ	# T204 - need to find reg
 14FC11	mil	# T214 RA-64529
 14FC12	mil	# T214 RA-64530
 1485CD	mil	# MI8 RF-34253
@@ -1150,6 +1155,7 @@ E880E8	mil	# C680 FAP3001
 506E1E	mil	# Z42 S5-DGF 
 506F3A	civ	# TL30 S5-PGD
 506F11	civ	# ULAC S5-MBM
+506F97	civ	# DA50 5S-DUB
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA 
