@@ -121,6 +121,7 @@ E80602	civ	# A320 CC-AWB
 [Czech Republic]		
 498483	civ	# Z42 OK-ADC
 4984C4	civ	# -TWR Prague Airport
+4984D3	civ	# Z36 OK-AFS
 		
 [Denmark]		
 459902	mil	# BN2P OY-FHB
@@ -997,6 +998,7 @@ F10015	civ	#
 481045	mil	# NH90 N-175
 481043	mil	# NH90 N-110
 481041	mil	# NH90 N-088
+481044	mil	# NH90 N-164
 		
 [Niger]		
 062F05	mil	# C130 5U-MMS
@@ -1161,6 +1163,7 @@ E880E8	mil	# C680 FAP3001
 506F3A	civ	# TL30 S5-PGD
 506F11	civ	# ULAC S5-MBM
 506F97	civ	# DA50 5S-DUB
+506F8A	civ	# PIPA S5-MTB
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA 
@@ -1305,6 +1308,7 @@ A3B079	mil	# M28 12-0337/N337GU
 A60BA5	mil	# DH8C 17-01610 / N489SN
 AB333C	mil	# DH8B N8200J
 AB5AB9	mil	# DH8C N8300G
+2E1719	mil	# TEX2 166011 - miscoding
 		
 [Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
