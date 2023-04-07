@@ -681,6 +681,7 @@ E84834	mil	# FA7X FAE-052
 3C14AB	mil	# A319 15+01 (HFDL Hex)
 		
 [Guernsey]		
+43EF17	civ	# ???? 2-RUFF
 43EC52	civ	# ???? Registered to 2-MFIF but using C/S 2-UTMH
 43EEF9	civ	# ZZZZ 2-HBGK
 43EC4C	civ	# ZZZZ 2-VSLJ
