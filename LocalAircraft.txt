@@ -6,6 +6,7 @@ E200AE	mil	# B737 T-99
 E20094	mil	# C130 TC-66
 		
 [Australia]		
+7CADDC	civ	# PA46 VH-8MM
 7CADB7	civ	# B429 VH-8LL
 7FFFFF	civ	# Aussie Civ miscode
 7CBBF2	civ	# SONX 19-8776
@@ -694,6 +695,7 @@ E84834	mil	# FA7X FAE-052
 3C14AB	mil	# A319 15+01 (HFDL Hex)
 		
 [Guernsey]		
+43EEF2	civ	# B737 2-RJFA
 43EF17	civ	# ???? 2-RUFF
 43EC52	civ	# ???? Registered to 2-MFIF but using C/S 2-UTMH
 43EEF9	civ	# ZZZZ 2-HBGK
@@ -912,6 +914,7 @@ E84834	mil	# FA7X FAE-052
 		
 [Italy]		
 320040	mil	# AT76 MM62315
+33FDD0	mil	# AT76 MM62298
 33FE02	mil	# TOR MM7019
 33FE08	mil	# Tornado MM7053
 33FE09	mil	# Tornado MM7054
@@ -930,6 +933,7 @@ E84834	mil	# FA7X FAE-052
 33FD4B	mil	# A139 MM81989
 33FD3D	mil	# A139 MM82017
 33FD3F	mil	# A139 MM82013
+33FD3C	mil	# A139 MM82018
 33FE0B	mil	# D228 MM62156
 33FE1E	mil	# D228 MM62157
 33FE0F	mil	# P180 MM62161
@@ -1032,6 +1036,7 @@ A7CE16	mil	# AT8T 1585
 [Lithuania]		
 503FD5	mil	# MI8 26 Blue
 503FD8	mil	# MI8 28 Blue
+503FDA	mil	# AS65 41
 503FDB	mil	# AS65 42 Blue
 503FD7	mil	# MI8 21 White
 503FD0	mil	# L410 01 Blue
@@ -1639,6 +1644,7 @@ E880E8	mil	# C680 FAP3001
 48D981	mil	# B738 0112
 48DA80	mil	# W3 0915
 48DA84	mil	# W3 1016
+48DA8F	mil	# W3 0813
 48D960	mil	# G550 0001
 485849	mil	# C295 020 miscode for 48D849 shows up as Netherlands
 		
@@ -1910,6 +1916,7 @@ A60BA5	mil	# DH8C 17-01610 / N489SN
 AB333C	mil	# DH8B N8200J
 AB5AB9	mil	# DH8C N8300G
 2E1719	mil	# TEX2 166011 - miscoding
+AA690E	mil	# GLEX 11-9355
 		
 [Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
