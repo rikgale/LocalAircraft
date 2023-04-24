@@ -4,8 +4,10 @@ If civil aircraft are incorrectly flagged as Military in Virtual Radar Server an
 
 Please post additions as Issues.
 
-Fixes all the 2-REG a/c (Guernsey)
-Fixes all the Aussie Civ listed in the military block
+Fixes all the 2-REG a/c (Guernsey).
+
+Fixes all the Aussie Civ listed in the military block.
+
 MANY other individual aircraft.
 
 # Usage
