@@ -33,6 +33,7 @@ E20094,mil,# C130 TC-66
 7CBC4B,civ,# JAB4 19-3517
 7CC42E,civ,# EFOX 24-8828
 7CBC2C,civ,# JAB4 19-1738
+7CF483,civ,# ZZZZ some aussie ground vehicle
 7CA000,civ,# ZZZZ VH-
 7CA001,civ,# ZZZZ VH-
 7CA002,civ,# ZZZZ VH-
@@ -16557,6 +16558,7 @@ E84834,mil,# FA7X FAE-052
 39A847,civ,# SR20 F-HKCH
 39514F,mil,# G120 F-GUKP
 3AD1FF,civ,# ZGND ????
+3AC1FF,cvi,# ZGND BAL8
 ,,
 [Germany],,
 3E9150,civ,# SF25 D-FUKO 
