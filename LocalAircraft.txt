@@ -643,6 +643,7 @@ E80617	civ	# CC-AWX
 		
 [Colombia]		
 0AC3A8	mil	# B737 FAC0001
+0ACA78  mil     # B737 FAC1219
 		
 [Côte d'Ivoire]		
 038615	mil	# GLF5 TU-VAE
@@ -2603,7 +2604,8 @@ F99919	civ	#
 0D0A13	mil	# B738 3528
 0D08A7	mil	# B350 5209
 0D088C	mil	# GLF5 3910
-		
+0D07D5  mil     # GLF5 ANX-1201
+
 [Morocco]		
 020130	mil	# B748 CN-MBH
 0200EE	mil	# CL4T CN-ATN
@@ -2942,6 +2944,7 @@ AB333C	mil	# DH8B N8200J
 AB5AB9	mil	# DH8C N8300G
 2E1719	mil	# TEX2 166011 - miscoding
 AA690E	mil	# GLEX 11-9355
+080010  mil     # C560 98-00010 - miscoding
 		
 [Unknown or unassigned country]		
 43EE42	civ	# EA50 2-KISS
