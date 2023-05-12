@@ -6,6 +6,10 @@ E200AE,mil,# B737 T-99
 E20094,mil,# C130 TC-66
 ,,
 [Australia],,
+7CFC4D,civ,# R44 VH-FNF
+7CFC1A,civ,# GYRO G-1859
+7CF637,civ,# ZGND Perth Ground Vehicle
+7CF073,civ,# ZGND Sydney Ground Vehicle
 7CADDC,civ,# PA46 VH-8MM
 7CADB7,civ,# B429 VH-8LL
 7FFFFF,civ,# Aussie Civ miscode
@@ -16710,6 +16714,10 @@ E4001E,civ,# T210 ????
 E40183,civ,# E295 ???? 
 E40176,civ,# ZZZZ ???? 
 E40000,civ,# ZZZZ ???? Brazil civilian miscode
+E40173,civ,# ZZZZ ???? Unknown Embraer test a/c
+E40180,civ,# E295 ???? Test reg
+E40193,civ,# E295 ???? Test reg
+E40198,civ,# E295 ???? Test reg
 ,,
 [Bulgaria],,
 454544,mil,# EH10 ZH???? Mis-coding EH101
@@ -18195,6 +18203,7 @@ A7CE16,mil,# AT8T 1585
 503FD8,mil,# MI8 28 Blue
 503FDA,mil,# AS65 41
 503FDB,mil,# AS65 42 Blue
+503FDC,mil,# AS65 43 Blue
 503FD7,mil,# MI8 21 White
 503FD0,mil,# L410 01 Blue
 ,,
@@ -18937,6 +18946,9 @@ E880E8,mil,# C680 FAP3001
 506F9B,civ,# SITA 5S-DUA
 506F9C,civ,# DA40 5S-DUO
 506F98,civ,# PIVI 5S-DVS
+506F20,civ,# PIPA S5-PII03
+506F86,civ,# PIPA S5-PII05
+506F34,civ,# PIPA S5-PII07
 ,,
 [South Africa],,
 00AEC9,mil,# B737 ZS-RSA 
@@ -18979,6 +18991,7 @@ E880E8,mil,# C680 FAP3001
 71F8AC,mil,# ???? ????
 71F8B8,mil,# ???? ????
 71F857,mil,# ???? ????
+71F879,mil,# ???? ????
 71F001,mil,# P3 950901
 71F002,mil,# P3 950902 
 71F003,mil,# P3 950903 
