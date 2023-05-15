@@ -6,6 +6,8 @@ E200AE	mil	# B737 T-99
 E20094	mil	# C130 TC-66
 		
 [Australia]		
+7CFC1E	civ	# EL10 G-5070
+7D000E	civ	# MM24 G-1384
 7CFC4D	civ	# R44 VH-FNF
 7CFC1A	civ	# GYRO G-1859
 7CF637	civ	# ZGND Perth Ground Vehicle
@@ -16718,6 +16720,7 @@ E40173	civ	# ZZZZ ???? Unknown Embraer test a/c
 E40180	civ	# E295 ???? Test reg
 E40193	civ	# E295 ???? Test reg
 E40198	civ	# E295 ???? Test reg
+E40171	civ	# ???? ???? Unknown Embraer test a/c
 		
 [Bulgaria]		
 454544	mil	# EH10 ZH???? Mis-coding EH101
@@ -16833,6 +16836,7 @@ E84834	mil	# FA7X FAE-052
 3C14AB	mil	# A319 15+01 (HFDL Hex)
 		
 [Guernsey]		
+43EF13	civ	# A320 2-PLTA
 43EAFE	civ	# ZZZZ 2-????
 43EAFF	civ	# ZZZZ 2-????
 43EB00	civ	# ZZZZ 2-????
@@ -18947,8 +18951,10 @@ E880E8	mil	# C680 FAP3001
 506F9C	civ	# DA40 5S-DUO
 506F98	civ	# PIVI 5S-DVS
 506F20	civ	# PIPA S5-PII03
+506F85	civ	# ???? S5-PII04
 506F86	civ	# PIPA S5-PII05
 506F34	civ	# PIPA S5-PII07
+		
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA 
