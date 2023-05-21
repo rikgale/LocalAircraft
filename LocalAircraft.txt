@@ -17348,6 +17348,7 @@ E84834	mil	# FA7X FAE-052
 [Germany]		
 3E9150	civ	# SF25 D-FUKO 
 3E810F	civ	# SF25 D-KOBN 
+3E838C	civ	# DIMO D-KPAA
 3C14AB	mil	# A319 15+01 (HFDL Hex)
 		
 [Guernsey]		
