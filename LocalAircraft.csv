@@ -6,6 +6,11 @@ E200AE,mil,# B737 T-99
 E20094,mil,# C130 TC-66
 ,,
 [Australia],,
+7CF636,civ,# ZGND ????
+7CF666,civ,# ZGND ????
+7CF657,civ,# ZGND ????
+7CF63D,civ,# ZGND ????
+7D0011,civ,# MM24 G-1841
 7CFC1E,civ,# EL10 G-5070
 7D000E,civ,# MM24 G-1384
 7CFC4D,civ,# R44 VH-FNF
@@ -17192,8 +17197,6 @@ E20094,mil,# C130 TC-66
 7C00FD,civ,# ZZZZ VH-
 7C00FE,civ,# ZZZZ VH-
 7C00FF,civ,# ZZZZ VH-
-
-
 ,,
 [Austria],,
 447AC2,civ,# TWR/RDR ???
@@ -17231,9 +17234,11 @@ E494A2,mil,# E390 2854
 E494A3,mil,# E390 2855
 E494A4,mil,# E390 2856
 E494A5,mil,# E390 2857
-E49925,mil,# TUCO 1383
-E49928,mil,# TUCO 1312
+E49925,mil,# TUCA 1383
+E49928,mil,# TUCA 1312
 E49949,mil,# TUCA 1357 
+E49924,mil,# TUCA 1426
+E49933,mil,# TUCA 1416
 E4018F,civ,# E550 PR-GFJ
 E4920F,mil,# E390 PT-ZNG
 E4001E,civ,# T210 ????
@@ -17247,6 +17252,8 @@ E40198,civ,# E295 ???? Test reg
 E40171,civ,# ZZZZ ???? Unknown Embraer test a/c
 E4019D,civ,# ZZZZ ???? EMB Test Flt
 E4019E,civ,# ZZZZ ???? Embraer 
+E401A1,civ,# ZZZZ ???? Embraer Test Flt Brazil
+
 ,,
 [Bulgaria],,
 454544,mil,# EH10 ZH???? Mis-coding EH101
@@ -17365,6 +17372,7 @@ E84834,mil,# FA7X FAE-052
 3E9150,civ,# SF25 D-FUKO 
 3E810F,civ,# SF25 D-KOBN 
 3E838C,civ,# DIMO D-KPAA
+3DD2F3,mil,# EC45 D-HADF
 3C14AB,mil,# A319 15+01 (HFDL Hex)
 ,,
 [Guernsey],,
@@ -18848,6 +18856,9 @@ E84834,mil,# FA7X FAE-052
 407AF8,civ,# AT76 2-MFIF
 43EDAA,civ,# A332 2-CJIM
 ,,
+[Honduras],,
+0BA000,mil,# C208 FAH020
+,,
 [Ireland],,
 4CA44B,mil,# IRL PC12 280 
 4CA41C,mil,# IRL PC12 281 
@@ -18862,6 +18873,7 @@ E84834,mil,# FA7X FAE-052
 800333,mil,# C30J KC-3802
 800332,mil,# C30J KC-3801
 800310,mil,# P8 IN324
+800E8A,mil,# P8 IN329
 ,,
 [Indonesia],,
 8A0134,mil,# KT1 LL-0112
@@ -19004,6 +19016,7 @@ A7CE16,mil,# AT8T 1585
 503FDC,mil,# AS65 43 Blue
 503FD7,mil,# MI8 21 White
 503FD0,mil,# L410 01 Blue
+503FD9,mil,# L410 02 BLUE
 ,,
 [Lebanon],,
 748713,mil,# E314 L-713
@@ -19552,6 +19565,12 @@ F99919,civ,#
 0D0962,mil,# B350 5214
 0D0BF8,mil,# CN35 PF511
 0D082E,mil,# C130 FAM3611
+0D0895,mil,# B350 ANX-1210
+0D0BF4,mil,# EC20 GN-307
+0D0872,mil,# CL60 3911
+0D09E7,mil,# B738 3527
+0D0AB0,mil,# B350 3973
+0D0BF3,mil,# EC20 GN-322
 ,,
 [Morocco],,
 020130,mil,# B748 CN-MBH
@@ -19578,6 +19597,7 @@ F99919,civ,#
 481041,mil,# NH90 N-088
 481044,mil,# NH90 N-164
 48104C,mil,# NH90
+48104D,mil,# NH90 N-316
 ,,
 [Niger],,
 062F05,mil,# C130 5U-MMS
@@ -19641,6 +19661,7 @@ E880E8,mil,# C680 FAP3001
 48DA80,mil,# W3 0915
 48DA84,mil,# W3 1016
 48DA8F,mil,# W3 0813
+48C212,mil,# W3 0701
 48D960,mil,# G550 0001
 485849,mil,# C295 020 miscode for 48D849 shows up as Netherlands
 400000,civ,# B06 SN-16XP miscoding Polish Police Heli
@@ -19791,6 +19812,7 @@ E880E8,mil,# C680 FAP3001
 506F34,civ,# PIPA S5-PII07
 506F35,civ,# ZZZZ S5-PII08
 506F02,civ,# AS25 S5-KAM
+506FA0,civ,# ZZZZ 5S-MTV
 ,,
 [South Africa],,
 00AEC9,mil,# B737 ZS-RSA 
@@ -19847,6 +19869,7 @@ E880E8,mil,# C680 FAP3001
 ,,
 [Spain],,
 341390,mil,# F900 T.18-1
+341391,mil,# F900 T.18-2
 3432CD,mil,# CN35 T.19B-21
 3425CB,civ,# EC-KBS P68
 345678,civ,# AJET AT-18
@@ -19869,6 +19892,8 @@ E880E8,mil,# C680 FAP3001
 881BC6,mil,# DA40 B.F21-8/63
 881BD2,mil,# CT4 B.F16-17/47
 880409,mil,# A139 41522
+883B86,mil,# D228 1114
+880404,mil,# C295 16150
 ,,
 [Tunisia],,
 02B26A,mil,# C30J Z21121
