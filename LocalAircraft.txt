@@ -6,6 +6,7 @@ E200AE	mil	# B737 T-99
 E20094	mil	# C130 TC-66
 		
 [Australia]		
+7D0017	civ	# JAB4 55-1846
 7CF636	civ	# ZGND ????
 7CF666	civ	# ZGND ????
 7CF657	civ	# ZGND ????
@@ -17239,6 +17240,7 @@ E49928	mil	# TUCA 1312
 E49949	mil	# TUCA 1357 
 E49924	mil	# TUCA 1426
 E49933	mil	# TUCA 1416
+E44926	mil	# TUCA 1439
 E4018F	civ	# E550 PR-GFJ
 E4920F	mil	# E390 PT-ZNG
 E4001E	civ	# T210 ????
@@ -17333,7 +17335,7 @@ E80921	mil	# B350 FAC5733
 [Czech Republic]		
 498483	civ	# Z42 OK-ADC
 4984C4	civ	# -TWR Prague Airport
-4984D3	civ	# Z36 OK-AFS
+4984D3	mil	# EN48 0516S
 		
 [Denmark]		
 459902	mil	# BN2P OY-FHB
@@ -19580,6 +19582,8 @@ F99919	civ	#
 020131	mil	# B350 CN-TMS
 020061	mil	# CN35 CN-AME 
 021040	mil	# C130 CN-AOR
+02010A	mil	# CL2T CN-ATQ
+020035	mil	# C130 CN-AOE
 		
 [Malaysia]		
 75026D	mil	# A320 9M-NAB
