@@ -17219,6 +17219,8 @@ E20008,mil,# C130 TC-64
 702C09,mil,# L410 S3-AVA 
 702C2C,mil,# C30J S3-AGG 
 702C6A,mil,# MI8 414
+702C0B,mil,# L410 S3-AVC
+702C68,mil,# MI8 219
 ,,
 [Belgium],,
 449825,mil,# FA7X OO-FAE 
@@ -17258,8 +17260,16 @@ E40198,civ,# E295 ???? Test reg
 E40171,civ,# ZZZZ ???? Unknown Embraer test a/c
 E4019D,civ,# ZZZZ ???? EMB Test Flt
 E4019E,civ,# ZZZZ ???? Embraer 
-E401A1,civ,# ZZZZ ???? Embraer Test Flt Brazil
-
+E401A1,civ,# ZZZZ ???? Embraer Test Flt
+E4017C,civ,# ZZZZ PR-EBV
+E40184,civ,# ZZZZ PR-GDQ
+E4017F,civ,# E295 ????
+E4017A,civ,# ZZZZ ????
+E40177,civ,# E550 PR-LHI
+E4018B,civ,# E550 PR-LHD
+E49936.mil,# TUCA 1372
+E49929,mil,# TUCA 1441
+E49923,mil,# TUCA 1446
 ,,
 [Bulgaria],,
 454544,mil,# EH10 ZH???? Mis-coding EH101
@@ -17380,6 +17390,7 @@ E84834,mil,# FA7X FAE-052
 39514F,mil,# G120 F-GUKP
 3AD1FF,civ,# ZGND ????
 3AC1FF,civ,# ZGND BAL8
+3BFFFF,civ,# ZGND ????
 ,,
 [Germany],,
 3E9150,civ,# SF25 D-FUKO 
@@ -17387,6 +17398,7 @@ E84834,mil,# FA7X FAE-052
 3E838C,civ,# DIMO D-KPAA
 3DD2F3,mil,# EC45 D-HADF
 3C14AB,mil,# A319 15+01 (HFDL Hex)
+366241,civ,# C365 D-FEKW - miscoding as spanish
 ,,
 [Guernsey],,
 43EF13,civ,# A320 2-PLTA
@@ -19672,6 +19684,7 @@ E880E8,mil,# C680 FAP3001
 7586FA,mil,# C295 204
 7586F4,mil,# C172 NVT350
 7585D4,mil,# C172
+758736,mil,# C210 227
 ,,
 [Poland],,
 48D900,mil,# PZ3T 029
