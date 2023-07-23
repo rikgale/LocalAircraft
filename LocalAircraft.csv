@@ -19903,6 +19903,7 @@ E880E8,mil,# C680 FAP3001
 506FA0,civ,# ZZZZ 5S-MTV
 506F96,civ,# C172 S5-DIV
 506F9D,civ,# YK52 P5-DON
+506FA1,civ,# FAET S5-PGE
 ,,
 [South Africa],,
 00AEC9,mil,# B737 ZS-RSA 
@@ -20071,6 +20072,7 @@ AB5AB9,mil,# DH8C N8300G
 AA690E,mil,# GLEX 11-9355
 080010,mil,# C560 98-00010 - miscoding
 A77AE7,mil,# PC12 N581PC/08-0581
+03E35F,mil,# F5 ???? miscoding
 ,,
 [Unknown or unassigned country],,
 43EE42,civ,# EA50 2-KISS
