@@ -25140,6 +25140,7 @@ E20008	mil	# C130 TC-64
 [Austria]		
 447AC2	civ	# TWR/RDR ???
 445566	civ	# -GND
+445555	civ	# ???? Various Miscode
 		
 [Azerbaijan]		
 600881	mil	# IL76 4K-78131
@@ -25157,6 +25158,7 @@ E20008	mil	# C130 TC-64
 702C6A	mil	# MI8 414
 702C0B	mil	# L410 S3-AVC
 702C68	mil	# MI8 219
+702C26	mil	# C30J S3-AGF
 		
 [Belgium]		
 449825	mil	# FA7X OO-FAE 
@@ -25206,6 +25208,9 @@ E4018B	civ	# E550 PR-LHD
 E49936	mil	# TUCA 1372
 E49929	mil	# TUCA 1441
 E49923	mil	# TUCA 1446
+E401B1	civ	# ZZZZ ????
+E4017D	civ	# E295 PR-???
+E40197	civ	# ZZZZ Unknown
 		
 [Bulgaria]		
 454544	mil	# EH10 ZH???? Mis-coding EH101
@@ -25233,6 +25238,7 @@ E80614	civ	# CC-AWU
 E80615	civ	# CC-AWV
 E80616	civ	# CC-AWW
 E80617	civ	# CC-AWX
+E80618	civ	# A21N CC-AWY
 		
 [China]		
 79A666	mil	# EC25 B-4073 
@@ -25328,6 +25334,7 @@ E84834	mil	# FA7X FAE-052
 3AD1FF	civ	# ZGND ????
 3AC1FF	civ	# ZGND BAL8
 3BFFFF	civ	# ZGND ????
+3998ED	mil	# AS65 F-HGHN
 		
 [Germany]		
 3E9150	civ	# SF25 D-FUKO 
@@ -26840,6 +26847,7 @@ E84834	mil	# FA7X FAE-052
 800332	mil	# C30J KC-3801
 800310	mil	# P8 IN324
 800E8A	mil	# P8 IN329
+8003E5	mil	# A321 CA-7082
 		
 [Indonesia]		
 8A0134	mil	# KT1 LL-0112
@@ -26926,6 +26934,7 @@ E84834	mil	# FA7X FAE-052
 87C832	mil	# P1 5512
 87C835	mil	# P1 5513
 87C847	mil	# P1 5524
+87C848	mil	# P1 5525
 87C84A	mil	# P1 5527
 87C84B	mil	# P1 5528
 87C84D	mil	# P1 5530
@@ -26941,6 +26950,7 @@ E84834	mil	# FA7X FAE-052
 87CC21	mil	# C130 85-1080
 87CC25	mil	# C130 05-1084
 87CC1F	mil	# C130 75-1078
+87CC1E	mil	# C130 75-1077
 87C828	mil	# C130 9051
 87CC31	mil	# KC2 68-1204
 87CC32	mil	# KC2 78-1205
@@ -26977,6 +26987,7 @@ E84834	mil	# FA7X FAE-052
 74368C	mil	# CL60 RJAF-300
 A7C9DC	mil	# AT8T 2280/1580
 A7CA7F	mil	# AT8T 2282/1584
+7436AC	mil	# AT8T RJ2551
 74359A	mil	# AT8T 2560
 A7CE16	mil	# AT8T 1585
 1E3D0A	mil	# C130 358
@@ -27552,6 +27563,38 @@ F99920	civ	#
 F99921	civ	# 
 F99922	civ	#
 F99923	civ	#
+F0B937	civ	# 
+F0B938	civ	# 
+F0D876	civ	# 
+F0D877	civ	# 
+F0D878	civ	# 
+F0D879	civ	# 
+F0D880	civ	# 
+F99919	civ	# 
+F99920	civ	# 
+F99921	civ	# 
+F99922	civ	# 
+F99923	civ	# 
+F99970	civ	# 
+F99971	civ	# 
+F99972	civ	# 
+F99973	civ	# 
+F99974	civ	# 
+F99975	civ	# 
+F99976	civ	# 
+F99977	civ	# 
+F99978	civ	# 
+F99979	civ	# 
+F99980	civ	# 
+F99981	civ	# 
+F99982	civ	# 
+F99983	civ	# 
+F99984	civ	# 
+F99985	civ	# 
+F99986	civ	#
+F99987	civ	# 
+F99988	civ	# 
+F99989	civ	# 
 		
 [Mexico]		
 0D05AF	mil	# C295 3202 
@@ -27665,6 +27708,7 @@ E880E8	mil	# C680 FAP3001
 48D90D	mil	# PZ3T 049
 48D913	mil	# PZ3T 022
 48D90B	mil	# PZ3T 047
+48D90C	mil	# PZ3T 048
 48D921	mil	# PZ3T ????
 48D961	mil	# GLF5 0002
 48D980	mil	# B738 0110
@@ -27840,14 +27884,20 @@ E880E8	mil	# C680 FAP3001
 506F96	civ	# C172 S5-DIV
 506F9D	civ	# YK52 P5-DON
 506FA1	civ	# FAET S5-PGE
+506F87	civ	# ONE S5-MMY
+506F88	civ	# ZZZZ ????
+506F94	civ	# VL3 S5-MBM
+506FA4	civ	# PIPA S5-MTF
 		
 [South Africa]		
-00AEC9	mil	# B737 ZS-RSA 
+00AEC9	mil	# B737 ZS-RSA
+00B89B	mil	# C130 409
 		
 [South Korea]		
 71FC02	mil	# E737 65-327
 71FC05	mil	# E737 65-330
 71FC04	mil	# E737 65-329
+71FC03	mil	# E737 65-328
 71FC22	mil	# E7? ????
 71FC72	mil	# E7? ????
 71FBF3	mil	# E7? ????
@@ -27945,6 +27995,7 @@ E880E8	mil	# C680 FAP3001
 00125D	mil	# TB2 
 0010B7	mil	# TB2
 001073	mil	# TB2
+4B83A9	mil	# TB2 S52
 		
 [Ukraine]		
 50FFB6	mil	# AN26 01 BLUE
@@ -27974,6 +28025,8 @@ E880E8	mil	# C680 FAP3001
 43EECA	civ	# B738 United Kingdom - using old box code for 2-ASKY B738 -> 5V-TTV
 400ED0	civ	# G115 G-BYUL
 400006	civ	# ZTWR
+ADF9DC	civ	# ZGND ????
+ADF9DD	civ	# ZGND ????
 		
 [United Arab Emirates]		
 896C40	mil	# C17 1230
@@ -27986,6 +28039,7 @@ A1B361	mil	# AT8T 2202
 A1B22E	mil	# AT8T 2295
 896C5C	mil	# C130 1214
 896C44	mil	# C295 823
+896C52	mil	# A139 2012
 		
 [United States]		
 A79B15	mil	# DHC7 N59AG
