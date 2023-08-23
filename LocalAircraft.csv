@@ -25334,6 +25334,7 @@ E84834,mil,# FA7X FAE-052
 3AD1FF,civ,# ZGND ????
 3AC1FF,civ,# ZGND BAL8
 3BFFFF,civ,# ZGND ????
+3998ED,mil,# AS65 F-HGHN
 ,,
 [Germany],,
 3E9150,civ,# SF25 D-FUKO 
@@ -26933,6 +26934,7 @@ E84834,mil,# FA7X FAE-052
 87C832,mil,# P1 5512
 87C835,mil,# P1 5513
 87C847,mil,# P1 5524
+87C848,mil,# P1 5525
 87C84A,mil,# P1 5527
 87C84B,mil,# P1 5528
 87C84D,mil,# P1 5530
@@ -26948,6 +26950,7 @@ E84834,mil,# FA7X FAE-052
 87CC21,mil,# C130 85-1080
 87CC25,mil,# C130 05-1084
 87CC1F,mil,# C130 75-1078
+87CC1E,mil,# C130 75-1077
 87C828,mil,# C130 9051
 87CC31,mil,# KC2 68-1204
 87CC32,mil,# KC2 78-1205
@@ -26984,6 +26987,7 @@ E84834,mil,# FA7X FAE-052
 74368C,mil,# CL60 RJAF-300
 A7C9DC,mil,# AT8T 2280/1580
 A7CA7F,mil,# AT8T 2282/1584
+7436AC,mil,# AT8T RJ2551
 74359A,mil,# AT8T 2560
 A7CE16,mil,# AT8T 1585
 1E3D0A,mil,# C130 358
@@ -27559,6 +27563,38 @@ F99920,civ,#
 F99921,civ,# 
 F99922,civ,#
 F99923,civ,#
+F0B937,civ,# 
+F0B938,civ,# 
+F0D876,civ,# 
+F0D877,civ,# 
+F0D878,civ,# 
+F0D879,civ,# 
+F0D880,civ,# 
+F99919,civ,# 
+F99920,civ,# 
+F99921,civ,# 
+F99922,civ,# 
+F99923,civ,# 
+F99970,civ,# 
+F99971,civ,# 
+F99972,civ,# 
+F99973,civ,# 
+F99974,civ,# 
+F99975,civ,# 
+F99976,civ,# 
+F99977,civ,# 
+F99978,civ,# 
+F99979,civ,# 
+F99980,civ,# 
+F99981,civ,# 
+F99982,civ,# 
+F99983,civ,# 
+F99984,civ,# 
+F99985,civ,# 
+F99986,civ,#
+F99987,civ,# 
+F99988,civ,# 
+F99989,civ,# 
 ,,
 [Mexico],,
 0D05AF,mil,# C295 3202 
@@ -27672,6 +27708,7 @@ E880E8,mil,# C680 FAP3001
 48D90D,mil,# PZ3T 049
 48D913,mil,# PZ3T 022
 48D90B,mil,# PZ3T 047
+48D90C,mil,# PZ3T 048
 48D921,mil,# PZ3T ????
 48D961,mil,# GLF5 0002
 48D980,mil,# B738 0110
@@ -27853,12 +27890,14 @@ E880E8,mil,# C680 FAP3001
 506FA4,civ,# PIPA S5-MTF
 ,,
 [South Africa],,
-00AEC9,mil,# B737 ZS-RSA 
+00AEC9,mil,# B737 ZS-RSA
+00B89B,mil,# C130 409
 ,,
 [South Korea],,
 71FC02,mil,# E737 65-327
 71FC05,mil,# E737 65-330
 71FC04,mil,# E737 65-329
+71FC03,mil,# E737 65-328
 71FC22,mil,# E7? ????
 71FC72,mil,# E7? ????
 71FBF3,mil,# E7? ????
@@ -27956,6 +27995,7 @@ E880E8,mil,# C680 FAP3001
 00125D,mil,# TB2 
 0010B7,mil,# TB2
 001073,mil,# TB2
+4B83A9,mil,# TB2 S52
 ,,
 [Ukraine],,
 50FFB6,mil,# AN26 01 BLUE
@@ -27999,6 +28039,7 @@ A1B361,mil,# AT8T 2202
 A1B22E,mil,# AT8T 2295
 896C5C,mil,# C130 1214
 896C44,mil,# C295 823
+896C52,mil,# A139 2012
 ,,
 [United States],,
 A79B15,mil,# DHC7 N59AG
