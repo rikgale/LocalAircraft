@@ -25140,6 +25140,7 @@ E20008,mil,# C130 TC-64
 [Austria],,
 447AC2,civ,# TWR/RDR ???
 445566,civ,# -GND
+445555,civ,# ???? Various Miscode
 ,,
 [Azerbaijan],,
 600881,mil,# IL76 4K-78131
@@ -25157,6 +25158,7 @@ E20008,mil,# C130 TC-64
 702C6A,mil,# MI8 414
 702C0B,mil,# L410 S3-AVC
 702C68,mil,# MI8 219
+702C26,mil,# C30J S3-AGF
 ,,
 [Belgium],,
 449825,mil,# FA7X OO-FAE 
@@ -25206,6 +25208,9 @@ E4018B,civ,# E550 PR-LHD
 E49936,mil,# TUCA 1372
 E49929,mil,# TUCA 1441
 E49923,mil,# TUCA 1446
+E401B1,civ,# ZZZZ ????
+E4017D,civ,# E295 PR-???
+E40197,civ,# ZZZZ Unknown
 ,,
 [Bulgaria],,
 454544,mil,# EH10 ZH???? Mis-coding EH101
@@ -25233,6 +25238,7 @@ E80614,civ,# CC-AWU
 E80615,civ,# CC-AWV
 E80616,civ,# CC-AWW
 E80617,civ,# CC-AWX
+E80618,civ,# A21N CC-AWY
 ,,
 [China],,
 79A666,mil,# EC25 B-4073 
@@ -26840,6 +26846,7 @@ E84834,mil,# FA7X FAE-052
 800332,mil,# C30J KC-3801
 800310,mil,# P8 IN324
 800E8A,mil,# P8 IN329
+8003E5,mil,# A321 CA-7082
 ,,
 [Indonesia],,
 8A0134,mil,# KT1 LL-0112
@@ -27840,6 +27847,10 @@ E880E8,mil,# C680 FAP3001
 506F96,civ,# C172 S5-DIV
 506F9D,civ,# YK52 P5-DON
 506FA1,civ,# FAET S5-PGE
+506F87,civ,# ONE S5-MMY
+506F88,civ,# ZZZZ ????
+506F94,civ,# VL3 S5-MBM
+506FA4,civ,# PIPA S5-MTF
 ,,
 [South Africa],,
 00AEC9,mil,# B737 ZS-RSA 
@@ -27974,6 +27985,8 @@ E880E8,mil,# C680 FAP3001
 43EECA,civ,# B738 United Kingdom - using old box code for 2-ASKY B738 -> 5V-TTV
 400ED0,civ,# G115 G-BYUL
 400006,civ,# ZTWR
+ADF9DC,civ,# ZGND ????
+ADF9DD,civ,# ZGND ????
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230
