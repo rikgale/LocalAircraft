@@ -23599,6 +23599,7 @@ E88101,mil,# C280 0253
 00B896,mil,# C130 405
 00B89B,mil,# C130 409
 00856B,mil,# FA50 ZS-CAS
+378910,civ,# C172 ZS-SVH
 ,,
 [South Korea],,
 71FC02,mil,# E737 65-327
@@ -23797,8 +23798,7 @@ A546A3,mil,# SF34 70206
 43EECA,civ,# B738 United Kingdom - using old box code for 2-ASKY B738 -> 5V-TTV
 400ED0,civ,# G115 G-BYUL
 400006,civ,# ZTWR
-ADF9DC,civ,# ZGND ????
-ADF9DD,civ,# ZGND ????
+400008,civ,# ZTWR Heathrow
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230
@@ -23842,6 +23842,7 @@ A3B079,mil,# M28 12-0337/N337GU
 A60BA5,mil,# DH8C 17-01610 / N489SN
 AB333C,mil,# DH8B N8200J
 AB5AB9,mil,# DH8C N8300G
+ADC21E,mil,# DH8D N986HA
 2E1719,mil,# TEX2 166011 - miscoding
 AA690E,mil,# GLEX 11-9355
 A7855B,mil,# GLF5 N584GA
