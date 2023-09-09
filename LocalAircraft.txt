@@ -23,6 +23,8 @@ E20008	mil	# C130 TC-64
 7CFC1E	civ	# EL10 G-5070
 7D000E	civ	# MM24 G-1384
 7D0010	civ	# ???? G-1995
+7D008B	civ	# ???? G-6812
+7D007C	civ	# ???? G-6965
 7CFC4D	civ	# R44 VH-FNF
 7CFC1A	civ	# GYRO G-1859
 7CF637	civ	# ZGND Perth Ground Vehicle
@@ -20713,12 +20715,14 @@ E40173	civ	# ZZZZ ???? Unknown Embraer test a/c
 E40180	civ	# E295 ???? Test reg
 E40193	civ	# E295 ???? Test reg
 E40198	civ	# E295 ???? Test reg
+E4018C	civ	# ZZZZ ???? Unknown Embraer test a/c
 E40171	civ	# ZZZZ ???? Unknown Embraer test a/c
 E4019D	civ	# ZZZZ ???? EMB Test Flt
 E4019E	civ	# ZZZZ ???? Embraer 
 E401A1	civ	# ZZZZ ???? Embraer Test Flt
 E4017C	civ	# ZZZZ PR-EBV
 E40184	civ	# ZZZZ PR-GDQ
+E40192	civ	# ZZZZ ????
 E4017F	civ	# E295 ????
 E4017A	civ	# ZZZZ ????
 E40177	civ	# E550 PR-LHI
@@ -20935,6 +20939,7 @@ E84834	mil	# FA7X FAE-052
 3DF5C1	mil	# EC45 D-HNHX
 3C14AB	mil	# A319 15+01 (HFDL Hex)
 366241	civ	# C365 D-FEKW - miscoding as spanish
+37F671	civ	# ZZZZ D-MBMC
 		
 [Guatemala]		
 0B4114	mil	# C208 360
@@ -23434,6 +23439,7 @@ E88101	mil	# C280 0253
 400000	civ	# B06 SN-16XP miscoding Polish Police Heli
 48D90F	mil	# PZ3T 051 
 48AD07	mil	# E75L SP-LIH
+480000	civ	# AP22 SP-SABT
 		
 [Portugal]		
 497024	mil	# UAV E512
@@ -23562,6 +23568,7 @@ E88101	mil	# C280 0253
 		
 [San Marino]		
 5002CB	mil	# B739 T7-RDC San Marino for DRC AF
+AFFD1C	civ	# F900 T7-ESPRT
 		
 [Saudi Arabia]		
 710022	mil	# G450 HZ-MS4C
@@ -23646,6 +23653,9 @@ E88101	mil	# C280 0253
 506F94	civ	# VL3 S5-MBM
 506FA4	civ	# PIPA S5-MTF
 506F93	civ	# LK17 S5-3111
+506F9A	civ	# C152 S5-DLD
+506F3B	civ	# WT9 S5-PGP
+506F05	civ	# GLID S5-3069
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA
