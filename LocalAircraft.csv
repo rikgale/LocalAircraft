@@ -12,6 +12,7 @@ E20094,mil,# C130 TC-66
 E20008,mil,# C130 TC-64
 ,,
 [Australia],,
+7D0031,civ,# CLON G2563
 7D0013,civ,# GYRO G-5150
 7CF3D1,civ,# ZGND ????
 7D0017,civ,# JAB4 55-1846
@@ -23656,6 +23657,7 @@ AFFD1C,civ,# F900 T7-ESPRT
 506F9A,civ,# C152 S5-DLD
 506F3B,civ,# WT9 S5-PGP
 506F05,civ,# GLID S5-3069
+506F7E,civ,# ZZZZ ???? could be a DRON
 ,,
 [South Africa],,
 00AEC9,mil,# B737 ZS-RSA
