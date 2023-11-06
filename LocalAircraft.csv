@@ -24219,7 +24219,8 @@ AA7EF2,mil,# C172 N7757L
 AAAD55,mil,# C172 N7873N
 AD5CAA,mil,# H60 11-20351
 A5A95B,mil,# B763 N464KC / 11-46002
-ADF9DC,civ,# ZGND Unknown Ground
+ADF9DC,civ,# ZGND ???? Some random ground thing outside Newark Airport
+ADF9DD,civ,# ZGND ???? Some random ground thing outside Newark Airport
 A01398,mil,# EC45 N104AH
 A05AE1,mil,# B350 N1218H
 A2172E,mil,# BE20 80-23380
@@ -24236,6 +24237,7 @@ A90049,mil,# B06 N67952
 A65127,mil,# CN35 96-6044 / N506KM
 ADEDBE,mil,# DH8B N997MG
 AB191B,mil,# H60 N814KB
+ADF9DD,civ,# ZGND ???? Some random ground thing outside Newark Airport
 ,,
 [Unknown or unassigned country],,
 43EE42,civ,# EA50 2-KISS
