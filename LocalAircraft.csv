@@ -22,7 +22,12 @@ E20008,mil,# C130 TC-64
 [Australia],,
 7D0031,civ,# CLON G2563
 7D0013,civ,# GYRO G-5150
+7D0032,civ,# ZZZZ ????
+7D002E,civ,# ZZZZ ????
+7D0891,civ,# LNC2 VH-TMR
+7D007A,civ,# ZZZZ ????
 7CF3D1,civ,# ZGND ????
+7D0024,civ,# ZZZZ G-1825
 7D0017,civ,# JAB4 55-1846
 7CF636,civ,# ZGND ????
 7CF666,civ,# ZGND ????
