@@ -24553,6 +24553,10 @@ A583B7	mil	# B412 HS-CPV
 400ED0	civ	# G115 G-BYUL
 400006	civ	# ZTWR
 400008	civ	# ZTWR Heathrow
+40003E	civ	# ZTWR Heathrow
+400025	civ	# ZTWR Heathrow
+40001C	civ	# ZTWR Heathrow
+40000B	civ	# ZTWR Heathrow
 F6155F	mil	# EH10 Z862? - miscoding
 		
 [United Arab Emirates]		
