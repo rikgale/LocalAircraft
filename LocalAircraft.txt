@@ -20868,6 +20868,9 @@ E20048	mil	# C208 AE-228
 447C4C	civ	# ZGND  Vienna Airport
 447CA2	civ	# ZGND  Vienna Airport
 447C3A	civ	# ZGND  Vienna Airport
+447C20	civ	# ZGND  Vienna Airport
+447C5C	civ	# ZGND  Vienna Airport
+447C36	civ	# ZGND  Vienna Airport
 		
 [Azerbaijan]		
 600881	mil	# IL76 4K-78131
@@ -21051,6 +21054,7 @@ E8061F	civ	# A21N CC-DIB
 E80620	civ	# A21N CC-DIC
 E80621	civ	# A20N CC-DID
 E8061A	civ	# A21N CC-DIE
+E8061C	civ	# A20N CC-DIG
 E8061D	civ	# A20N CC-DIH
 E80619	civ	# CC-AWZ
 48DF04	mil	# H60 H-03
@@ -23167,6 +23171,9 @@ A7CE16	mil	# AT8T 1585
 502FA6	mil	# H60 106
 502FAF	mil	# H60 108
 		
+[Libya]		
+01801C	mil	# AN72 5A-CAA
+		
 [Lithuania]		
 503FD5	mil	# MI8 26 Blue
 503FD8	mil	# MI8 28 Blue
@@ -23789,6 +23796,8 @@ F0B942	civ	#
 F0D883	civ	#
 F0D884	civ	#
 F0D885	civ	#
+F0B943	civ	#
+F0D886	civ	#
 		
 [Mexico]		
 0D05AE	mil	# C295 3201
@@ -24073,6 +24082,7 @@ E88D54	mil	# AS50 H-502
 06A219	mil	# EUFI ZR517
 06A21A	mil	# EUFI ZR518
 06A21B	mil	# EUFI ZR519
+06A21C	mil	# EUFI ZR520
 06A28A	mil	# PC24 QA397
 06A27A	mil	# C17 MAM
 06A27B	mil	# C17 MAN
@@ -24470,6 +24480,10 @@ AFFD1C	civ	# F900 T7-ESPRT
 4A8201	mil	# SB39 39276
 4AECBB	mil	# G120 40200
 4AECB9	mil	# G120 40198
+4AECBD	mil	# G120 40205
+4AECBE	mil	# G120 40206
+4AECBF	mil	# G120 40207
+4AECC0	mil	# G120 40208
 		
 [Switzerland]		
 4B1FA7	mil	# DA42 HB-LZR
@@ -24671,6 +24685,7 @@ A4AD4F	mil	# DHC6 2276
 [United States]		
 ADF9B7	civ	# C172 N52364
 353700	civ	# C173 N756SP - miscoding AA31F1
+ADFD39	civ	# F2TH N163EB - miscoding A0FD39
 A79B15	mil	# DHC7 N59AG 
 A60693	mil	# CL60 N488CR
 A0E824	mil	# DHC7 N158CL
