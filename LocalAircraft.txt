@@ -20844,6 +20844,7 @@ E200EF	mil	# E135 T-95
 447AC7	civ	# TWR FFMSNE
 445566	civ	# -GND
 445555	civ	# ???? Various Miscode
+447C27	civ	# ZGND  Vienna Airport
 447C68	civ	# ZGND  Vienna Airport
 447C1F	civ	# ZGND  Vienna Airport
 447C24	civ	# ZGND  Vienna Airport
@@ -21049,6 +21050,7 @@ E80621	civ	# A20N CC-DID
 E8061A	civ	# A21N CC-DIE
 E8061C	civ	# A20N CC-DIG
 E8061D	civ	# A20N CC-DIH
+E80622	civ	# A20N CC-DII
 E80624	civ	# A20N CC-DIK
 E80619	civ	# CC-AWZ
 48DF04	mil	# H60 H-03
@@ -23898,7 +23900,7 @@ F0D886	civ	#
 0D0E6B	mil	# C208 ANX-1261
 0D0971	civ	# B738 3526 / XA-ASM
 0D0A13	civ	# B738 3528 / XA-???
-0D0942	mli	# C501 3933
+0D0942	mil	# C501 3933
 		
 [Morocco]		
 020130	mil	# B748 CN-MBH
