@@ -13,6 +13,7 @@ AB1AF6,mil,# BE9L 7T-WBF
 AB144E,mil,# BE9L 7T-WBG
 A56B10,mil,# B190 7T-WRD
 A56BA0,mil,# B190 7T-WSI
+149D7A,mil,# BER2 7T-VPW - Russia Miscode
 ,,
 [Argentina],,
 E20022,mil,# C130 TC-69
@@ -32,6 +33,48 @@ E200D5,mil,# SF34 T-35
 E20048,mil,# C208 AE-228
 E200EF,mil,# E135 T-95
 E200AB,mil,# B06 AE-323
+E200F0,mil,# E135 T-96
+E14D73,mil,# F28 TC-53
+E2002C,mil,# C208 AE-225
+E200C7,mil,# TUCA A-122
+E200F9,mil,# TUCA A-128
+E200C6,mil,# TUCA A-104
+E200F2,mil,# H500 H-40
+E20011,mil,# SF34 T-33
+E2002D,mil,# C208 AE-226
+E20090,mil,# B06 AE-310
+E20092,mil,# B06 AE-312
+E20047,mil,# C208 AE-227
+E2010E,mil,# E140 T-94
+E2001C,mil,# G120 E-501
+E2001D,mil,# G120 E-502
+E2001E,mil,# G120 E-503
+E2001F,mil,# G120 E-504
+E20025,mil,# G120 E-505
+E20026,mil,# G120 E-506
+E20027,mil,# G120 E-507
+E20028,mil,# G120 E-508
+E2002A,mil,# G120 E-510
+E20053,mil,# TEX2 E-300
+E20054,mil,# TEX2 E-301
+E20055,mil,# TEX2 E-302
+E20056,mil,# TEX2 E-303
+E20057,mil,# TEX2 E-304
+E20058,mil,# TEX2 E-305
+E20059,mil,# TEX2 E-306
+E2005A,mil,# TEX2 E-307
+E2005B,mil,# TEX2 E-308
+E2005C,mil,# TEX2 E-309
+E2005D,mil,# TEX2 E-310
+E2005E,mil,# TEX2 E-311
+E20041,mil,# SIRA E-550
+E20042,mil,# SIRA E-551
+E20044,mil,# SIRA E-552
+E2004A,mil,# SIRA E-553
+E2004B,mil,# SIRA E-554
+E2004C,mil,# SIRA E-555
+E2004F,mil,# SIRA E-556
+E20100,mil,# B407 H-111
 ,,
 [Australia],,
 7D0891,civ,# LNC2 VH-TMR
@@ -18519,13 +18562,6 @@ E200AB,mil,# B06 AE-323
 7CF82D,civ,# ZGND VH-
 7CF82E,civ,# ZGND VH-
 7CF82F,civ,# ZGND VH-
-7CF833,civ,# ZGND VH-
-7CF834,civ,# ZGND VH-
-7CF83F,civ,# ZGND VH-
-7CF842,civ,# ZGND VH-
-7CF852,civ,# ZGND VH-
-7CF859,civ,# ZGND VH-
-7CF85A,civ,# ZGND VH-
 7CF85E,civ,# ZGND VH-
 7CF85F,civ,# ZGND VH-
 7CF860,civ,# ZGND VH-
@@ -18596,15 +18632,6 @@ E200AB,mil,# B06 AE-323
 7CF8AD,civ,# ZGND VH-
 7CF8AE,civ,# ZGND VH-
 7CF8AF,civ,# ZGND VH-
-7CF8B0,civ,# ZGND VH-
-7CF8B1,civ,# ZGND VH-
-7CF8B2,civ,# ZGND VH-
-7CF8B3,civ,# ZGND VH-
-7CF8B4,civ,# ZGND VH-
-7CF8B5,civ,# ZGND VH-
-7CF8B6,civ,# ZGND VH-
-7CF8B7,civ,# ZGND VH-
-7CF8B8,civ,# ZGND VH-
 7CF8B9,civ,# ZGND VH-
 7CF8BA,civ,# ZGND VH-
 7CF8BB,civ,# ZGND VH-
@@ -18793,30 +18820,8 @@ E200AB,mil,# B06 AE-323
 7CF98A,civ,# ZGND VH-
 7CF98B,civ,# ZGND VH-
 7CF98C,civ,# ZGND VH-
-7CF98F,civ,# ZGND VH-
 7CF997,civ,# ZGND VH-
 7CF998,civ,# ZGND VH-
-7CF999,civ,# ZGND VH-
-7CF99A,civ,# ZGND VH-
-7CF99B,civ,# ZGND VH-
-7CF99C,civ,# ZGND VH-
-7CF99D,civ,# ZGND VH-
-7CF99E,civ,# ZGND VH-
-7CF99F,civ,# ZGND VH-
-7CF9A1,civ,# ZGND VH-
-7CF9A2,civ,# ZGND VH-
-7CF9A4,civ,# ZGND VH-
-7CF9A5,civ,# ZGND VH-
-7CF9A6,civ,# ZGND VH-
-7CF9A9,civ,# ZGND VH-
-7CF9AA,civ,# ZGND VH-
-7CF9AC,civ,# ZGND VH-
-7CF9AD,civ,# ZGND VH-
-7CF9AF,civ,# ZGND VH-
-7CF9B3,civ,# ZGND VH-
-7CF9B4,civ,# ZGND VH-
-7CF9B5,civ,# ZGND VH-
-7CF9B7,civ,# ZGND VH-
 7CF9B8,civ,# ZGND VH-
 7CF9B9,civ,# ZGND VH-
 7CF9BA,civ,# ZGND VH-
@@ -18832,10 +18837,7 @@ E200AB,mil,# B06 AE-323
 7CF9C6,civ,# ZGND VH-
 7CF9C7,civ,# ZGND VH-
 7CF9CA,civ,# ZGND VH-
-7CF9D7,civ,# ZGND VH-
-7CFA0A,civ,# ZGND VH-
 7CFA1A,civ,# ZGND VH-
-7CFA1B,civ,# ZGND VH-
 7CFA1C,civ,# ZGND VH-
 7CFA1D,civ,# ZGND VH-
 7CFA20,civ,# ZGND VH-
@@ -18846,12 +18848,8 @@ E200AB,mil,# B06 AE-323
 7CFA25,civ,# ZGND VH-
 7CFA26,civ,# ZGND VH-
 7CFA28,civ,# ZGND VH-
-7CFA29,civ,# ZGND VH-
 7CFA2A,civ,# ZGND VH-
 7CFA2B,civ,# ZGND VH-
-7CFA2E,civ,# ZGND VH-
-7CFA2F,civ,# ZGND VH-
-7CFA30,civ,# ZGND VH-
 7CFA35,civ,# ZGND VH-
 7CFA36,civ,# ZGND VH-
 7CFA37,civ,# ZGND VH-
@@ -18912,8 +18910,6 @@ E200AB,mil,# B06 AE-323
 7CFA6E,civ,# ZGND VH-
 7CFA6F,civ,# ZGND VH-
 7CFA70,civ,# ZGND VH-
-7CFA74,civ,# ZGND VH-
-7CFA75,civ,# ZGND VH-
 7CFA76,civ,# ZGND VH-
 7CFA77,civ,# ZGND VH-
 7CFA78,civ,# ZGND VH-
@@ -18922,16 +18918,6 @@ E200AB,mil,# B06 AE-323
 7CFA7B,civ,# ZGND VH-
 7CFA7C,civ,# ZGND VH-
 7CFA7D,civ,# ZGND VH-
-7CFA7E,civ,# ZGND VH-
-7CFA7F,civ,# ZGND VH-
-7CFA80,civ,# ZGND VH-
-7CFA81,civ,# ZGND VH-
-7CFA82,civ,# ZGND VH-
-7CFA83,civ,# ZGND VH-
-7CFA84,civ,# ZGND VH-
-7CFA85,civ,# ZGND VH-
-7CFA86,civ,# ZGND VH-
-7CFA87,civ,# ZGND VH-
 7CFA88,civ,# ZGND VH-
 7CFA89,civ,# ZGND VH-
 7CFA8A,civ,# ZGND VH-
@@ -18943,11 +18929,8 @@ E200AB,mil,# B06 AE-323
 7CFA90,civ,# ZGND VH-
 7CFA91,civ,# ZGND VH-
 7CFA92,civ,# ZGND VH-
-7CFA93,civ,# ZGND VH-
-7CFA94,civ,# ZGND VH-
 7CFA95,civ,# ZGND VH-
 7CFA96,civ,# ZGND VH-
-7CFA97,civ,# ZGND VH-
 7CFA98,civ,# ZGND VH-
 7CFA99,civ,# ZGND VH-
 7CFA9A,civ,# ZGND VH-
@@ -18955,18 +18938,6 @@ E200AB,mil,# B06 AE-323
 7CFA9C,civ,# ZGND VH-
 7CFA9D,civ,# ZGND VH-
 7CFA9E,civ,# ZGND VH-
-7CFAA2,civ,# ZGND VH-
-7CFAA3,civ,# ZGND VH-
-7CFAA4,civ,# ZGND VH-
-7CFAA5,civ,# ZGND VH-
-7CFAA6,civ,# ZGND VH-
-7CFAA7,civ,# ZGND VH-
-7CFAA8,civ,# ZGND VH-
-7CFAA9,civ,# ZGND VH-
-7CFAAA,civ,# ZGND VH-
-7CFAAB,civ,# ZGND VH-
-7CFAAC,civ,# ZGND VH-
-7CFAAD,civ,# ZGND VH-
 7CFAAE,civ,# ZGND VH-
 7CFAAF,civ,# ZGND VH-
 7CFAB0,civ,# ZGND VH-
@@ -19003,10 +18974,6 @@ E200AB,mil,# B06 AE-323
 7CFACF,civ,# ZGND VH-
 7CFAD0,civ,# ZGND VH-
 7CFAD1,civ,# ZGND VH-
-7CFAD2,civ,# ZGND VH-
-7CFAD3,civ,# ZGND VH-
-7CFAD4,civ,# ZGND VH-
-7CFAD5,civ,# ZGND VH-
 7CFAD6,civ,# ZGND VH-
 7CFAD7,civ,# ZGND VH-
 7CFAD8,civ,# ZGND VH-
@@ -19043,25 +19010,13 @@ E200AB,mil,# B06 AE-323
 7CFAF7,civ,# ZGND VH-
 7CFAF8,civ,# ZGND VH-
 7CFAF9,civ,# ZGND VH-
-7CFAFA,civ,# ZGND VH-
 7CFAFB,civ,# ZGND VH-
-7CFAFC,civ,# ZGND VH-
-7CFAFD,civ,# ZGND VH-
-7CFAFE,civ,# ZGND VH-
-7CFAFF,civ,# ZGND VH-
-7CFB00,civ,# ZGND VH-
 7CFB01,civ,# ZGND VH-
 7CFB02,civ,# ZGND VH-
 7CFB03,civ,# ZGND VH-
 7CFB04,civ,# ZGND VH-
 7CFB05,civ,# ZGND VH-
 7CFB06,civ,# ZGND VH-
-7CFB07,civ,# ZGND VH-
-7CFB08,civ,# ZGND VH-
-7CFB09,civ,# ZGND VH-
-7CFB0A,civ,# ZGND VH-
-7CFB0B,civ,# ZGND VH-
-7CFB0C,civ,# ZGND VH-
 7CFB0D,civ,# ZGND VH-
 7CFB0E,civ,# ZGND VH-
 7CFB0F,civ,# ZGND VH-
@@ -20839,29 +20794,68 @@ E200AB,mil,# B06 AE-323
 7D00FE,civ,# ZZZZ VH-????
 7D00FF,civ,# ZZZZ VH-????
 7E4000,civ,# ZZZZ ????
-7D4317,CIV,# PA32 VH-NJD
+7D02DA,civ,# ZGND YSSY
+7D02E0,civ,# ZGND YSSY
+7CF833,mil,# C30J A97-447
+7CF834,mil,# C30J A97-448
+7CF98F,mil,# C2J A34-003
+7CF83F,mil,# HAWK A27-05
+7CF842,mil,# HAWK A27-08
+7CF852,mil,# HAWK A27-24
+7CF859,mil,# HAWK A27-32
+7CF85A,mil,# HAWK A27-33
+7CFA93,mil,# B38M A62-001
+7CFA94,mil,# B38M A62-002
+7CF9E5,mil,# PC21 A54-014
+7CF9B3,mil,# H60 N48-020
+7CF9B4,mil,# H60 N48-021
+7CF9A1,mil,# H60 N48-002
+7CF9A5,mil,# H60 N48-006
+7CFAA2,mil,# H60 A60-004
+7CFAA6,mil,# H60 A60-008
+7CFAA3,mil,# H60 A60-005
+7CFAA4,mil,# H60 A60-006
+7CFAA5,mil,# H60 A60-007
+7CFAA7,mil,# H60 A60-009
+7CF99C,mil,# H47 A15-304
+7CF9AA,mil,# H60 N48-011
+7CFAA9,mil,# H60 A60-011
+7CFAAA,mil,# H60 A60-012
 ,,
 [Austria],,
-447AC2,civ,# TWR/RDR ???
-447AC7,civ,# TWR FFMSNE
+447AC7,civ,# -TWR Vienna
 445566,civ,# -GND
 445555,civ,# ???? Various Miscode
-447C27,civ,# ZGND  Vienna Airport
-447C68,civ,# ZGND  Vienna Airport
-447C1F,civ,# ZGND  Vienna Airport
-447C24,civ,# ZGND  Vienna Airport
-447C49,civ,# ZGND  Vienna Airport
-447C19,civ,# ZGND  Vienna Airport
-447C30,civ,# ZGND  Vienna Airport
-447C4C,civ,# ZGND  Vienna Airport
-447CA2,civ,# ZGND  Vienna Airport
-447C3A,civ,# ZGND  Vienna Airport
-447C20,civ,# ZGND  Vienna Airport
-447C5C,civ,# ZGND  Vienna Airport
-447C36,civ,# ZGND  Vienna Airport
+447C18,civ,# GND - LOWW
+447C27,civ,# GND - LOWW
+447C41,civ,# GND - LOWW
+447C8C,civ,# GND - LOWW
+447C9F,civ,# GND - LOWW
+447C20,civ,# GND - LOWW
+447C21,civ,# GND - LOWW
+447C30,civ,# GND - LOWW
+447C0B,civ,# GND - LOWW
+447C65,civ,# GND - LOWW
+447C68,civ,# GND - LOWW
+447C02,civ,# GND - LOWW
+447C01,civ,# GND - LOWW
+447C5C,civ,# GND - LOWW
+447C7D,civ,# GND - LOWW
+447C2A,civ,# GND - LOWW
+447CB8,civ,# GND - LOWW
+447CB9,civ,# GND - LOWW
+447CBA,civ,# GND - LOWW
+447C74,civ,# GND - LOWW
+447C49,civ,# GND - LOWW
+447C64,civ,# GND - LOWW
+447C4D,civ,# GND - LOWW
+447C2B,civ,# GND - LOWW
+447C23,civ,# GND - LOWW
+447C25,civ,# GND - LOWW
 ,,
 [Azerbaijan],,
 600881,mil,# IL76 4K-78131
+600B5D,mil,# C27J 60 White
 ,,
 [Bahrain],,
 894087,mil,# C30J 701
@@ -20882,6 +20876,19 @@ E200AB,mil,# B06 AE-323
 702C26,mil,# C30J S3-AGF
 702C2E,mil,# B212 BH772
 702C2A,mil,# B212 BH296
+702C6D,mil,# C30J S3-AGH
+702C20,mil,# AN32 S3-ACD
+702C30,mil,# D228 314-01
+702C49,mil,# C295 S3-BRR
+702C48,mil,# B407 S3-BRN
+702C47,mil,# B407 S3-BRA
+702C67,mil,# MI8 216
+702C3B,mil,# B212 BH11
+702C6C,mil,# C30J S3-AGG
+702C32,mil,# D228 S3-VHS
+702C33,mil,# D228 314-04
+702C31,mil,# D228 314-02
+702C6E,mil,# C30J S3-AGJ
 ,,
 [Belgium],,
 449825,mil,# FA7X OO-FAE 
@@ -20894,16 +20901,16 @@ E200AB,mil,# B06 AE-323
 0AB028,mil,# BN2P BDF-02
 ,,
 [Belarus],,
-5100E7,mil,# IL76 EW-004DE
+5.10E+10,mil,# IL76 EW-004DE
 ,,
 [Benin],,
-094109,mil,# AS50 TY-37H
+94109,mil,# AS50 TY-37H
 09410A,mil,# AS50 TY-38H
-094003,mil,# TTRS TY-43L
+94003,mil,# TTRS TY-43L
 ,,
 [Botswana],,
-030040,mil,# PC24 DS-1
-030016,mil,# PC24 DS-3
+30040,mil,# PC24 DS-1
+30016,mil,# PC24 DS-3
 ,,
 [Brazil],,
 E49182,mil,# A332 2901
@@ -20944,6 +20951,13 @@ E40180,civ,# E295 ???? Test reg
 E40193,civ,# E295 ???? Test reg
 E40198,civ,# E295 ???? Test reg
 E40170,civ,# ZZZZ ???? Test reg
+E401A4,civ,# ZZZZ ???? Test reg
+E401C9,civ,# ZZZZ ???? Test reg
+E40186,civ,# ZZZZ ???? Test reg
+E401C2,civ,# ZZZZ ???? Test reg
+E40182,civ,# ZZZZ ???? Test reg
+E40189,civ,# ZZZZ ???? Test reg
+E401AD,civ,# ZZZZ ???? Test reg
 E4018C,civ,# ZZZZ ???? Unknown Embraer test a/c
 E40171,civ,# ZZZZ ???? Unknown Embraer test a/c
 E4019D,civ,# ZZZZ ???? EMB Test Flt
@@ -20988,7 +21002,7 @@ E48FF5,mil,# E110 2320
 E48FF6,mil,# E110 2347
 E4916D,mil,# E110 2286
 E49136,mil,# E110 2299
-E4916C,mil,# E110 7100	
+E4916C,mil,# E110 7100
 E47F5B,mil,# E120 2020
 E49593,mil,# E50P 3702
 E48DCD,mil,# EC25 8514
@@ -21001,9 +21015,34 @@ E483D2,mil,# LYNX N-4004
 E48DE1,mil,# C208 2742
 E48682,mil,# LJ35 6002
 E49376,mil,# AS65 EB-2005
+E483AD,mil,# P3 7205
+E49135,mil,# E110 2299
+E48E5D,mil,# E110 2319
+E4922D,mil,# TUCA 1359
+E4993D,mil,# TUCA 1449
+E4992E,mil,# TUCA 1438
+E48C6E,mil,# LYNX N-4005
+E48C6F,mil,# LYNX N-4010
+E494A7,mil,# E390 2859
+E49DA4,mil,# AS50 8821
+343392,mil,# C295 2811 - MISCODE
+E48E5A,mil,# E120 2012
+E487D4,mil,# EC25 N-7101
+E4955F,mil,# EC35 N-7091
+E49560,mil,# EC35 N-7092
+E4A1C7,mil,# E390 2860
+E49DA5,mil,# AS50 N-5101
+E4A045,mil,# AS50 N-5102
+E49413,mil,# AS50 EB-1021
+E49258,mil,# AS65 EB-2011
+E4A463,mil,# UNIV FAB1940
+E4A45C,mil,# UNIV FAB1862
+E4A044,mil,# AS50 8823
+E49254,mil,# C208 2706
 ,,
 [Brunei],,
 8953FC,mil,# C295 TUDB502
+8953FD,mil,# C295 TUDB503
 ,,
 [Bulgaria],,
 454544,mil,# EH10 ZH???? Mis-coding EH101
@@ -21011,19 +21050,6 @@ E49376,mil,# AS65 EB-2005
 [Canada],,
 C2BCF1,mil,# C295 295507
 C06C95,mil,# B350 C-GPDC
-C082F0,mil,# G120 C-GXPF
-C02829,mil,# G120 C-FPFK
-C0282B,mil,# G120 C-FPFM
-C0282C,mil,# G120 C-FPFN
-C02834,mil,# G120 C-FPFV
-C02828,mil,# G120 C-FPFJ
-C02835,mil,# G120 C-FPFW
-C0282A,mil,# G120 C-FPFL
-C0282C,mil,# G120 C-FPFN
-C0282D,mil,# G120 C-FPFO
-C02833,mil,# G120 C-FPFU
-C02825,mil,# G120 C-FPFG
-C06CCB,mil,# G120 C-FPFE
 02499B,mil,# EH10 149913
 ,,
 [Chile],,
@@ -21055,7 +21081,9 @@ E8061A,civ,# A21N CC-DIE
 E8061C,civ,# A20N CC-DIG
 E8061D,civ,# A20N CC-DIH
 E80622,civ,# A20N CC-DII
+E80623,civ,# A20N CC-DIJ
 E80624,civ,# A20N CC-DIK
+E8061B,civ,# A21N CC-DIF
 E80619,civ,# CC-AWZ
 48DF04,mil,# H60 H-03
 48DF06,mil,# H60 H-06
@@ -21063,6 +21091,23 @@ E80619,civ,# CC-AWZ
 E2E943,mil,# GLF4 914
 E806BE,civ,# ZZZZ ???? some light aircraft
 A27986,mil,# GB1 20
+E8062A,civ,# A21N CC-DIQ
+E8062B,civ,# A20N CC-DIR
+E80625,civ,# A20N CC-DIL
+E80626,civ,# A20N CC-DIM
+E80627,civ,# A20N CC-DIN
+E80628,civ,# A20N CC-DIO
+E80629,civ,# A20N CC-DIP
+E8062D,civ,# A20N CC-DIT
+E8062C,civ,# A21N CC-DIS
+E8062E,civ,# A20N CC-DIU
+E8062F,civ,# A20N CC-DIV
+E80630,civ,# A20N CC-DIW
+E80631,civ,# A20N CC-DIX
+E80632,civ,# A21N CC-DIY
+E80633,civ,# A21N CC-DOH
+E80634,civ,# A21N CC-DOI
+E80635,civ,# A21N CC-DOJ
 ,,
 [China],,
 79A666,mil,# EC25 B-4073 
@@ -21083,6 +21128,7 @@ A27986,mil,# GB1 20
 7A428C,mil,# Y20 20143
 7A4288,mil,# Y20 20140
 7A428A,mil,# Y20 20142
+7A428E,mil,# Y20 20145
 7A43FF,mil,# Y20 20147
 7A43EA,mil,# Y20 20842
 7A4243,mil,# Y20 11051
@@ -21102,6 +21148,8 @@ A27986,mil,# GB1 20
 7A4281,mil,# Y20 20041
 7A4284,mil,# Y20 20044
 7A4411,mil,# Y20 20241
+7A443F,mil,# Y20 20246
+7A4455,mil,# Y20 20248
 7A4203,mil,# IL76 20642
 7A4201,mil,# IL76 20641
 79C23C,mil,# IL76 21041
@@ -21141,7 +21189,7 @@ A27986,mil,# GB1 20
 7A4418,mil,# Y20 20242
 7A4419,mil,# Y20 20243
 7A444E,mil,# Y20 20848
-7A4254,mil,# Y20 11059	
+7A4254,mil,# Y20 11059
 7A429D,mil,# ZZZZ-KJ500 30178
 7A427C,mil,# ZZZZ-KJ500 30270
 7A4299,mil,# ZZZZ-KJ500 30741
@@ -21152,9 +21200,47 @@ A27986,mil,# GB1 20
 7A43F0,mil,# ZZZZ-KJ500 30475
 7A43EF,mil,# ZZZZ-KJ500 30474
 7A4330,mil,# ZZZZ-KJ500 4420?
+7A449D,mil,# ZZZZ-KJ500 31213
+7A433B,mil,# ZZZZ-KJ500 31117
 7A432F,mil,# AN12 1234
 7A4332,mil,# AN12 2246
 7A4333,mil,# AN12 0234
+7A427F,mil,# Y20 20047
+7BE903,mil,# IL76 21049
+7A493D,mil,# WZ10 LH972116
+7BD066,mil,# WZ10 LH993167
+7A49BC,mil,# MI8 LH921756
+7A495B,mil,# MI8 LH972731
+78CF95,mil,# YUN8 LH94007
+7A429B,mil,# YUN8 30176
+7A43EE,mil,# YUN8 30473
+7A444D,mil,# Y20 20544
+7A4244,mil,# Y20 11052
+7A4401,mil,# Y20 20149
+7A438B,mil,# YUN9 91
+7A438C,mil,# YUN9 92
+7A442D,mil,# UAV ????
+7A4447,mil,# AN12 ????
+7A43D8,mil,# AN12 H3722019
+7A43D9,mil,# AN12 H3722021
+7A43DA,mil,# AN12 H3722022
+7A43DB,mil,# AN12 H3722023
+7A43DE,mil,# AN12 H3722018
+7A43DF,mil,# AN12 H3722020
+7AA30B,mil,# EC25 B-4073
+7A4205,mil,# IL76 20545
+7A44A1,mil,# Y20 20942
+7A442B,mil,# Y20 20944
+7A443E,mil,# Y20 20245
+7A4410,mil,# Y20 20240
+7A444F,mil,# Y20 20543
+7A4444,mil,# Y20 11255
+7A42A0,mil,# YUN8 30173
+7A427B,mil,# YUN8 30179
+7A43F2,mil,# YUN8 30477
+7A42A4,mil,# YUN8 30075
+74A427,mil,# YUN8 53055
+7BE04E,mil,# MI8 LH993766
 ,,
 [Colombia],,
 0AC3A8,mil,# B737 FAC0001
@@ -21171,15 +21257,56 @@ E80921,mil,# B350 FAC5733 - miscode
 0AC10B,mil,# B350 EJC-1126
 0AC198,mil,# E35L FAC1215
 0AC337,mil,# C560 FAC5763
-0AC867,mil,# CN35 FAC1262	
+0AC867,mil,# CN35 FAC1262
 0AC0CB,mil,# C295 FAC1282
 0AC039,mil,# F28 FAC1041
 0AC8A0,mil,# C295 FAC1280
 0ACA03,mil,# E35L FAC1218
-0AC8B3,mil,# E314 FAC3118	
+0AC8B3,mil,# E314 FAC3118
+0AC8B7,mil,# E314 FAC3123
+0AC914,mil,# H60 FAC4136
+0AC908,mil,# H60 FAC4120
+0AC8BA,mil,# E314 FAC3101
+0AC8B1,mil,# E314 FAC3116
+0AC318,mil,# C130 FAC1005
+0AC7BD,mil,# C295 FAC1284
+0ACA30,mil,# BE9L ARC-103
+0AC99E,mil,# B350 ARC-101
+0AC7A4,mil,# H60 EJC-2155
+0AC9C6,mil,# B350 EJC-1101
+0AC0F5,mil,# B350 FAC5077
+0ACA4B,mil,# B350 EJC-1125
+0AC769,mil,# UH1 EJC-5408
+0AC761,mil,# UH1 EJC-5422
+0ACA88,mil,# AC90 EJC-1108
+0AC74A,mil,# AN32 EJC-1146
+0AC757,mil,# UH1 EJC-5433
+0ACAA2,mil,# C212 EJC-1122
+0ACA48,mil,# C208 EJC-1132
+0AC7B8,mil,# H60 EJC-2102
+0AC335,mil,# C560 FAC5761
+0AC388,mil,# BE9L ARC-102
+0AC0EA,mil,# CN35 ARC-801
+0AC33D,mil,# C208 FAC5059
+0AC750,mil,# TEX2 FAC2354
+0AC0E7,mil,# B350 FAC5727
+0AC204,mil,# C25A FAC5766
+0AC913,mil,# H60 FAC4135
+0AC7A5,mil,# H60 EJC-2153
+0AC7B9,mil,# H60 EJC-2101
+0ACC9D,mil,# TEX2 FAC2359
+0ACA4A,mil,# B350 EJC-1126
+0AC774,mil,# B212 EJC-4205
+0ACA6E,mil,# B350 ARC-104
+0AC986,mil,# C130 FAC1016
+0AC148,mil,# TUCA FAC2260
+0AC3C4,mil,# B734 FAC1209
+0AC3C5,mil,# B734 FAC1208
+0AC7C9,mil,# B212 FAC4021
+0AC7E2,mil,# B06 FAC4481
 ,,
-[Côte d'Ivoire],,
-038615,mil,# GLF5 TU-VAE
+[C??te d'Ivoire],,
+38615,mil,# GLF5 TU-VAE
 038F42,mil,# C295 TU-VMC
 038F46,mil,# GLF4 TU-VAI
 ,,
@@ -21192,7 +21319,10 @@ E80921,mil,# B350 FAC5733 - miscode
 501F88,mil,# Z42 402
 501F8F,mil,# MI8 223
 501F9A,mil,# AT8T 895
+501F92,mil,# AT8T 896
 501FB9,mil,# H60 230
+501FBC,mil,# H60 233
+501F92,mil,# AT8T 896
 ,,
 [Cyprus],,
 4C8080,mil,# A139 701
@@ -21209,19 +21339,33 @@ E80921,mil,# B350 FAC5733 - miscode
 459902,mil,# BN2P OY-FHB
 459901,mil,# BN2P OY-FHA
 35F01E,civ,# CH70 OY-9280 Denmark (miscode)
+459903,mil,# DHC6 OY-FHC
+459904,mil,# DHC6 OY-FHD
 ,,
 [Ecuador],,
 E84834,mil,# FA7X FAE-052
+E84805,mil,# B735 FAE-640
+E847F0,mil,# C295 FAE1030
+E847F1,mil,# C295 FAE1031
+E847F2,mil,# C295 FAE1032
+E847D0,mil,# B350 FAE-1141
+E847E9,mil,# C130 FAE893
+E847F9,mil,# EC45 FAE1251
+E847FA,mil,# EC45 FAE1252
+E847FB,mil,# EC45 FAE1253
+E847FC,mil,# EC45 FAE1254
+E847FD,mil,# EC45 FAE1255
+E847FE,mil,# EC45 FAE1256
 ,,
 [Egypt],,
-010177,mil,# C295 SU-BRU
+10177,mil,# C295 SU-BRU
 0101A1,mil,# C295 SU-BSY
-010165,mil,# C295 SU-BRQ
-010166,mil,# C295 SU-BRR
-010179,mil,# C295 SU-BRW
+10165,mil,# C295 SU-BRQ
+10166,mil,# C295 SU-BRR
+10179,mil,# C295 SU-BRW
 0101A3,mil,# C295 SU-BTA
-010191,mil,# C295 SU-BSE
-010192,mil,# C295 SU-BSG
+10191,mil,# C295 SU-BSE
+10192,mil,# C295 SU-BSG
 01018B,mil,# C295 SU-BSK
 0101A0,mil,# C295 SU-BSX
 0101A9,mil,# C295 SU-BTF
@@ -21229,63 +21373,50 @@ E84834,mil,# FA7X FAE-052
 0101AB,mil,# C295 SU-BTH
 0101AC,mil,# C295 SU-BTI
 0101A2,mil,# C295 SU-BSZ
-010198,mil,# C295 SU-BSQ
+10198,mil,# C295 SU-BSQ
 0100D3,mil,# AN72 SU-BPO
 0100D2,mil,# AN72 SU-BPN
 0100D1,mil,# AN72 SU-BPM
 0101F5,mil,# IL76 SU-BTY
 0101F4,mil,# IL76 1331
-010071,mil,# B190 SU-BKV
-010167,mil,# B190 SU-BRS
+10071,mil,# B190 SU-BKV
+10167,mil,# B190 SU-BRS
 0101D7,mil,# B190 SU-BRT - MISCODE
-010168,mil,# B190 SU-BRT
-010164,mil,# C295 SU-BRP
+10168,mil,# B190 SU-BRT
+10164,mil,# C295 SU-BRP
 0101B0,mil,# C295 SU-BTK
 0101B1,mil,# C295 SU-BTL
-010190,mil,# C295 SU-BSF
-010197,mil,# C295 SU-BSP
+10190,mil,# C295 SU-BSF
+10197,mil,# C295 SU-BSP
 0100C6,mil,# BE20 SU-BAX
+01018C,mil,# C295 SU-BSL
 ,,
 [Estonia],,
 511122,mil,# M28 44 BLACK
+511121,mil,# M28 43 BLACK
 ,,
 [France],,
 39A847,civ,# SR20 F-HKCH
-395140,mil,# G120 F-GUKA
-395141,mil,# G120 F-GUKB
-395142,mil,# G120 F-GUKC
-395143,mil,# G120 F-GUKD
-395144,mil,# G120 F-GUKE
-395145,mil,# G120 F-GUKF
-395146,mil,# G120 F-GUKG
-395147,mil,# G120 F-GUKH
-395148,mil,# G120 F-GUKI
-395149,mil,# G120 F-GUKJ
-39514A,mil,# G120 F-GUKK
-39514B,mil,# G120 F-GUKL
-39514C,mil,# G120 F-GUKM
-39514D,mil,# G120 F-GUKN
-39514F,mil,# G120 F-GUKP
-395151,mil,# G120 F-GUKR
-395152,mil,# G120 F-GUKS
-3AD1FF,civ,# ZGND ????
-3AC1FF,civ,# ZGND BAL8
-3BFFFF,civ,# ZGND ????
+3AD1FF,civ,# -GND ????
+3AC1FF,civ,# -GND BAL8
+3BFFFF,civ,# -GND ????
 3998ED,mil,# AS65 F-HGHN
 398CED,mil,# AS65 F-HDHN
 39B4ED,mil,# AS65 F-HNHN
 39B8ED,mil,# AS65 F-HOHN
 39E0ED,mil,# AS65 F-HYHN
-38F25B,mil,# DUOD F-CJEK
-394DDB,mil,# TB30 F-AYFM
 396084,mil,# B350 F-GYEE
 ,,
 [Finland],,
-4614A4,mil,# OH-HVG
-4614A6,mil,# OH-HVI
-4621E0,mil,# D228
-4621DF,mil,# D228
+4614A3,mil,# AS32 OH-HVF
+4614A4,mil,# AS32 OH-HVG
+4614A6,mil,# AS32 OH-HVI
+4.62E+03,mil,# D228 OH-MVO
+4621DF,mil,# D228 OH-MVN
+4614A9,mil,# A119 AH-HVL
+4614AA,mil,# A119 AH-HVM
 4614AB,mil,# A119 AH-HVN
+4614AC,mil,# A119 AH-HVO
 4614AD,mil,# AS32 AH-HVP
 4614AE,mil,# AS32 AH-HVQ
 ,,
@@ -21300,14 +21431,12 @@ E84834,mil,# FA7X FAE-052
 3E060D,mil,# EC35 D-HTMJ
 3DDD89,mil,# EC35 D-HEDL
 3DD2F3,mil,# EC45 D-HADF
-3DF5BF,mil,# EC45 D-HNHV
-3DF5C1,mil,# EC45 D-HNHX
-3DF5C0,mil,# EC45 D-HNHW
 3C14AB,mil,# A319 15+01 (HFDL Hex)
 366241,civ,# C365 D-FEKW - miscoding as spanish
 37F671,civ,# ZZZZ D-MBMC
 3F88C6,civ,# C42 D-MNHI
 3E81D3,civ,# SF25 D-KOJB
+3E7F27,mil,# P8 63+02
 ,,
 [Ghana],,
 04403F,mil,# C295 GHF551
@@ -21315,367 +21444,369 @@ E84834,mil,# FA7X FAE-052
 [Guatemala],,
 0B4114,mil,# C208 360
 ,,
-[Greece]
+[Greece],,
 ABF486,mil,# B350 403
 AC3FCD,mil,# B350 404
-46EC4B,mil,# H60 PN-75
 46F483,mil,# AS65 HC-31
+46EC4B,mil,# H60 PN-75
+46EC4C,mil,# H60 PN-76
+46EC4D,mil,# H60 PN-77
 ,,
 [Guernsey],,
-43EAFE,civ,# ZZZZ 2-????
-43EAFF,civ,# ZZZZ 2-????
-43EB00,civ,# ZZZZ 2-????
-43EB01,civ,# ZZZZ 2-????
-43EB02,civ,# ZZZZ 2-????
-43EB03,civ,# ZZZZ 2-????
-43EB04,civ,# ZZZZ 2-????
-43EB05,civ,# ZZZZ 2-????
-43EB06,civ,# ZZZZ 2-????
-43EB07,civ,# ZZZZ 2-????
-43EB08,civ,# ZZZZ 2-????
-43EB09,civ,# ZZZZ 2-????
-43EB0A,civ,# ZZZZ 2-????
-43EB0B,civ,# ZZZZ 2-????
-43EB0C,civ,# ZZZZ 2-????
-43EB0D,civ,# ZZZZ 2-????
-43EB0E,civ,# ZZZZ 2-????
-43EB0F,civ,# ZZZZ 2-????
-43EB10,civ,# ZZZZ 2-????
-43EB11,civ,# ZZZZ 2-????
-43EB12,civ,# ZZZZ 2-????
-43EB13,civ,# ZZZZ 2-????
-43EB14,civ,# ZZZZ 2-????
-43EB15,civ,# ZZZZ 2-????
-43EB16,civ,# ZZZZ 2-????
-43EB17,civ,# ZZZZ 2-????
-43EB18,civ,# ZZZZ 2-????
-43EB19,civ,# ZZZZ 2-????
-43EB1A,civ,# ZZZZ 2-????
-43EB1B,civ,# ZZZZ 2-????
-43EB1C,civ,# ZZZZ 2-????
-43EB1D,civ,# ZZZZ 2-????
-43EB1E,civ,# ZZZZ 2-????
-43EB1F,civ,# ZZZZ 2-????
-43EB20,civ,# ZZZZ 2-????
-43EB21,civ,# ZZZZ 2-????
-43EB22,civ,# ZZZZ 2-????
-43EB23,civ,# ZZZZ 2-????
-43EB24,civ,# ZZZZ 2-????
-43EB25,civ,# ZZZZ 2-????
-43EB26,civ,# ZZZZ 2-????
-43EB27,civ,# ZZZZ 2-????
-43EB28,civ,# ZZZZ 2-????
-43EB29,civ,# ZZZZ 2-????
-43EB2A,civ,# ZZZZ 2-????
-43EB2B,civ,# ZZZZ 2-????
-43EB2C,civ,# ZZZZ 2-????
-43EB2D,civ,# ZZZZ 2-????
-43EB2E,civ,# ZZZZ 2-????
-43EB2F,civ,# ZZZZ 2-????
-43EB30,civ,# ZZZZ 2-????
-43EB31,civ,# ZZZZ 2-????
-43EB32,civ,# ZZZZ 2-????
-43EB33,civ,# ZZZZ 2-????
-43EB34,civ,# ZZZZ 2-????
-43EB35,civ,# ZZZZ 2-????
-43EB36,civ,# ZZZZ 2-????
-43EB37,civ,# ZZZZ 2-????
-43EB38,civ,# ZZZZ 2-????
-43EB39,civ,# ZZZZ 2-????
-43EB3A,civ,# ZZZZ 2-????
-43EB3B,civ,# ZZZZ 2-????
-43EB3C,civ,# ZZZZ 2-????
-43EB3D,civ,# ZZZZ 2-????
-43EB3E,civ,# ZZZZ 2-????
-43EB3F,civ,# ZZZZ 2-????
-43EB40,civ,# ZZZZ 2-????
-43EB41,civ,# ZZZZ 2-????
-43EB42,civ,# ZZZZ 2-????
-43EB43,civ,# ZZZZ 2-????
-43EB44,civ,# ZZZZ 2-????
-43EB45,civ,# ZZZZ 2-????
-43EB46,civ,# ZZZZ 2-????
-43EB47,civ,# ZZZZ 2-????
-43EB48,civ,# ZZZZ 2-????
-43EB49,civ,# ZZZZ 2-????
-43EB4A,civ,# ZZZZ 2-????
-43EB4B,civ,# ZZZZ 2-????
-43EB4C,civ,# ZZZZ 2-????
-43EB4D,civ,# ZZZZ 2-????
-43EB4E,civ,# ZZZZ 2-????
-43EB4F,civ,# ZZZZ 2-????
-43EB50,civ,# ZZZZ 2-????
-43EB51,civ,# ZZZZ 2-????
-43EB52,civ,# ZZZZ 2-????
-43EB53,civ,# ZZZZ 2-????
-43EB54,civ,# ZZZZ 2-????
-43EB55,civ,# ZZZZ 2-????
-43EB56,civ,# ZZZZ 2-????
-43EB57,civ,# ZZZZ 2-????
-43EB58,civ,# ZZZZ 2-????
-43EB59,civ,# ZZZZ 2-????
-43EB5A,civ,# ZZZZ 2-????
-43EB5B,civ,# ZZZZ 2-????
-43EB5C,civ,# ZZZZ 2-????
-43EB5D,civ,# ZZZZ 2-????
-43EB5E,civ,# ZZZZ 2-????
-43EB5F,civ,# ZZZZ 2-????
-43EB60,civ,# ZZZZ 2-????
-43EB61,civ,# ZZZZ 2-????
-43EB62,civ,# ZZZZ 2-????
-43EB63,civ,# ZZZZ 2-????
-43EB64,civ,# ZZZZ 2-????
-43EB65,civ,# ZZZZ 2-????
-43EB66,civ,# ZZZZ 2-????
-43EB67,civ,# ZZZZ 2-????
-43EB68,civ,# ZZZZ 2-????
-43EB69,civ,# ZZZZ 2-????
-43EB6A,civ,# ZZZZ 2-????
-43EB6B,civ,# ZZZZ 2-????
-43EB6C,civ,# ZZZZ 2-????
-43EB6D,civ,# ZZZZ 2-????
-43EB6E,civ,# ZZZZ 2-????
-43EB6F,civ,# ZZZZ 2-????
-43EB70,civ,# ZZZZ 2-????
-43EB71,civ,# ZZZZ 2-????
-43EB72,civ,# ZZZZ 2-????
-43EB73,civ,# ZZZZ 2-????
-43EB74,civ,# ZZZZ 2-????
-43EB75,civ,# ZZZZ 2-????
-43EB76,civ,# ZZZZ 2-????
-43EB77,civ,# ZZZZ 2-????
-43EB78,civ,# ZZZZ 2-????
-43EB79,civ,# ZZZZ 2-????
-43EB7A,civ,# ZZZZ 2-????
-43EB7B,civ,# ZZZZ 2-????
-43EB7C,civ,# ZZZZ 2-????
-43EB7D,civ,# ZZZZ 2-????
-43EB7E,civ,# ZZZZ 2-????
-43EB7F,civ,# ZZZZ 2-????
-43EB80,civ,# ZZZZ 2-????
-43EB81,civ,# ZZZZ 2-????
-43EB82,civ,# ZZZZ 2-????
-43EB83,civ,# ZZZZ 2-????
-43EB84,civ,# ZZZZ 2-????
-43EB85,civ,# ZZZZ 2-????
-43EB86,civ,# ZZZZ 2-????
-43EB87,civ,# ZZZZ 2-????
-43EB88,civ,# ZZZZ 2-????
-43EB89,civ,# ZZZZ 2-????
-43EB8A,civ,# ZZZZ 2-????
-43EB8B,civ,# ZZZZ 2-????
-43EB8C,civ,# ZZZZ 2-????
-43EB8D,civ,# ZZZZ 2-????
-43EB8E,civ,# ZZZZ 2-????
-43EB8F,civ,# ZZZZ 2-????
-43EB90,civ,# ZZZZ 2-????
-43EB91,civ,# ZZZZ 2-????
-43EB92,civ,# ZZZZ 2-????
-43EB93,civ,# ZZZZ 2-????
-43EB94,civ,# ZZZZ 2-????
-43EB95,civ,# ZZZZ 2-????
-43EB96,civ,# ZZZZ 2-????
-43EB97,civ,# ZZZZ 2-????
-43EB98,civ,# ZZZZ 2-????
-43EB99,civ,# ZZZZ 2-????
-43EB9A,civ,# ZZZZ 2-????
-43EB9B,civ,# ZZZZ 2-????
-43EB9C,civ,# ZZZZ 2-????
-43EB9D,civ,# ZZZZ 2-????
-43EB9E,civ,# ZZZZ 2-????
-43EB9F,civ,# ZZZZ 2-????
-43EBA0,civ,# ZZZZ 2-????
-43EBA1,civ,# ZZZZ 2-????
-43EBA2,civ,# ZZZZ 2-????
-43EBA3,civ,# ZZZZ 2-????
-43EBA4,civ,# ZZZZ 2-????
-43EBA5,civ,# ZZZZ 2-????
-43EBA6,civ,# ZZZZ 2-????
-43EBA7,civ,# ZZZZ 2-????
-43EBA8,civ,# ZZZZ 2-????
-43EBA9,civ,# ZZZZ 2-????
-43EBAA,civ,# ZZZZ 2-????
-43EBAB,civ,# ZZZZ 2-????
-43EBAC,civ,# ZZZZ 2-????
-43EBAD,civ,# ZZZZ 2-????
-43EBAE,civ,# ZZZZ 2-????
-43EBAF,civ,# ZZZZ 2-????
-43EBB0,civ,# ZZZZ 2-????
-43EBB1,civ,# ZZZZ 2-????
-43EBB2,civ,# ZZZZ 2-????
-43EBB3,civ,# ZZZZ 2-????
-43EBB4,civ,# ZZZZ 2-????
-43EBB5,civ,# ZZZZ 2-????
-43EBB6,civ,# ZZZZ 2-????
-43EBB7,civ,# ZZZZ 2-????
-43EBB8,civ,# ZZZZ 2-????
-43EBB9,civ,# ZZZZ 2-????
-43EBBA,civ,# ZZZZ 2-????
-43EBBB,civ,# ZZZZ 2-????
-43EBBC,civ,# ZZZZ 2-????
-43EBBD,civ,# ZZZZ 2-????
-43EBBE,civ,# ZZZZ 2-????
-43EBBF,civ,# ZZZZ 2-????
-43EBC0,civ,# ZZZZ 2-????
-43EBC1,civ,# ZZZZ 2-????
-43EBC2,civ,# ZZZZ 2-????
-43EBC3,civ,# ZZZZ 2-????
-43EBC4,civ,# ZZZZ 2-????
-43EBC5,civ,# ZZZZ 2-????
-43EBC6,civ,# ZZZZ 2-????
-43EBC7,civ,# ZZZZ 2-????
-43EBC8,civ,# ZZZZ 2-????
-43EBC9,civ,# ZZZZ 2-????
-43EBCA,civ,# ZZZZ 2-????
-43EBCB,civ,# ZZZZ 2-????
-43EBCC,civ,# ZZZZ 2-????
-43EBCD,civ,# ZZZZ 2-????
-43EBCE,civ,# ZZZZ 2-????
-43EBCF,civ,# ZZZZ 2-????
-43EBD0,civ,# ZZZZ 2-????
-43EBD1,civ,# ZZZZ 2-????
-43EBD2,civ,# ZZZZ 2-????
-43EBD3,civ,# ZZZZ 2-????
-43EBD4,civ,# ZZZZ 2-????
-43EBD5,civ,# ZZZZ 2-????
-43EBD6,civ,# ZZZZ 2-????
-43EBD7,civ,# ZZZZ 2-????
-43EBD8,civ,# ZZZZ 2-????
-43EBD9,civ,# ZZZZ 2-????
-43EBDA,civ,# ZZZZ 2-????
-43EBDB,civ,# ZZZZ 2-????
-43EBDC,civ,# ZZZZ 2-????
-43EBDD,civ,# ZZZZ 2-????
-43EBDE,civ,# ZZZZ 2-????
-43EBDF,civ,# ZZZZ 2-????
-43EBE0,civ,# ZZZZ 2-????
-43EBE1,civ,# ZZZZ 2-????
-43EBE2,civ,# ZZZZ 2-????
-43EBE3,civ,# ZZZZ 2-????
-43EBE4,civ,# ZZZZ 2-????
-43EBE5,civ,# ZZZZ 2-????
-43EBE6,civ,# ZZZZ 2-????
-43EBE7,civ,# ZZZZ 2-????
-43EBE8,civ,# ZZZZ 2-????
-43EBE9,civ,# ZZZZ 2-????
-43EBEA,civ,# ZZZZ 2-????
-43EBEB,civ,# ZZZZ 2-????
-43EBEC,civ,# ZZZZ 2-????
-43EBED,civ,# ZZZZ 2-????
-43EBEE,civ,# ZZZZ 2-????
-43EBEF,civ,# ZZZZ 2-????
-43EBF0,civ,# ZZZZ 2-????
-43EBF1,civ,# ZZZZ 2-????
-43EBF2,civ,# ZZZZ 2-????
-43EBF3,civ,# ZZZZ 2-????
-43EBF4,civ,# ZZZZ 2-????
-43EBF5,civ,# ZZZZ 2-????
-43EBF6,civ,# ZZZZ 2-????
-43EBF7,civ,# ZZZZ 2-????
-43EBF8,civ,# ZZZZ 2-????
-43EBF9,civ,# ZZZZ 2-????
-43EBFA,civ,# ZZZZ 2-????
-43EBFB,civ,# ZZZZ 2-????
-43EBFC,civ,# ZZZZ 2-????
-43EBFD,civ,# ZZZZ 2-????
-43EBFE,civ,# ZZZZ 2-????
-43EBFF,civ,# ZZZZ 2-????
-43EC00,civ,# ZZZZ 2-????
-43EC01,civ,# ZZZZ 2-????
-43EC02,civ,# ZZZZ 2-????
-43EC03,civ,# ZZZZ 2-????
-43EC04,civ,# ZZZZ 2-????
-43EC05,civ,# ZZZZ 2-????
-43EC06,civ,# ZZZZ 2-????
-43EC07,civ,# ZZZZ 2-????
-43EC08,civ,# ZZZZ 2-????
-43EC09,civ,# ZZZZ 2-????
-43EC0A,civ,# ZZZZ 2-????
-43EC0B,civ,# ZZZZ 2-????
-43EC0C,civ,# ZZZZ 2-????
-43EC0D,civ,# ZZZZ 2-????
-43EC0E,civ,# ZZZZ 2-????
-43EC0F,civ,# ZZZZ 2-????
-43EC10,civ,# ZZZZ 2-????
-43EC11,civ,# ZZZZ 2-????
-43EC12,civ,# ZZZZ 2-????
-43EC13,civ,# ZZZZ 2-????
-43EC14,civ,# ZZZZ 2-????
-43EC15,civ,# ZZZZ 2-????
-43EC16,civ,# ZZZZ 2-????
-43EC17,civ,# ZZZZ 2-????
-43EC18,civ,# ZZZZ 2-????
-43EC19,civ,# ZZZZ 2-????
-43EC1A,civ,# ZZZZ 2-????
-43EC1B,civ,# ZZZZ 2-????
-43EC1C,civ,# ZZZZ 2-????
-43EC1D,civ,# ZZZZ 2-????
-43EC1E,civ,# ZZZZ 2-????
-43EC1F,civ,# ZZZZ 2-????
-43EC20,civ,# ZZZZ 2-????
-43EC21,civ,# ZZZZ 2-????
-43EC22,civ,# ZZZZ 2-????
-43EC23,civ,# ZZZZ 2-????
-43EC24,civ,# ZZZZ 2-????
-43EC25,civ,# ZZZZ 2-????
-43EC26,civ,# ZZZZ 2-????
-43EC27,civ,# ZZZZ 2-????
-43EC28,civ,# ZZZZ 2-????
-43EC29,civ,# ZZZZ 2-????
-43EC2A,civ,# ZZZZ 2-????
-43EC2B,civ,# ZZZZ 2-????
-43EC2C,civ,# ZZZZ 2-????
-43EC2D,civ,# ZZZZ 2-????
-43EC2E,civ,# ZZZZ 2-????
-43EC2F,civ,# ZZZZ 2-????
-43EC30,civ,# ZZZZ 2-????
-43EC31,civ,# ZZZZ 2-????
-43EC32,civ,# ZZZZ 2-????
-43EC33,civ,# ZZZZ 2-????
-43EC34,civ,# ZZZZ 2-????
-43EC35,civ,# ZZZZ 2-????
-43EC36,civ,# ZZZZ 2-????
-43EC37,civ,# ZZZZ 2-????
-43EC38,civ,# ZZZZ 2-????
-43EC39,civ,# ZZZZ 2-????
-43EC3A,civ,# ZZZZ 2-????
-43EC3B,civ,# ZZZZ 2-????
-43EC3C,civ,# ZZZZ 2-????
-43EC3D,civ,# ZZZZ 2-????
-43EC3E,civ,# ZZZZ 2-????
-43EC3F,civ,# ZZZZ 2-????
-43EC40,civ,# ZZZZ 2-????
-43EC41,civ,# ZZZZ 2-????
-43EC42,civ,# ZZZZ 2-????
-43EC43,civ,# ZZZZ 2-????
-43EC44,civ,# ZZZZ 2-????
-43EC45,civ,# ZZZZ 2-????
-43EC46,civ,# ZZZZ 2-????
-43EC47,civ,# ZZZZ 2-????
-43EC48,civ,# ZZZZ 2-????
-43EC49,civ,# ZZZZ 2-????
-43EC4A,civ,# ZZZZ 2-????
-43EC4B,civ,# ZZZZ 2-????
-43EC4C,civ,# ZZZZ 2-????
-43EC4D,civ,# ZZZZ 2-????
-43EC4E,civ,# ZZZZ 2-????
-43EC4F,civ,# ZZZZ 2-????
-43EC50,civ,# ZZZZ 2-????
-43EC51,civ,# ZZZZ 2-????
-43EC52,civ,# ZZZZ 2-????
-43EC53,civ,# ZZZZ 2-????
-43EC54,civ,# ZZZZ 2-????
-43EC55,civ,# ZZZZ 2-????
-43EC56,civ,# ZZZZ 2-????
-43EC57,civ,# ZZZZ 2-????
-43EC58,civ,# ZZZZ 2-????
-43EC59,civ,# ZZZZ 2-????
-43EC5A,civ,# ZZZZ 2-????
-43EC5B,civ,# ZZZZ 2-????
-43EC5C,civ,# ZZZZ 2-????
-43EC5D,civ,# ZZZZ 2-????
-43EC5E,civ,# ZZZZ 2-????
-43EC5F,civ,# ZZZZ 2-????
+43EAFE,civ,# 2-????
+43EAFF,civ,# 2-????
+43EB00,civ,# 2-????
+43EB01,civ,# 2-????
+43EB02,civ,# 2-????
+43EB03,civ,# 2-????
+43EB04,civ,# 2-????
+43EB05,civ,# 2-????
+43EB06,civ,# 2-????
+43EB07,civ,# 2-????
+43EB08,civ,# 2-????
+43EB09,civ,# 2-????
+43EB0A,civ,# 2-????
+43EB0B,civ,# 2-????
+43EB0C,civ,# 2-????
+43EB0D,civ,# 2-????
+43EB0E,civ,# 2-????
+43EB0F,civ,# 2-????
+43EB10,civ,# 2-????
+43EB11,civ,# 2-????
+43EB12,civ,# 2-????
+43EB13,civ,# 2-????
+43EB14,civ,# 2-????
+43EB15,civ,# 2-????
+43EB16,civ,# 2-????
+43EB17,civ,# 2-????
+43EB18,civ,# 2-????
+43EB19,civ,# 2-????
+43EB1A,civ,# 2-????
+43EB1B,civ,# 2-????
+43EB1C,civ,# 2-????
+43EB1D,civ,# 2-????
+43EB1E,civ,# 2-????
+43EB1F,civ,# 2-????
+43EB20,civ,# 2-????
+43EB21,civ,# 2-????
+43EB22,civ,# 2-????
+43EB23,civ,# 2-????
+43EB24,civ,# 2-????
+43EB25,civ,# 2-????
+43EB26,civ,# 2-????
+43EB27,civ,# 2-????
+43EB28,civ,# 2-????
+43EB29,civ,# 2-????
+43EB2A,civ,# 2-????
+43EB2B,civ,# 2-????
+43EB2C,civ,# 2-????
+43EB2D,civ,# 2-????
+43EB2E,civ,# 2-????
+43EB2F,civ,# 2-????
+43EB30,civ,# 2-????
+43EB31,civ,# 2-????
+43EB32,civ,# 2-????
+43EB33,civ,# 2-????
+43EB34,civ,# 2-????
+43EB35,civ,# 2-????
+43EB36,civ,# 2-????
+43EB37,civ,# 2-????
+43EB38,civ,# 2-????
+43EB39,civ,# 2-????
+43EB3A,civ,# 2-????
+43EB3B,civ,# 2-????
+43EB3C,civ,# 2-????
+43EB3D,civ,# 2-????
+43EB3E,civ,# 2-????
+43EB3F,civ,# 2-????
+43EB40,civ,# 2-????
+43EB41,civ,# 2-????
+43EB42,civ,# 2-????
+43EB43,civ,# 2-????
+43EB44,civ,# 2-????
+43EB45,civ,# 2-????
+43EB46,civ,# 2-????
+43EB47,civ,# 2-????
+43EB48,civ,# 2-????
+43EB49,civ,# 2-????
+43EB4A,civ,# 2-????
+43EB4B,civ,# 2-????
+43EB4C,civ,# 2-????
+43EB4D,civ,# 2-????
+43EB4E,civ,# 2-????
+43EB4F,civ,# 2-????
+43EB50,civ,# 2-????
+43EB51,civ,# 2-????
+43EB52,civ,# 2-????
+43EB53,civ,# 2-????
+43EB54,civ,# 2-????
+43EB55,civ,# 2-????
+43EB56,civ,# 2-????
+43EB57,civ,# 2-????
+43EB58,civ,# 2-????
+43EB59,civ,# 2-????
+43EB5A,civ,# 2-????
+43EB5B,civ,# 2-????
+43EB5C,civ,# 2-????
+43EB5D,civ,# 2-????
+43EB5E,civ,# 2-????
+43EB5F,civ,# 2-????
+43EB60,civ,# 2-????
+43EB61,civ,# 2-????
+43EB62,civ,# 2-????
+43EB63,civ,# 2-????
+43EB64,civ,# 2-????
+43EB65,civ,# 2-????
+43EB66,civ,# 2-????
+43EB67,civ,# 2-????
+43EB68,civ,# 2-????
+43EB69,civ,# 2-????
+43EB6A,civ,# 2-????
+43EB6B,civ,# 2-????
+43EB6C,civ,# 2-????
+43EB6D,civ,# 2-????
+43EB6E,civ,# 2-????
+43EB6F,civ,# 2-????
+43EB70,civ,# 2-????
+43EB71,civ,# 2-????
+43EB72,civ,# 2-????
+43EB73,civ,# 2-????
+43EB74,civ,# 2-????
+43EB75,civ,# 2-????
+43EB76,civ,# 2-????
+43EB77,civ,# 2-????
+43EB78,civ,# 2-????
+43EB79,civ,# 2-????
+43EB7A,civ,# 2-????
+43EB7B,civ,# 2-????
+43EB7C,civ,# 2-????
+43EB7D,civ,# 2-????
+43EB7E,civ,# 2-????
+43EB7F,civ,# 2-????
+43EB80,civ,# 2-????
+43EB81,civ,# 2-????
+43EB82,civ,# 2-????
+43EB83,civ,# 2-????
+43EB84,civ,# 2-????
+43EB85,civ,# 2-????
+43EB86,civ,# 2-????
+43EB87,civ,# 2-????
+43EB88,civ,# 2-????
+43EB89,civ,# 2-????
+43EB8A,civ,# 2-????
+43EB8B,civ,# 2-????
+43EB8C,civ,# 2-????
+43EB8D,civ,# 2-????
+43EB8E,civ,# 2-????
+43EB8F,civ,# 2-????
+43EB90,civ,# 2-????
+43EB91,civ,# 2-????
+43EB92,civ,# 2-????
+43EB93,civ,# 2-????
+43EB94,civ,# 2-????
+43EB95,civ,# 2-????
+43EB96,civ,# 2-????
+43EB97,civ,# 2-????
+43EB98,civ,# 2-????
+43EB99,civ,# 2-????
+43EB9A,civ,# 2-????
+43EB9B,civ,# 2-????
+43EB9C,civ,# 2-????
+43EB9D,civ,# 2-????
+43EB9E,civ,# 2-????
+43EB9F,civ,# 2-????
+43EBA0,civ,# 2-????
+43EBA1,civ,# 2-????
+43EBA2,civ,# 2-????
+43EBA3,civ,# 2-????
+43EBA4,civ,# 2-????
+43EBA5,civ,# 2-????
+43EBA6,civ,# 2-????
+43EBA7,civ,# 2-????
+43EBA8,civ,# 2-????
+43EBA9,civ,# 2-????
+43EBAA,civ,# 2-????
+43EBAB,civ,# 2-????
+43EBAC,civ,# 2-????
+43EBAD,civ,# 2-????
+43EBAE,civ,# 2-????
+43EBAF,civ,# 2-????
+43EBB0,civ,# 2-????
+43EBB1,civ,# 2-????
+43EBB2,civ,# 2-????
+43EBB3,civ,# 2-????
+43EBB4,civ,# 2-????
+43EBB5,civ,# 2-????
+43EBB6,civ,# 2-????
+43EBB7,civ,# 2-????
+43EBB8,civ,# 2-????
+43EBB9,civ,# 2-????
+43EBBA,civ,# 2-????
+43EBBB,civ,# 2-????
+43EBBC,civ,# 2-????
+43EBBD,civ,# 2-????
+43EBBE,civ,# 2-????
+43EBBF,civ,# 2-????
+43EBC0,civ,# 2-????
+43EBC1,civ,# 2-????
+43EBC2,civ,# 2-????
+43EBC3,civ,# 2-????
+43EBC4,civ,# 2-????
+43EBC5,civ,# 2-????
+43EBC6,civ,# 2-????
+43EBC7,civ,# 2-????
+43EBC8,civ,# 2-????
+43EBC9,civ,# 2-????
+43EBCA,civ,# 2-????
+43EBCB,civ,# 2-????
+43EBCC,civ,# 2-????
+43EBCD,civ,# 2-????
+43EBCE,civ,# 2-????
+43EBCF,civ,# 2-????
+43EBD0,civ,# 2-????
+43EBD1,civ,# 2-????
+43EBD2,civ,# 2-????
+43EBD3,civ,# 2-????
+43EBD4,civ,# 2-????
+43EBD5,civ,# 2-????
+43EBD6,civ,# 2-????
+43EBD7,civ,# 2-????
+43EBD8,civ,# 2-????
+43EBD9,civ,# 2-????
+43EBDA,civ,# 2-????
+43EBDB,civ,# 2-????
+43EBDC,civ,# 2-????
+43EBDD,civ,# 2-????
+43EBDE,civ,# 2-????
+43EBDF,civ,# 2-????
+43EBE0,civ,# 2-????
+43EBE1,civ,# 2-????
+43EBE2,civ,# 2-????
+43EBE3,civ,# 2-????
+43EBE4,civ,# 2-????
+43EBE5,civ,# 2-????
+43EBE6,civ,# 2-????
+43EBE7,civ,# 2-????
+43EBE8,civ,# 2-????
+43EBE9,civ,# 2-????
+43EBEA,civ,# 2-????
+43EBEB,civ,# 2-????
+43EBEC,civ,# 2-????
+43EBED,civ,# 2-????
+43EBEE,civ,# 2-????
+43EBEF,civ,# 2-????
+43EBF0,civ,# 2-????
+43EBF1,civ,# 2-????
+43EBF2,civ,# 2-????
+43EBF3,civ,# 2-????
+43EBF4,civ,# 2-????
+43EBF5,civ,# 2-????
+43EBF6,civ,# 2-????
+43EBF7,civ,# 2-????
+43EBF8,civ,# 2-????
+43EBF9,civ,# 2-????
+43EBFA,civ,# 2-????
+43EBFB,civ,# 2-????
+43EBFC,civ,# 2-????
+43EBFD,civ,# 2-????
+43EBFE,civ,# 2-????
+43EBFF,civ,# 2-????
+43EC00,civ,# 2-????
+43EC01,civ,# 2-????
+43EC02,civ,# 2-????
+43EC03,civ,# 2-????
+43EC04,civ,# 2-????
+43EC05,civ,# 2-????
+43EC06,civ,# 2-????
+43EC07,civ,# 2-????
+43EC08,civ,# 2-????
+43EC09,civ,# 2-????
+43EC0A,civ,# 2-????
+43EC0B,civ,# 2-????
+43EC0C,civ,# 2-????
+43EC0D,civ,# 2-????
+43EC0E,civ,# 2-????
+43EC0F,civ,# 2-????
+43EC10,civ,# 2-????
+43EC11,civ,# 2-????
+43EC12,civ,# 2-????
+43EC13,civ,# 2-????
+43EC14,civ,# 2-????
+43EC15,civ,# 2-????
+43EC16,civ,# 2-????
+43EC17,civ,# 2-????
+43EC18,civ,# 2-????
+43EC19,civ,# 2-????
+43EC1A,civ,# 2-????
+43EC1B,civ,# 2-????
+43EC1C,civ,# 2-????
+43EC1D,civ,# 2-????
+43EC1E,civ,# 2-????
+43EC1F,civ,# 2-????
+43EC20,civ,# 2-????
+43EC21,civ,# 2-????
+43EC22,civ,# 2-????
+43EC23,civ,# 2-????
+43EC24,civ,# 2-????
+43EC25,civ,# 2-????
+43EC26,civ,# 2-????
+43EC27,civ,# 2-????
+43EC28,civ,# 2-????
+43EC29,civ,# 2-????
+43EC2A,civ,# 2-????
+43EC2B,civ,# 2-????
+43EC2C,civ,# 2-????
+43EC2D,civ,# 2-????
+43EC2E,civ,# 2-????
+43EC2F,civ,# 2-????
+43EC30,civ,# 2-????
+43EC31,civ,# 2-????
+43EC32,civ,# 2-????
+43EC33,civ,# 2-????
+43EC34,civ,# 2-????
+43EC35,civ,# 2-????
+43EC36,civ,# 2-????
+43EC37,civ,# 2-????
+43EC38,civ,# 2-????
+43EC39,civ,# 2-????
+43EC3A,civ,# 2-????
+43EC3B,civ,# 2-????
+43EC3C,civ,# 2-????
+43EC3D,civ,# 2-????
+43EC3E,civ,# 2-????
+43EC3F,civ,# 2-????
+43EC40,civ,# 2-????
+43EC41,civ,# 2-????
+43EC42,civ,# 2-????
+43EC43,civ,# 2-????
+43EC44,civ,# 2-????
+43EC45,civ,# 2-????
+43EC46,civ,# 2-????
+43EC47,civ,# 2-????
+43EC48,civ,# 2-????
+43EC49,civ,# 2-????
+43EC4A,civ,# 2-????
+43EC4B,civ,# 2-????
+43EC4C,civ,# 2-????
+43EC4D,civ,# 2-????
+43EC4E,civ,# 2-????
+43EC4F,civ,# 2-????
+43EC50,civ,# 2-????
+43EC51,civ,# 2-????
+43EC52,civ,# 2-????
+43EC53,civ,# 2-????
+43EC54,civ,# 2-????
+43EC55,civ,# 2-????
+43EC56,civ,# 2-????
+43EC57,civ,# 2-????
+43EC58,civ,# 2-????
+43EC59,civ,# 2-????
+43EC5A,civ,# 2-????
+43EC5B,civ,# 2-????
+43EC5C,civ,# 2-????
+43EC5D,civ,# 2-????
+43EC5E,civ,# 2-????
+43EC5F,civ,# 2-????
 43EC60,civ,# ZZZZ 2-????
 43EC61,civ,# ZZZZ 2-????
 43EC62,civ,# ZZZZ 2-????
@@ -22556,53 +22687,53 @@ AC3FCD,mil,# B350 404
 43EFCE,civ,# ZZZZ 2-????
 43EFCF,civ,# ZZZZ 2-????
 43EFD0,civ,# ZZZZ 2-????
-43EFD1,civ,# ZZZZ 2-????
-43EFD2,civ,# ZZZZ 2-????
-43EFD3,civ,# ZZZZ 2-????
-43EFD4,civ,# ZZZZ 2-????
-43EFD5,civ,# ZZZZ 2-????
-43EFD6,civ,# ZZZZ 2-????
-43EFD7,civ,# ZZZZ 2-????
-43EFD8,civ,# ZZZZ 2-????
-43EFD9,civ,# ZZZZ 2-????
-43EFDA,civ,# ZZZZ 2-????
-43EFDB,civ,# ZZZZ 2-????
-43EFDC,civ,# ZZZZ 2-????
-43EFDD,civ,# ZZZZ 2-????
-43EFDE,civ,# ZZZZ 2-????
-43EFDF,civ,# ZZZZ 2-????
-43EFE0,civ,# ZZZZ 2-????
-43EFE1,civ,# ZZZZ 2-????
-43EFE2,civ,# ZZZZ 2-????
-43EFE3,civ,# ZZZZ 2-????
-43EFE4,civ,# ZZZZ 2-????
-43EFE5,civ,# ZZZZ 2-????
-43EFE6,civ,# ZZZZ 2-????
-43EFE7,civ,# ZZZZ 2-????
-43EFE8,civ,# ZZZZ 2-????
-43EFE9,civ,# ZZZZ 2-????
-43EFEA,civ,# ZZZZ 2-????
-43EFEB,civ,# ZZZZ 2-????
-43EFEC,civ,# ZZZZ 2-????
-43EFED,civ,# ZZZZ 2-????
-43EFEE,civ,# ZZZZ 2-????
-43EFEF,civ,# ZZZZ 2-????
-43EFF0,civ,# ZZZZ 2-????
-43EFF1,civ,# ZZZZ 2-????
-43EFF2,civ,# ZZZZ 2-????
-43EFF3,civ,# ZZZZ 2-????
-43EFF4,civ,# ZZZZ 2-????
-43EFF5,civ,# ZZZZ 2-????
-43EFF6,civ,# ZZZZ 2-????
-43EFF7,civ,# ZZZZ 2-????
-43EFF8,civ,# ZZZZ 2-????
-43EFF9,civ,# ZZZZ 2-????
-43EFFA,civ,# ZZZZ 2-????
-43EFFB,civ,# ZZZZ 2-????
-43EFFC,civ,# ZZZZ 2-????
-43EFFD,civ,# ZZZZ 2-????
-43EFFE,civ,# ZZZZ 2-????
-43EFFF,civ,# ZZZZ 2-????
+43EFD1,civ,# 2-????
+43EFD2,civ,# 2-????
+43EFD3,civ,# 2-????
+43EFD4,civ,# 2-????
+43EFD5,civ,# 2-????
+43EFD6,civ,# 2-????
+43EFD7,civ,# 2-????
+43EFD8,civ,# 2-????
+43EFD9,civ,# 2-????
+43EFDA,civ,# 2-????
+43EFDB,civ,# 2-????
+43EFDC,civ,# 2-????
+43EFDD,civ,# 2-????
+43EFDE,civ,# 2-????
+43EFDF,civ,# 2-????
+43EFE0,civ,# 2-????
+43EFE1,civ,# 2-????
+43EFE2,civ,# 2-????
+43EFE3,civ,# 2-????
+43EFE4,civ,# 2-????
+43EFE5,civ,# 2-????
+43EFE6,civ,# 2-????
+43EFE7,civ,# 2-????
+43EFE8,civ,# 2-????
+43EFE9,civ,# 2-????
+43EFEA,civ,# 2-????
+43EFEB,civ,# 2-????
+43EFEC,civ,# 2-????
+43EFED,civ,# 2-????
+43EFEE,civ,# 2-????
+43EFEF,civ,# 2-????
+43EFF0,civ,# 2-????
+43EFF1,civ,# 2-????
+43EFF2,civ,# 2-????
+43EFF3,civ,# 2-????
+43EFF4,civ,# 2-????
+43EFF5,civ,# 2-????
+43EFF6,civ,# 2-????
+43EFF7,civ,# 2-????
+43EFF8,civ,# 2-????
+43EFF9,civ,# 2-????
+43EFFA,civ,# 2-????
+43EFFB,civ,# 2-????
+43EFFC,civ,# 2-????
+43EFFD,civ,# 2-????
+43EFFE,civ,# 2-????
+43EFFF,civ,# 2-????
 43F680,civ,# 2-????
 43F681,civ,# 2-????
 43F682,civ,# 2-????
@@ -22731,26 +22862,153 @@ AC3FCD,mil,# B350 404
 43F6FD,civ,# 2-????
 43F6FE,civ,# 2-????
 43F6FF,civ,# 2-????
-43F700,civ,# ZZZZ 2-????
-43F701,civ,# ZZZZ 2-????
-43F702,civ,# ZZZZ 2-????
-43F703,civ,# ZZZZ 2-????
-43F704,civ,# ZZZZ 2-????
-43F705,civ,# ZZZZ 2-????
-43F706,civ,# ZZZZ 2-????
-43F707,civ,# ZZZZ 2-????
-43F708,civ,# ZZZZ 2-????
-43F709,civ,# ZZZZ 2-????
-43F70A,civ,# ZZZZ 2-????
-43F70B,civ,# ZZZZ 2-????
-43F70C,civ,# ZZZZ 2-????
-43F70D,civ,# ZZZZ 2-????
-43F70E,civ,# ZZZZ 2-????
-43F70F,civ,# ZZZZ 2-????
-43F710,civ,# ZZZZ 2-IBAZ
-43F714,civ,# A346 2-STNB
-43F71B,civ,# ???? 2-NNOI
-43F7C0,civ,# LJ75 2-ONEL
+43F700,civ,# 2-????
+43F701,civ,# 2-????
+43F702,civ,# 2-????
+43F703,civ,# 2-????
+43F704,civ,# 2-????
+43F705,civ,# 2-????
+43F706,civ,# 2-????
+43F707,civ,# 2-????
+43F708,civ,# 2-????
+43F709,civ,# 2-????
+43F70A,civ,# 2-????
+43F70B,civ,# 2-????
+43F70C,civ,# 2-????
+43F70D,civ,# 2-????
+43F70E,civ,# 2-????
+43F70F,civ,# 2-????
+43F710,civ,# 2-????
+43F711,civ,# 2-????
+43F712,civ,# 2-????
+43F713,civ,# 2-????
+43F714,civ,# 2-????
+43F715,civ,# 2-????
+43F716,civ,# 2-????
+43F717,civ,# 2-????
+43F718,civ,# 2-????
+43F719,civ,# 2-????
+43F71A,civ,# 2-????
+43F71B,civ,# 2-????
+43F71C,civ,# 2-????
+43F71D,civ,# 2-????
+43F71E,civ,# 2-????
+43F71F,civ,# 2-????
+43F720,civ,# 2-????
+43F721,civ,# 2-????
+43F723,civ,# 2-????
+43F724,civ,# 2-????
+43F725,civ,# 2-????
+43F726,civ,# 2-????
+43F727,civ,# 2-????
+43F728,civ,# 2-????
+43F729,civ,# 2-????
+43F72A,civ,# 2-????
+43F72B,civ,# 2-????
+43F72C,civ,# 2-????
+43F72D,civ,# 2-????
+43F72E,civ,# 2-????
+43F72F,civ,# 2-????
+43F730,civ,# 2-????
+43F731,civ,# 2-????
+43F732,civ,# 2-????
+43F733,civ,# 2-????
+43F734,civ,# 2-????
+43F735,civ,# 2-????
+43F736,civ,# 2-????
+43F737,civ,# 2-????
+43F738,civ,# 2-????
+43F739,civ,# 2-????
+43F73A,civ,# 2-????
+43F73B,civ,# 2-????
+43F73C,civ,# 2-????
+43F73D,civ,# 2-????
+43F73E,civ,# 2-????
+43F73F,civ,# 2-????
+43F740,civ,# 2-????
+43F741,civ,# 2-????
+43F742,civ,# 2-????
+43F743,civ,# 2-????
+43F744,civ,# 2-????
+43F745,civ,# 2-????
+43F746,civ,# 2-????
+43F747,civ,# 2-????
+43F748,civ,# 2-????
+43F749,civ,# 2-????
+43F74A,civ,# 2-????
+43F74B,civ,# 2-????
+43F74C,civ,# 2-????
+43F74D,civ,# 2-????
+43F74E,civ,# 2-????
+43F74F,civ,# 2-????
+43F750,civ,# 2-????
+43F751,civ,# 2-????
+43F752,civ,# 2-????
+43F753,civ,# 2-????
+43F754,civ,# 2-????
+43F755,civ,# 2-????
+43F756,civ,# 2-????
+43F757,civ,# 2-????
+43F758,civ,# 2-????
+43F759,civ,# 2-????
+43F75D,civ,# 2-????
+43F760,civ,# 2-????
+43F761,civ,# 2-????
+43F76E,civ,# 2-????
+43F76F,civ,# 2-????
+43F771,civ,# 2-????
+43F772,civ,# 2-????
+43F773,civ,# 2-????
+43F776,civ,# 2-????
+43F77A,civ,# 2-????
+43F77B,civ,# 2-????
+43F77D,civ,# 2-????
+43F783,civ,# 2-????
+43F786,civ,# 2-????
+43F78A,civ,# 2-????
+43F78B,civ,# 2-????
+43F78E,civ,# 2-????
+43F791,civ,# 2-????
+43F794,civ,# 2-????
+43F795,civ,# 2-????
+43F79A,civ,# 2-????
+43F7AA,civ,# 2-????
+43F7AF,civ,# 2-????
+43F7B3,civ,# 2-????
+43F7B4,civ,# 2-????
+43F7B8,civ,# 2-????
+43F7BD,civ,# 2-????
+43F7C0,civ,# 2-????
+43F7C2,civ,# 2-????
+43F7C3,civ,# 2-????
+43F7C6,civ,# 2-????
+43F7C7,civ,# 2-????
+43F7D3,civ,# 2-????
+43F7D5,civ,# 2-????
+43F7D9,civ,# 2-????
+43F7DD,civ,# 2-????
+43F7DF,civ,# 2-????
+43F7E0,civ,# 2-????
+43F7E1,civ,# 2-????
+43F7E2,civ,# 2-????
+43F7E3,civ,# 2-????
+43F7E4,civ,# 2-????
+43F7E5,civ,# 2-????
+43F7E6,civ,# 2-????
+43F7E7,civ,# 2-????
+43F7E8,civ,# 2-????
+43F7E9,civ,# 2-????
+43F7EA,civ,# 2-????
+43F7EB,civ,# 2-????
+43F7EC,civ,# 2-????
+43F7ED,civ,# 2-????
+43F7EE,civ,# 2-????
+43F7EF,civ,# 2-????
+43F7F6,civ,# 2-????
+43F7F8,civ,# 2-????
+43F7FE,civ,# 2-????
+43F810,civ,# 2-????
+43F813,civ,# 2-????
 ,,
 [Honduras],,
 0BA000,mil,# C208 FAH020
@@ -22761,11 +23019,29 @@ AADD4B,mil,# BE20 FAH-015
 477F8C,mil,# EC45 02
 477F8D,mil,# EC45 03
 477F8E,mil,# EC45 04
-477F9C,mil,# EC45 50
+477F9E,mil,# EC45 06
+477F9C,mil,# EC45 20
 477F88,mil,# Z42 28
 477F8A,mil,# Z42 24
 477FB5,mil,# Z42 21
 477FA0,mil,# AS50 101
+477F85,mil,# E390 610
+477F86,mil,# E390 611
+477F8F,mil,# EC45 07
+477F92,mil,# EC45 10
+477F8B,mil,# EC45 01
+477FA1,mil,# AS50 102
+477F9D,mil,# EC45 05
+477F90,mil,# EC45 08
+477F99,mil,# EC45 13
+477F95,mil,# EC45 16
+477F96,mil,# EC45 17
+477F9B,mil,# EC45 19
+477FB7,mil,# Z43 25
+477F87,mil,# Z42 27
+477F82,mil,# EC45 ??
+477F83,mil,# EC45 ??
+477F7B,mil,# EC25 74
 ,,
 [Ireland],,
 4CA44B,mil,# IRL PC12 280 
@@ -22775,6 +23051,9 @@ AADD4B,mil,# BE20 FAH-015
 4CA41A,mil,# PC9 269
 4CA41F,mil,# C295 284
 4CA420,mil,# C295 285
+4CA421,mil,# C295 286
+4CA448,mil,# FA6X 290
+4CA44A,mil,# DHC6 288
 ,,
 [India],,
 80078E,mil,# C17 CB-8001
@@ -22786,26 +23065,33 @@ AADD4B,mil,# BE20 FAH-015
 800794,mil,# C17 CB-8007
 800795,mil,# C17 CB-8008
 800796,mil,# C17 CB-8009
-800E63,mil,# C17 CB-8011
+8.00E+65,mil,# C17 CB-8011
+80030C,mil,# P8 IN320
 80030E,mil,# P8 IN322
 80030F,mil,# P8 IN323
 800310,mil,# P8 IN324
 800311,mil,# P8 IN325
 800312,mil,# P8 IN326
 800313,mil,# P8 IN327
-800E89,mil,# P8 IN328
+8.00E+91,mil,# P8 IN328
 800E8A,mil,# P8 IN329
 800E8B,mil,# P8 IN330
 800E8C,mil,# P8 IN331
-8003E5,mil,# A321 CA-7082
-800E27,mil,# D228 IN223
-800E28,mil,# D228 IN224
+8.00E+08,mil,# A321 CA-7082
+8.00E+29,mil,# D228 IN223
+8.00E+30,mil,# D228 IN224
+800E2A,mil,# D228 IN226
+800E2B,mil,# D228 IN227
 800E2E,mil,# D228 IN230
-800E41,mil,# D228 IN254
-800E65,mil,# D228 IN255
-800E66,mil,# D228 IN256
-800E67,mil,# D228 IN257
+800E2F,mil,# D228 IN231
+8.00E+32,mil,# D228 IN232
+8.00E+43,mil,# D228 IN254
+8.00E+67,mil,# D228 IN255
+8.00E+68,mil,# D228 IN256
+8.00E+69,mil,# D228 IN257
 800F13,mil,# D228 IN259
+800305,mil,# D228 HM700
+800306,mil,# D228 HM701
 800301,mil,# D228 HM702
 800307,mil,# D228 HM702
 800308,mil,# D228 HM703
@@ -22813,34 +23099,50 @@ AADD4B,mil,# BE20 FAH-015
 80030A,mil,# D228 HM705
 800302,mil,# D228 HM697
 800303,mil,# D228 HM698
-800E10,mil,# D228 KD708
-800E11,mil,# D228 KD709
-800E12,mil,# D228 KD710
-800E14,mil,# D228 KD712
-800E16,mil,# D228 KD714
-800E17,mil,# D228 KD715
-800E18,mil,# D228 KD716
-800E19,mil,# D228 KD717
+8.00E+12,mil,# D228 KD708
+8.00E+13,mil,# D228 KD709
+8.00E+14,mil,# D228 KD710
+8.00E+15,mil,# D228 KD711
+8.00E+16,mil,# D228 KD712
+8.00E+17,mil,# D228 KD713
+8.00E+18,mil,# D228 KD714
+8.00E+19,mil,# D228 KD715
+8.00E+20,mil,# D228 KD716
+8.00E+21,mil,# D228 KD717
 800E1A,mil,# D228 KD718
 800E1B,mil,# D228 KD719
 800E1C,mil,# D228 KD720
 800E1D,mil,# D228 KD721
-800E64,mil,# D228 KD722
-800E69,mil,# D228 KD723
+8.00E+66,mil,# D228 KD722
+8.00E+71,mil,# D228 KD723
 801485,mil,# D228 KD728
 8003C1,mil,# A321 CA-7081
-8003E6,mil,# A321 CA-7083
+8.00E+09,mil,# A321 CA-7083
 800414,mil,# A321 CA-7084
 80150B,mil,# C295 CA7101
-800333,mil,# C30J KC-3802
+80151F,mil,# C295 CA7102
+801520,mil,# C295 CA7103
+801521,mil,# C295 CA7104
+801522,mil,# C295 CA7105
+8.02E+08,mil,# C295 CA7106
+8.02E+09,mil,# C295 CA7107
+8.02E+10,mil,# C295 CA7108
 800332,mil,# C30J KC-3801
+800333,mil,# C30J KC-3802
 800335,mil,# C30J KC-3804
 800336,mil,# C30J KC-3805
 800337,mil,# C30J KC-3806
 800E1E,mil,# C30J KC-3807
 800E1F,mil,# C30J KC-3808
-800E23,mil,# C30J KC-3812
-800E42,mil,# C30J KC-3813
+8.00E+40,mil,# C30J KC-3808
+8.00E+22,mil,# C30J KC-3809
+8.00E+41,mil,# C30J KC-3809
+8.00E+23,mil,# C30J KC-3810
+800E3A,mil,# C30J KC-3810
+800E3B,mil,# C30J KC-3811
+8.00E+24,mil,# C30J KC-3811
+8.00E+25,mil,# C30J KC-3812
+8.00E+44,mil,# C30J KC-3813
 7CFA72,mil,# AN32 KA-2684
 80033C,mil,# AN32 KA-2724
 800DC2,mil,# AN32 KA-2750
@@ -22854,27 +23156,33 @@ AADD4B,mil,# BE20 FAH-015
 800DC1,mil,# AN32 KA-2667
 80079C,mil,# AN32 KA-2760
 80062A,mil,# AN32 KA-2677
-800E75,mil,# AN32 KA-2703
+8.00E+77,mil,# AN32 KA-2703
 80031C,mil,# AN32 KA-2708
+800E0A,mil,# AN32 KA-2718
 80031D,mil,# AN32 KA-2719
+80079B,mil,# AN32 KA2733
 80062E,mil,# AN32 KA-2735
-800E70,mil,# AN32 KA-2753
+8.00E+72,mil,# AN32 KA-2753
 800F29,mil,# AN32 KA-3060
 80031A,mil,# AN32 KA-2704
 800338,mil,# AN32 KA-2668
+8.00E+75,mil,# AN32 KA2744
 800DBB,mil,# AN32 K2693
+80079E,mil,# AN32 K2697
 80031B,mil,# AN32 K2707
 800DC3,mil,# AN32 K2747
 800DBC,mil,# AN32 KA-2736
 800DBE,mil,# AN32 KA-2675
 800DC4,mil,# AN32 KA-2742
-800E03,mil,# GL5T GB8001
-800E04,mil,# GL5T GB8002
+8.00E+05,mil,# GL5T GB8001
+8.00E+06,mil,# GL5T GB8002
 800349,mil,# PC7 P101
+80034A,mil,# PC7 P102
 80034B,mil,# PC7 P103
 80034C,mil,# PC7 P104
 80034D,mil,# PC7 P105
 80034E,mil,# PC7 P106
+80034F,mil,# PC7 P107
 800350,mil,# PC7 P108
 800351,mil,# PC7 P109
 800352,mil,# PC7 P110
@@ -22887,6 +23195,7 @@ AADD4B,mil,# BE20 FAH-015
 800359,mil,# PC7 P117
 80035A,mil,# PC7 P118
 80035B,mil,# PC7 P119
+80035C,mil,# PC7 P120
 80035D,mil,# PC7 P121
 800758,mil,# PC7 P122
 800759,mil,# PC7 P123
@@ -22922,12 +23231,72 @@ AADD4B,mil,# BE20 FAH-015
 800777,mil,# PC7 P153
 800778,mil,# PC7 P154
 800779,mil,# PC7 P155
+80077A,mil,# PC7 P156
+80077B,mil,# PC7 P157
+80077C,mil,# PC7 P158
+80077D,mil,# PC7 P159
+80077E,mil,# PC7 P160
+80077F,mil,# PC7 P161
+800780,mil,# PC7 P162
+800781,mil,# PC7 P163
+800782,mil,# PC7 P164
+800783,mil,# PC7 P165
+800784,mil,# PC7 P166
+800785,mil,# PC7 P167
+800786,mil,# PC7 P168
+800787,mil,# PC7 P169
+800788,mil,# PC7 P170
+800789,mil,# PC7 P171
+80078A,mil,# PC7 P172
+80078B,mil,# PC7 P173
+80078C,mil,# PC7 P174
+80078D,mil,# PC7 P175
 801450,mil,# H60 IN757
 801474,mil,# H60 IN758
 801475,mil,# H60 IN759
 801476,mil,# H60 IN760
 801477,mil,# H60 IN761
-
+80035C,mil,# PC7 P120
+800E3E,mil,# D228 IN251
+80150E,mil,# H60 IN765
+801448,mil,# LCA LA521
+8.00E+42,mil,# D228 IN253
+8016F8,mil,# C295 CA7110
+80062B,mil,# AN32 KA2680
+8.02E+11,mil,# C295 CA7109
+801486,mil,# D228 KD729
+801511,mil,# H60 IN768
+8016F9,mil,# C295 CA7111
+8016FA,mil,# C295 CA7112
+8016ED,mil,# H60 IN771
+800F2F,mil,# H60 IN751
+800F34,mil,# H60 IN756
+80150C,mil,# H60 IN763
+80150F,mil,# H60 IN766
+801510,mil,# H60 IN767
+8016EB,mil,# H60 IN769
+8016EC,mil,# H60 IN770
+8016ED,mil,# H60 IN771
+8016EE,mil,# H60 IN772
+80030B,mil,# D228 HM706
+801714,mil,# C295 CA7113
+801715,mil,# C295 CA7114
+8.00E+73,mil,# AN32 KA2759
+8.00E+81,mil,# AN32 KA3072
+801716,mil,# C295 CA7115
+8017AD,mil,# C295 CA7116
+800330,mil,# E145 KM3555
+800440,mil,# A321 CA-7086
+800317,mil,# AN32 KA2681
+800E0F,mil,# AN32 KA3066
+8006B2,mil,# AN32 KA2745
+8006B6,mil,# AN32 KA2751
+800314,mil,# AN32 KA2670
+80033A,mil,# AN32 KA2687
+8016EF,mil,# H60 IN773
+8016F0,mil,# H60 IN774
+800E0E,mil,# AN32 KA2678
+801515,mil,# LCA KH2013
 ,,
 [Indonesia],,
 8A0134,mil,# KT1 LL-0112
@@ -22949,13 +23318,96 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 8A2000,mil,# C35 AI-2318
 8A0328,mil,# B732 AI-7301
 8A042C,mil,# G120 LD-1217
-8A055D,mil,# G120 LD-1221	
+8A055D,mil,# G120 LD-1221
 8A070A,mil,# G120 LD-1230
 8A05A7,mil,# C212 A-2111
 8A0857,mil,# C212 A-2112
-8A08D4,mil,# C212 A-2114	
+8A08D4,mil,# C212 A-2114
 8A0329,mil,# B732 AI-7302
 8A06D5,mil,# B350 U-6401
+8A1011,mil,# KT1 LL-0107
+8A0131,mil,# KT1 LL-0109
+8A0134,mil,# KT1 LL-0112
+8A02D9,mil,# KT1 LL-0114
+8A02DA,mil,# KT1 LL-0115
+8A02DC,mil,# KT1 LL-0117
+8A083F,mil,# KT1 LL-0118
+8A0841,mil,# KT1 LL-0120
+8A0A29,mil,# F8X A-0802
+8A0A00,mil,# B738 A-7309
+8A032A,mil,# B732 AI-7303 
+8A06E0,mil,# CN35 P-8304
+8A08D0,mil,# C30J A-1342
+8A071B,mil,# CN35 P-8303
+8A0890,mil,# CN35 P-8306
+8A08CE,mil,# C30J A-1339 
+8A09E8,mil,# AS50 HS-7196
+8A0658,mil,# AS50 HS-7201
+8A065A,mil,# AS55 HS-7203
+8A0A2C,mil,# F16 TS-1602
+8A0A2E,mil,# F16 TS-1605
+8A0A31,mil,# F16 TS-1609
+8A0A32,mil,# F16 TS-1610
+8A0A34,mil,# F16 TS-1612
+8A0A09,mil,# EC25 H-2215
+8A05E4,mil,# EC25 HT-7206
+8A0894,mil,# C212 A-2113
+8A2907,mil,# C295 A-2907
+8A2909,mil,# C295 A-2909
+8A05E5,mil,# EC25 HT-7205
+8A0657,mil,# AS50 HS-7200
+8A05F1,mil,# AS50 HS-7197
+8A087A,mil,# B412 HA-5227
+8A087B,mil,# B412 HA-5228
+8A08DD,mil,# B412 HA-5232
+8A08DC,mil,# B412 HA-5231
+8A0A27,mil,# B412 HA-5173
+8A0706,mil,# G120 LD-1226
+8A0426,mil,# G120 LD-1211
+8A055B,mil,# G120 LD-1219
+8A042A,mil,# G120 LD-1215
+8A0422,mil,# G120 LD-1207
+8A041F,mil,# G120 LD-1204
+8A0840,mil,# KT1 LL-0119
+8A0A4C,mil,# B412 HA-5185
+8A0A36,mil,# B412 HA-5182
+8A0A35,mil,# B412 HA-5180
+8A063D,mil,# EH10 H-1001
+8A0705,mil,# G120 LD-1225
+8A055C,mil,# G120 LD-1220
+8A042D,mil,# G120 LD-1218
+8A0421,mil,# G120 LD-1206
+8A041D,mil,# G120 LD-1202
+8A0423,mil,# G120 LD-1208
+8A055E,mil,# G120 LD-1222
+8A0560,mil,# G120 LD-1224
+8A055F,mil,# G120 LD-1223
+8A2903,mil,# C295 A-2903
+8A0709,mil,# G120 LD-1229
+8A0580,mil,# AS32 H-3217
+8A0428,mil,# G120 LD-1213
+8A041C,mil,# G120 LD-1201
+8A041E,mil,# G120 LD-1203
+8A0420,mil,# G120 LD-1205
+8A0424,mil,# G120 LD-1209
+8A0425,mil,# G120 LD-1210
+8A0427,mil,# G120 LD-1212
+8A0429,mil,# G120 LD-1214
+8A042B,mil,# G120 LD-1216
+8A0707,mil,# G120 LD-1227
+8A0708,mil,# G120 LD-1228
+8A100E,mil,# KT1 LL-0104
+8A0100,mil,# KT1 LL-0105
+8A1010,mil,# KT1 LL-0106
+8A1012,mil,# KT1 LL-0108
+8A02D8,mil,# KT1 LL-0113
+8A0873,mil,# B412 HA-5230
+8A0A25,mil,# A400 A-4001
+8A0A01,mil,# B738 A-7310
+8A0A3C,mil,# C212 A-2117
+8A0A76,mil,# C212 A-2118
+8A05F2,mil,# AS50 HS-7198
+8A0766,mil,# AS65 HS-1310
 ,,
 [Italy],,
 33FD64,mil,# A139 MM81967
@@ -22977,6 +23429,7 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 33FD99,mil,# GLF5 MM62303
 33FD69,mil,# RQ4 MMAV-SA-0016
 33FD6A,mil,# Q4 MMAV-SA-0015
+33FD5E,mil,# Q4 MMAV-SA-0017
 33FE12,mil,# D228 MM62158
 33FD0A,mil,# GLF5 MM62329
 33FCEB,mil,# GLF5 MM62332 
@@ -23082,6 +23535,7 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 33FD6D,mil,# M346 MM55230
 33FD70,mil,# M346 MM55231
 33FD9B,mil,# M346 MM55220
+33FE6C,mil,# M346 MM55224
 33FDE2,mil,# A149 CSX81848
 33FD5F,mil,# B350 MM62317
 33FEA8,mil,# NH90 MM81577
@@ -23107,9 +23561,121 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 33FDFC,mil,# EUFI MM7345
 33FDAD,mil,# EH10 MM81868
 33FD75,mil,# EH10 MM81870
+32005D,mil,# A169 MM82055
+320038,mil,# A139 MM81964
+32004C,mil,# A169 MM82004
+32002A,mil,# A139 MM81954
+33FD37,mil,# A139 MM82023
+320078,mil,# A169 MM82156
+33FCB0,mil,# P180 MM62336
+33FCBF,mil,# A169 MM82159
+33FD94,mil,# P180 MM62304
+33FCAA,mil,# P180 MM62337
+33FCB6,mil,# P180 MM62335
+33FD91,mil,# M346 MM55221
+33FDEB,mil,# NH90 MM81591
+33FCDA,mil,# NH90 MM81621
+33FD5A,mil,# NH90 MM81611
+33FD22,mil,# NH90 MM81615
+33FD88,mil,# NH90 MM81606
+33FDB8,mil,# H47 MM81789
+33FDDF,mil,# H47 MM81783
+33FD39,mil,# NH90 MM81569
+33FDE3,mil,# NH90 MM81551
+33FC99,mil,# P180 MM62334
+32004D,mil,# A139 MM82009
+32003A,mil,# A169 MM81966
+33FD34,mil,# M345 MM55248
+33FD33,mil,# M345 MM55249
+33FD32,mil,# M345 MM55250
+33FD31,mil,# M345 MM55251
+33FD57,mil,# M346 MM55232
+33FD4F,mil,# EH10 MM81875
+33FE74,mil,# NH90 MM81538
+33FDC3,mil,# NH90 MM81555
+33FCD1,mil,# NH90 MM81622
+33FD52,mil,# NH90 MM81612
+33FE99,mil,# NH90 MM81531
+33FD50,mil,# NH90 MM81567
+33FD53,mil,# M345 MM55234
+33FD21,mil,# A139 MM82030
+33FD3B,mil,# NH90 MM81614
+33FE36,mil,# NH90 MM81583
+33FD10,mil,# NH90 MM81616
+33FDE7,mil,# NH90 MM81547
+32007D,mil,# A169 MM82177
+320074,mil,# A169 MM82142
+32005A,mil,# A169 MM82049
+32002E,mil,# AT76 MM62311
+33FFF0,mil,# M345 MM55248
+320024,mil,# A139 MM81932
+320025,mil,# A139 MM81946
+33FE95,mil,# NH90 MM81535
+33FD19,mil,# M346 MM55242
+33FD55,mil,# NH90 MM81566
+33FC96,mil,# A169 MM82188
+33FCA4,mil,# GLF6 MM62344
+33FCA5,mil,# GLF6 MM62343
+33FE1D,mil,# NH90 MM81584
+32004A,mil,# A139 MM82001
+33FCE0,mil,# EH10 MM81634
+33FE6F,mil,# NH90 MM81544
+33FE70,mil,# NH90 MM81543
+33FD38,mil,# NH90 MM81561
+33FDC5,mil,# NH90 MM81553
+33FCAE,mil,# A169 MM82174
+33FD7E,mil,# NH90 MM81560
+33FDD4,mil,# H47 MM81784
+33FD93,mil,# NH90 MM81625
+33FC92,mil,# A169 MM82196
+33FC91,mil,# A169 MM82197
+33FDB6,mil,# H47 MM81791
+33FC82,mil,# A169 MM82207
+33FDD2,mil,# EH10 MM81864
+33FCA2,mil,# GLF6 MMM62346
+33FCA3,mil,# GLF6 MMM62345
+33FC9F,mil,# A119 MM82126
+33FE7B,mil,# P180 MM62164
+320072,mil,# A169 MM82098
+33FD8F,mil,# NH90 MM81577
+33FDE8,mil,# NH90 MM81546
+320023,mil,# A139 MM81929
+33FD73,mil,# NH90 MM81609
+33FE16,mil,# NH90 MM81587
+33FD74,mil,# NH90 MM81561
+33FCBC,mil,# A119 MM82120
+33FD0D,mil,# NH90 MM81574
+38203B,mil,# AT45 MM62251
+320018,mil,# AT44 MM62166
+33FDEE,mil,# NH90 MM81589
+33FE71,mil,# NH90 MM81542
+33FC7A,mil,# A169 MM82216
+33FC7B,mil,# A169 MM82215
+33FC7C,mil,# A169 MM82214
+320075,mil,# A169 MM82151
+33FCEA,mil,# A169 MM82074
+33FCCB,mil,# A169 MM82139
+33FD05,mil,# A169 MM82054
+33FD03,mil,# A169 MM82058
+33FCB2,mil,# A119 MM82125
+320071,mil,# A169 MM82091
+33FC98,mil,# A139 MM82185
+33FC86,mil,# A169 MM82203
+33FC9E,mil,# A119 MM82127
+33FCBE,mil,# A169 MM82160
+33FCCC,mil,# A169 MM82116
+320076,mil,# A139 MM82152
+32007C,mil,# A169 MM82176
+33FDBE,mil,# EH10 MM81867
+33FE94,mil,# NH90 MM81536
+33FDFD,mil,# TOR MM7059
+33FD96,mil,# M346 MM55213
+33FD28,mil,# M345 MM55224
+33FE78,mil,# NH90 MM81582
+32FCDA,mil,# NH90 MM81624
 ,,
 [Iran],,
-7324E3,mil,# F900 EP-IGC/5-9017
+7.32E+06,mil,# F900 EP-IGC/5-9017
 ,,
 [Iraq],,
 728130,mil,# C30J YI-304
@@ -23136,6 +23702,9 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 87C832,mil,# P1 5512
 87C835,mil,# P1 5513
 87C836,mil,# P1 5514
+87C837,mil,# P1 5515
+87C83F,mil,# P1 5516
+87C840,mil,# P1 5517
 87C841,mil,# P1 5518
 87C842,mil,# P1 5519
 87C844,mil,# P1 5521
@@ -23182,7 +23751,41 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 87CC3B,mil,# KC2 98-1209
 87CD20,mil,# Q4 33-6001
 87CD02,mil,# KC46 24-3612
-87CD2E,mil,# KC46 34-3613
+87CD2E,mil,# KC46 44-3613
+87CC37,mil,# KC2 78-1206
+87CC1A,mil,# C130 45-1073
+87CC05,mil,# KC2 08-1201
+87C414,mil,# V22 91709
+87C41A,mil,# V22 91715
+87C41C,mil,# V22 91717
+87C40B,mil,# B350 23059
+87C402,mil,# B350 23053
+87C82B,mil,# C130 9054
+87C826,mil,# EC35 8809
+87C82E,mil,# EC35 8811
+87CD2F,mil,# B762 44-3614
+87C40D,mil,# V22 91702
+87C40F,mil,# V22 91704
+87C417,mil,# V22 91712
+87C416,mil,# V22 91711
+87C415,mil,# V22 91710
+87C412,mil,# V22 91707
+87CDE4,mil,# KC2 58-1218
+87C401,mil,# B350 23052
+87CD01,mil,# B762 14-3611
+87CDF3,mil,# B762 54-3615
+87CDF4,mil,# B762 54-3616
+87C41B,mil,# V22 91716
+87C40C,mil,# V22 91701
+87C40E,mil,# V22 91703
+87C410,mil,# V22 91705
+87C411,mil,# V22 91706
+87C413,mil,# V22 91708
+87C406,mil,# EC25 01021
+87C407,mil,# EC25 01022
+87C408,mil,# EC25 01023
+87C409,mil,# EC25 01024
+87CDE5,mil,# KC2 58-1219
 ,,
 [Jordan],,
 743596,mil,# PC21 ????
@@ -23194,6 +23797,7 @@ A66477,mil,# C30J N5105A (??? Test Reg)
 74358C,mil,# PC21 1175
 74358D,mil,# PC21 1176
 743592,mil,# PC21 1177 
+74358E,mil,# PC21 1177
 743593,mil,# PC21 1179/1182 
 743595,mil,# PC21 1162
 743594,mil,# PC21 1183
@@ -23209,16 +23813,53 @@ A7CE16,mil,# AT8T 1585
 743597,mil,# M28 355
 743598,mil,# M28 356
 7434C8,mil,# C208 1538
+743395,mil,# AT8T 2561
+1E3D8A,mil,# C130 359
+7434C2,mil,# C208 1540
+7434C1,mil,# C208 1541
+7434C3,mil,# B505 540
+7434D4,mil,# IL76 361
 ,,
 [Kenya],,
+04C20C,mil,# A139 KAF1802
 04C20D,mil,# A139 KAF1804
+04C20E,mil,# A139 KAF1806
+04C1E8,mil,# C27J 222
+04C1E9,mil,# C27J 224
+04C1EA,mil,# C27J 226
+04C1A6,mil,# DH8A 304
+04C1A7,mil,# DH8A 305
+04C1A8,mil,# DH8A 306
 ,,
 [Kuwait],,
 7061F5,mil,# C30J KAF326
 7061F6,mil,# C130 KAF327
 7061F7,mil,# C30J KAF328
 706216,mil,# C17 KAF343
+70625B,mil,# EC25 601
+70625C,mil,# EC25 602
+70625D,mil,# EC25 603
+70625E,mil,# EC25 604
+70625F,mil,# EC25 605
+706260,mil,# EC25 606
+706261,mil,# EC25 607
+706262,mil,# EC25 608
 706263,mil,# EC25 609
+706264,mil,# EC25 610
+706265,mil,# EC25 611
+706266,mil,# EC25 612
+706267,mil,# EC25 613
+706268,mil,# EC25 614
+706269,mil,# EC25 615
+70626A,mil,# EC25 616
+70626B,mil,# EC25 617
+70626C,mil,# EC25 618
+70626D,mil,# EC25 619
+70626E,mil,# EC25 620
+70626F,mil,# EC25 621
+706270,mil,# EC25 622
+706271,mil,# EC25 623
+706272,mil,# EC25 624
 ,,
 [Kazakhstan],,
 683037,mil,# B752 UP-B5701
@@ -23227,6 +23868,9 @@ A7CE16,mil,# AT8T 1585
 68324A,mil,# B350 35002
 68324C,mil,# E35L 65001
 683243,mil,# SU95 95100
+683305,mil,# L410 41 RED
+683306,mil,# L410 42 RED
+68324F,mil,# A400 21 RED
 ,,
 [Latvia],,
 502FAD,mil,# UAV ???? Latvia - Latvian Armed Forces - poss UAV Factory Penguin C
@@ -23234,6 +23878,9 @@ A7CE16,mil,# AT8T 1585
 502FA7,mil,# AN2 025
 502FAF,mil,# H60 108
 502D2F,mil,# A119 YL-HMZ
+502FA5,mil,# H60 105
+502FAB,mil,# UAV ???? Latvia
+502FA9,mil,# UAV ???? Latvia
 ,,
 [Libya],,
 01801C,mil,# AN72 5A-CAA
@@ -23249,8 +23896,9 @@ A7CE16,mil,# AT8T 1585
 503FD9,mil,# L410 02 BLUE
 ,,
 [Lebanon],,
+748712,mil,# E314 L-712
 748713,mil,# E314 L-713
-748714,mil,# E314 L-713
+748714,mil,# E314 L-714
 748715,mil,# E314 L-715
 A1C428,mil,# C208 L-401
 ,,
@@ -23258,13 +23906,12 @@ A1C428,mil,# C208 L-401
 05CC10,mil,# C295 TZ-12T
 ,,
 [Malta],,
-4D20C1,mil,# DH8D 77 Pakistan Navy Malta (by ICAOHex)
 4D23B3,mil,# BN2T AS9819
 4D206A,mil,# BE20 AS1227
 4D20DE,mil,# A139 AS1429
 4D20C3,mil,# A139 AS1428
 4D2117,mil,# A139 AS1630
-4D232D,mil,# HRON AS2132
+4D2166,mil,# BE20 AS1731
 ,,
 [Malaysia],,
 7500D5,mil,# C130 M30-14
@@ -23281,6 +23928,18 @@ A7E429,mil,# H500 M83-06
 7502AB,mil,# EC25 M55-12
 A829B2,mil,# B350 M101-01
 7502AE,mil,# CL2T M71-01
+7502A0,mil,# EC25 M55-01
+7502A3,mil,# EC25 M55-04
+7502A5,mil,# EC25 M55-06
+7503F7,mil,# EC20 M103-01
+750415,mil,# EC20 M103-04
+75026D,mil,# A320 9M-NAB
+AAE4E2,mil,# BE20 M41-04
+7502A9,mil,# EC25 M55-10
+7503F8,mil,# EC20 M103-02
+7502A1,mil,# EC25 M55-02
+75012D,mil,# PC7 M50-01
+7502A6,mil,# EC25 M55-07
 ,,
 [Maritime MMSI],,
 F10042,civ,#
@@ -23863,6 +24522,58 @@ F0D884,civ,#
 F0D885,civ,#
 F0B943,civ,#
 F0D886,civ,#
+F01352,civ,#
+F0D887,civ,#
+F0D888,civ,#
+F0D889,civ,#
+F0B944,civ,#
+F01353,civ,#
+F0B945,civ,#
+F0D890,civ,#
+F0D891,civ,#
+F0D892,civ,#
+F0B946,civ,#
+F0B947,civ,#
+F0D893,civ,#
+F99990,civ,#
+F99991,civ,#
+F99992,civ,#
+F99993,civ,#
+F99994,civ,#
+F99995,civ,#
+F01354,civ,#
+F0B948,civ,#
+F0D894,civ,#
+F0D896,civ,#
+F0D895,civ,#
+F0D897,civ,#
+F01355,civ,#
+F0B949,civ,#
+F0D899,civ,#
+F0B950,civ,#
+F0D898,civ,#
+F0D900,civ,#
+F0D901,civ,#
+F01356,civ,#
+F0B951,civ,#
+F0D902,civ,#
+F0D903,civ,#
+F0D904,civ,#
+F01357,civ,#
+F0B952,civ,#
+F0B953,civ,#
+F0D905,civ,#
+F0D906,civ,#
+F01358,civ,#
+F0B954,civ,#
+F0B955,civ,#
+F09100,civ,#
+F0D907,civ,#
+F0D908,civ,#
+F10043,civ,#
+F10044,civ,#
+F10045,civ,#
+F0B956,civ,#
 ,,
 [Mexico],,
 0D05AE,mil,# C295 3201
@@ -23873,8 +24584,6 @@ F0D886,civ,#
 0D07C5,mil,# B350 ANX-1190
 0D0879,mil,# B350 ANX-1192
 0D07D5,mil,# GLF5 ANX-1201
-0D0971,mil,# B738 3526
-0D0A13,mil,# B738 3528
 0D08A7,mil,# B350 5209
 0D0914,mil,# GLF4 3915
 0D088C,mil,# GLF5 3910
@@ -23883,6 +24592,7 @@ F0D886,civ,#
 0D06DA,mil,# DH8B ANX-1230
 0D0E26,mil,# DH8B ANX-1231
 0D0878,mil,# B722 GN-401
+0D000F,mil,# B722 GN-402
 0D0877,mil,# B722 GN-403
 0D08A6,mil,# B350 5208
 0D0958,mil,# B350 5210
@@ -23899,7 +24609,6 @@ F0D886,civ,#
 0D0BF4,mil,# EC20 GN-307
 0D0872,mil,# CL60 3911 - one of these is wrong
 0D054A,mil,# CL60 3911 - one of these is wrong
-0D09E7,mil,# B738 3527
 0D0AB0,mil,# B350 3973
 0D08A9,mil,# B350 5212
 0D0961,mil,# B350 5213
@@ -23908,6 +24617,7 @@ F0D886,civ,#
 0D09AE,mil,# TEX2 ANX-
 0D0887,mil,# TEX2 2001
 0D09A7,mil,# TEX2 2006
+0D08CE,mil,# TEX2 2012
 0D091A,mil,# TEX2 2016
 0D0959,mil,# TEX2 2018
 0D095A,mil,# TEX2 2019
@@ -23920,7 +24630,7 @@ F0D886,civ,#
 0D05C2,mil,# LJ45 ANX-1208
 0D0944,mil,# B407 1955
 0D05E6,mil,# C295 ANX-1252
-0D08AB,mil,# C295 ANX-1254	
+0D08AB,mil,# C295 ANX-1254
 0D05D8,mil,# C295 3204
 0D064E,mil,# C27J 3403
 0D0650,mil,# C27J 3404
@@ -23930,55 +24640,91 @@ F0D886,civ,#
 0D0B28,mil,# C208 ANX-1260
 0D0E6B,mil,# C208 ANX-1261
 0D0971,civ,# B738 3526 / XA-ASM
-0D0A13,civ,# B738 3528 / XA-???
+0D0A13,civ,# B738 3528 / XA-AWM
 0D0942,mil,# C501 3933
+0D082C,mil,# C130 3616
+0D0943,mil,# C501 3934
+0D08AE,mil,# TEX2 2006
+0D0999,mil,# TEX2 2025
+0D087A,mil,# B350 ANX-1193
+0D0A22,mil,# EC25 ANX-2240
+0D0568,mil,# CN35 ANX-1120
+0D0612,mil,# CN35 ANX-1122
+0D09AF,mil,# TEX2 2032
+0D0998,mil,# TEX2 2024
+0D08ED,mil,# TEX2 2014
+0D07DB,mil,# TEX2 6611
+0D09A8,mil,# TEX2 2027
+0D0824,mil,# TEX2 ANX-1307
+0D0825,mil,# TEX2 ANX-1308
+0D0611,mil,# CN35 ANX-1121
+0D08E4,mil,# B350 ANX-1194
+0D0A20,mil,# EC25 ANX-2241
+0D03BE,mil,# LJ45 ANX-1207
+0D07CF,mil,# B350 ANX-1191
+0D0613,mil,# CN35 ANX-1123
+0D08CB,mil,# TEX2 2009
+0D0888,mil,# TEX2 2002
+0D0889,mil,# TEX2 2003
+0D07DA,mil,# TEX2 6610
+0D80B0,mil,# TEX2 2008
+0D01E0,mil,# B732 3520
 ,,
 [Morocco],,
-020130,mil,# B748 CN-MBH
+20130,mil,# B748 CN-MBH
 02000F,mil,# B744 CN-RGA
 0200EE,mil,# CL4T CN-ATN
-020107,mil,# CL4T CN-ATO
-020109,mil,# CL2T CN-ATP
+20107,mil,# CL4T CN-ATO
+20109,mil,# CL2T CN-ATP
 02012D,mil,# GLF5 CN-MMR
-020136,mil,# GLF6 CN-MMH
-020131,mil,# B350 CN-TMS
-02008E,mil,# B350 CN-AMI	
-020091,mil,# B350 CN-AML
-020059,mil,# B350 CN-ANJ
+20136,mil,# GLF6 CN-MMH
+20131,mil,# B350 212
+02008E,mil,# B350 CN-AMI
+20091,mil,# B350 CN-AML
+20059,mil,# B350 CN-ANJ
 02005F,mil,# CN35 CN-AMC
-020061,mil,# CN35 CN-AME 
-020062,mil,# CN35 CN-AMF
-020063,mil,# CN35 CN-AMG 
-021040,mil,# C130 CN-AOR
-020033,mil,# C130 CN-AOC
+20061,mil,# CN35 CN-AME 
+20062,mil,# CN35 CN-AMF
+20063,mil,# CN35 CN-AMG 
+21040,mil,# C130 CN-AOR
+20033,mil,# C130 CN-AOC
 02010A,mil,# CL2T CN-ATQ
-020035,mil,# C130 CN-AOE
-020141,mil,# C56X CN-MMY
-020125,mil,# RJ1H CN-MSM
-0200E6,mil,# CL2T CN-ATM
+20035,mil,# C130 CN-AOE
+20141,mil,# C56X CN-MMY
+20125,mil,# RJ1H CN-MSM
+2.00E+08,mil,# CL2T CN-ATM
 02011A,mil,# H47 CN-ALK
-02015D,mil,# PUMA CN-ASA	
-,,
-[Malaysia],,
-75026D,mil,# A320 9M-NAB
-AAE4E2,mil,# BE20 M41-04
+02015D,mil,# PUMA CN-ASA
+02012F,mil,# B350 211
 ,,
 [Mozambique],,
-006015,mil,# H25B FAM-002
+6015,mil,# H25B FAM-002
 ,,
 [Myanmar],,
 458CE4,mil,# AT45 0004
+7.04E+87,mil,# AT75 0005
+704284,mil,# AT43 0006
+704682,mil,# AT43 0007
 704282,mil,# AT75 0008
 704000,mil,# AT76 0011
 C815A3,mil,# B190 4607
 7043C2,mil,# B190 4609
+704F80,mil,# F70 002
+704F81,mil,# F70 003
+704019,mil,# L410 XY-AMV
+704021,mil,# F70 XY-ARA
+,,
+[Nepal],,
+0E29E8,mil,# M28 NA-063
+0E3111,mil,# M28 NA-064
+70A04C,mil,# A139 NA-058
 ,,
 [Netherlands],,
 481046,mil,# NH90 N-195
 48104F,mil,# NH90 N-318
 481042,mil,# NH90 N-102
 481050,mil,# NH90 N-319
-48104A,mil,# NH90 N-324
+48104A,mil,# NH90 N-234
 481053,mil,# NH90 N-326
 481054,mil,# NH90 N-327
 481047,mil,# NH90 N-227
@@ -23991,14 +24737,23 @@ C815A3,mil,# B190 4607
 45104C,mil,# NH90 N-277 - miscode for above
 48104D,mil,# NH90 N-316
 480D7D,civ,# ZGND Schiphol Airport
+48104B,mil,# NH90 N-258
+481048,mil,# NH90 N-228
+48104E,mil,# NH90 N-317
+481049,mil,# NH90 N-233
+380849,mil,# NH90 N-233 - MISCODE
+4.80E+05,civ,# B742 EX-47001 - MISCODE
+480103,civ,# B742 EX-47004 - MISCODE
+4810F6,mil,# Q9 M-00?
+4810F8,mil,# Q9 M-00?
 ,,
 [Niger],,
 062F05,mil,# C130 5U-MMS
 ,,
 [Nigeria],,
-064098,mil,# C130 NAF913
+64098,mil,# C130 NAF913
 06401C,mil,# GLF5 5N-FGS
-0641E1,mil,# GLF5 5N-FGZ
+6.41E+03,mil,# GLF5 5N-FGZ
 ,,
 [Oman],,
 70C08D,mil,# C30J 505
@@ -24007,6 +24762,12 @@ C815A3,mil,# B190 4607
 70C092,mil,# C295 904
 70C090,mil,# C295 902
 70C091,mil,# C295 903
+70C096,mil,# C295 910
+70C095,mil,# C295 913
+70C093,mil,# C295 911
+70C085,mil,# PC9 432
+70C0D8,mil,# B429 702
+70C088,mil,# PC9 435
 ,,
 [Pakistan],,
 761047,mil,# GLF4 4270
@@ -24020,10 +24781,19 @@ A4294E,mil,# B350 444 - known miscode
 761071,mil,# SB20 J-029
 761073,mil,# SB20 J-024
 766035,mil,# C130 4476
+766038,mil,# C130 4483
+766039,mil,# C130 4455
+76602A,mil,# A319 A-1102
+761074,mil,# SB20 J038
+761072,mil,# SB20 J062
+766037,mil,# C130 4482
+761725,mil,# C55B EYE75
 ,,
 [Panama],,
 0C2143,mil,# BE58 AN-405
 0C217E,mil,# A139 AN-139
+0C215B,mil,# A139 AN-140
+0C215A,mil,# A139 AN-001
 ,,
 [Paraguay],,
 E880E8,mil,# C680 FAP3001
@@ -24033,6 +24803,9 @@ E88101,mil,# C280 0253
 E88102,mil,# C280 0254
 E88022,mil,# BE9L 0901
 E88D54,mil,# AS50 H-502
+E880E9,mil,# C208 0252
+E88887,mil,# TUCA 1059
+E88888,mil,# TUCA 1052
 ,,
 [Philippines],,
 7585D1,mil,# C295 195
@@ -24045,6 +24818,7 @@ E88D54,mil,# AS50 H-502
 7586F7,mil,# C172 NVT353
 7585D5,mil,# C172 15086
 75835C,mil,# H500 15-395
+7.58E+04,mil,# C295 142
 758737,mil,# C295 217
 758674,mil,# G280 1251
 75868B,mil,# C172 891
@@ -24082,7 +24856,17 @@ E88D54,mil,# AS50 H-502
 7586B7,mil,# C172 15074
 7586B6,mil,# C172 15048
 7586A7,mil,# S211 07008
-758703,mil,# C130 07008
+758703,mil,# C130 4704
+75841A,mil,# H25B 1252
+7586A8,mil,# S211 07002
+758659,mil,# C130 5040
+7586C9,mil,# C130 5157
+758718,mil,# BN2P 312
+758571,mil,# BE9L 393
+758566,mil,# BE9L 392
+7583B0,mil,# C295 129
+758742,mil,# BN2P 314
+758565,mil,# BE9L 390
 ,,
 [Poland],,
 48D900,mil,# PZ3T 029
@@ -24133,15 +24917,50 @@ E88D54,mil,# AS50 H-502
 480000,civ,# AP22 SP-SABT
 48DA46,mil,# MI8 630
 48DA42,mil,# MI8 631
+48DA8C,mil,# W3 ????
+48DA8E,mil,# W3 0815
+48D963,mil,# SF34 3401
+48D962,mil,# SF34 3402
+48DA43,mil,# MI8 633
+48DA41,mil,# MI8 602
+48DA86,mil,# W3 1018
+48DA60,mil,# EH10 6201
+48DA61,mil,# EH10 6202
+48DA62,mil,# EH10 6203
+48DA63,mil,# EH10 6204
+48DA96,mil,# W3 0419
+48DA92,mil,# W3 0620
+48DA85,mil,# W3 1017
+48DA97,mil,# W3 0519
+48DA4C,mil,# MI8 605
+48DA4B,mil,# MI8 603
+48DA45,mil,# MI8 655
+48D9CD,mil,# MG29 89
+48D9C5,mil,# MG29 83
+48D9C8,mil,# MG29 115
+A05ED4,mil,# MI8 653 - Miscode
 ,,
 [Portugal],,
 497024,mil,# UAV E512
 3434D6,mil,# C295 16709 - Miscode
 497FA1,mil,# H60 29801
 497FA2,mil,# H60 29802
+343284,mil,# C295 16704 - Miscode
+497FA3,mil,# H60 29803
+497FA4,mil,# H60 29804
+497A49,mil,# F16 15142
 ,,
 [Peru],,
 E8CFB9,mil,# LJ45 526
+E8CFC6,mil,# C27J 332
+E8CFBE,mil,# C27J 328
+E8C236,mil,# F60 AE-566
+E8CFD2,mil,# B350 EP-825
+E8CFDA,mil,# B350 345
+E8CFBF,mil,# C27J 329
+E8CFDB,mil,# B350 346
+E8CFBB,mil,# DHC6 305
+E8CFD9,mil,# C130 393
 ,,
 [Qatar],,
 06A20C,mil,# EUFI ZR504
@@ -24160,6 +24979,10 @@ E8CFB9,mil,# LJ45 526
 06A21A,mil,# EUFI ZR518
 06A21B,mil,# EUFI ZR519
 06A21C,mil,# EUFI ZR520
+06A21D,mil,# EUFI ZR521
+06A21E,mil,# EUFI ZR522
+06A21F,mil,# EUFI ZR523
+06A235,mil,# F15 QA538
 06A28A,mil,# PC24 QA397
 06A27A,mil,# C17 MAM
 06A27B,mil,# C17 MAN
@@ -24169,11 +24992,14 @@ E8CFB9,mil,# LJ45 526
 06A28D,mil,# AS50 QA321
 06A28F,mil,# AS50 QA322
 06A290,mil,# AS50 QA323
+06A291,mil,# AS50 QA324
 06A292,mil,# AS50 QA325
 06A293,mil,# AS50 QA326
+06A294,mil,# AS50 QA327
 06A295,mil,# AS50 QA328
 06A296,mil,# AS50 QA329
 06A297,mil,# AS50 QA330
+06A298,mil,# AS50 QA331
 06A299,mil,# AS50 QA332
 06A29A,mil,# AS50 QA333
 06A29B,mil,# AS50 QA334
@@ -24181,20 +25007,54 @@ E8CFB9,mil,# LJ45 526
 06A24E,mil,# A139 QA60
 06A24F,mil,# A139 QA61
 06A250,mil,# A139 QA62
-06A253,mil,# A139 QA65	
+06A252,mil,# A139 QA64
+06A253,mil,# A139 QA65
+06A254,mil,# A139 QA66
 06A257,mil,# A139 QA67
 06A259,mil,# A139 QA69
-06A25A,mil,# A139 QA70	
-06A25B,mil,# A139 QA71	
+06A25A,mil,# A139 QA70
+06A25B,mil,# A139 QA71
 06A25C,mil,# A139 QA72
 06A25D,mil,# A139 QA73
 06A25F,mil,# A139 QA75
 06A260,mil,# A139 QA76
 06A261,mil,# A139 QA77
+06A204,mil,# NH90 QA269
+06A26F,mil,# PC21 QA363
+06A271,mil,# PC21 QA365
+06A274,mil,# PC21 QA368
+06A268,mil,# PC21 QA356
+06A267,mil,# PC21 QA355
+06A272,mil,# PC21 QA366
+06A277,mil,# PC21 QA371
+06A273,mil,# PC21 QA367
+06A26D,mil,# PC21 QA361
+06A275,mil,# PC21 QA369
+06A265,mil,# PC21 QA353
+06A279,mil,# PC21 QA373
+06A262,mil,# PC21 QA350
+06A263,mil,# PC21 QA351
+06A264,mil,# PC21 QA352
+06A26C,mil,# PC21 QA360
+06A266,mil,# PC21 QA354
+06A276,mil,# PC21 QA370
+06A26A,mil,# PC21 QA358
+06A26E,mil,# PC21 QA362
+06A21F,mil,# EUFI ZA523
+06A28E,mil,# AS50 QA321
+06A27E,mil,# DHC6 MAQ
+06A20B,mil,# EUFI QA402
+06A25E,mil,# A139 QA74
+06A27F,mil,# DHC6 MAR
+06A251,mil,# A139 QA63
+06A270,mil,# PC21 QA364
+06A21F,mil,# EUFI ZR523/QA422
+06A1F4,mil,# EUFI ZR524/QA423
 ,,
 [Romania],,
 4A35AF,mil,# C27J 2706
 4A35A7,mil,# AN30 1104
+4A35A8,mil,# AN30 1105
 4A3618,mil,# C560 1122
 4A35A2,mil,# C130 5930
 4A35AE,mil,# C295 2075
@@ -24206,13 +25066,38 @@ E8CFB9,mil,# LJ45 526
 4A3605,mil,# AS65 202
 4A3606,mil,# AS65 203
 4A3607,mil,# AS65 204
+4A35B1,mil,# PUMA 40
 4A35B3,mil,# PUMA 75
 4A35BA,mil,# PUMA 77
 4A34C7,mil,# PUMA 97
 4A3601,mil,# PUMA 109
+4A35AD,mil,# C27J 2704
+4A35D4,mil,# PUMA 142
+4A35C1,mil,# PUMA 140
+4A35D5,mil,# PUMA 14
+4A35B5,mil,# PUMA 62
+4A35B8,mil,# PUMA 65
+4A35B9,mil,# PUMA 74
+4A3603,mil,# PUMA 109
+4A34F7,mil,# F16 ????
+4A35E1,mil,# F16 1601
+4A35E2,mil,# F16 1602
+4A35E3,mil,# F16 1603
+4A35E4,mil,# F16 1604
+4A35E5,mil,# F16 1605
+4A35E8,mil,# F16 1609 or 1616
+4835EA,mil,# F16 1610
+4A35EA,mil,# F16 1610
+4A35EB,mil,# F16 1611
+4A35ED,mil,# F16 1613
+4A35EF,mil,# F16 1613
+4A34B3,mil,# PUMA 02
+4A35B4,mil,# PUMA 106
+4A3601,mil,# PUMA 107
+4A35F9,mil,# C130 7432
 ,,
 [Russia],,
-194E97,mil,# T154 RF-85655
+1.94E+99,mil,# T154 RF-85655
 15405E,mil,# A124 RA-82014
 154076,mil,# A124 RA-82038
 15406E,mil,# A124 RA-82030
@@ -24235,7 +25120,7 @@ E8CFB9,mil,# LJ45 526
 14F123,mil,# A148 RA-61731
 155221,mil,# IL62 RA-86561
 15522C,mil,# IL62 RA-86572
-1551E0,mil,# IL62 RA-86496
+1.55E+03,mil,# IL62 RA-86496
 15521F,mil,# IL62 RA-86559
 1551DF,mil,# IL62 (find out!)
 1D3340,mil,# IL76 RF-78656
@@ -24243,7 +25128,7 @@ E8CFB9,mil,# LJ45 526
 1D3349,mil,# IL76 RF-78665
 152A26,mil,# IL76 RF-76326
 152C1C,mil,# IL76 RF-76828
-1533E2,mil,# IL76 RF-78818
+1.53E+05,mil,# IL76 RF-78818
 1533F3,mil,# IL76 RA-78835
 152B5E,mil,# IL76 RA-76638
 1533F8,mil,# IL76 RA-78840
@@ -24252,7 +25137,7 @@ E8CFB9,mil,# LJ45 526
 15537A,mil,# IL76 RA-86906
 153402,mil,# IL76 RA-78850
 152B7D,mil,# IL76 RA-76669
-1533E1,mil,# IL76 RA-78817
+1.53E+04,mil,# IL76 RA-78817
 1533FD,mil,# IL76 RA-78845
 1533FF,mil,# IL76 RA-78847
 1533F6,mil,# IL76 RA-78838
@@ -24263,7 +25148,7 @@ E8CFB9,mil,# LJ45 526
 15703C,mil,# IL76 RF-94268
 152BA9,mil,# IL76 RA-76516
 1533B0,mil,# IL76 RA-78768
-1533E0,mil,# IL76 RA-78816
+1.53E+03,mil,# IL76 RA-78816
 157040,mil,# IL76 RF-94272
 1D3345,mil,# IL76 RF-78661
 1D3346,mil,# IL76 RF-78662
@@ -24284,16 +25169,16 @@ E8CFB9,mil,# LJ45 526
 154C1B,mil,# T154 RA-85019
 154C31,mil,# T154 RA-85041
 154C83,mil,# T154 RA-85123
-154E65,mil,# T154 RA-85605
+1.54E+67,mil,# T154 RA-85605
 1B4F5F,mil,# T154 RA-85855
 154E5A,mil,# T154 RA-85594
-154E52,mil,# T154 RA-85586
+1.54E+54,mil,# T154 RA-85586
 154EB6,mil,# T154 RA-85686
 154CA3,mil,# T154 RA-85155
 154D70,mil,# T154 RA-85360
-154E37,mil,# T154 RA-8559
+1.54E+39,mil,# T154 RA-8559
 154C5C,mil,# T154 RA-85084
-154E32,mil,# T154 RA-85554
+1.54E+34,mil,# T154 RA-85554
 15521B,mil,# IL62 RA-86555
 14FC07,mil,# T204 RF-64519
 14FC0D,mil,# T204 RF-64525
@@ -24314,7 +25199,7 @@ E8CFB9,mil,# LJ45 526
 1505F2,mil,# L410 RA-67058
 14A127,mil,# A140 RA-41255
 142B1D,mil,# AN12 RA-11037
-142E89,mil,# AN12 RA-11913
+1.42E+91,mil,# AN12 RA-11913
 142C0F,mil,# AN12 RA-11279
 1561D9,mil,# AN2 RA-90585
 147583,mil,# AN30 RF-30083
@@ -24338,7 +25223,7 @@ AFFD1C,civ,# F900 T7-ESPRT
 71020A,mil,# B350 HZ-MS75
 7102DC,mil,# C130 482
 7102DD,mil,# C130 483
-7102E0,mil,# C130 1631
+7.10E+03,mil,# C130 1631
 7102C3,mil,# C130 HZ-111
 7103D4,mil,# C30J 3208
 7103D5,mil,# C30J 3209
@@ -24347,10 +25232,28 @@ AFFD1C,civ,# F900 T7-ESPRT
 7102FB,mil,# A332 2403
 710184,mil,# AS32 6601
 71035D,mil,# PC21 912
+7102DF,mil,# C130 484
+7102FD,mil,# A332 2405
+7102DE,mil,# C130 1632
+7102C4,mil,# C130 112
+7103AD,mil,# B350 5004
+7103B1,mil,# B350 5008
+7103BF,mil,# F15 ????
+7103B0,mil,# B350 5007
+7102A2,mil,# TOR 8303
+7102A1,mil,# TOR 8302
+7102A0,mil,# TOR 8301
+7103B8,mil,# SB20 6002
+7103B2,mil,# B350 5009
+7103AE,mil,# B350 5005
+7102FA,mil,# A332 2402
+71001C,mil,# EH10 HMH-1
+710314,mil,# PC21 2221
 ,,
 [Senegal],,
 07007A,mil,# C295 6W-TTD
-000003,mil,# A139 6W-HLA
+07007B,mil,# C295 6W-TTE
+3,mil,# A139 6W-HLA
 ,,
 [Serbia],,
 4C5C00,mil,# AN26 71386
@@ -24358,6 +25261,7 @@ AFFD1C,civ,# F900 T7-ESPRT
 4C54C8,mil,# PA34 YU-VGI
 4C5C1A,mil,# C295 29501
 4C5C1B,mil,# C295 29502
+4C1C5F,mil,# H145 14510
 ,,
 [Singapore],,
 76E721,mil,# PC21 9101
@@ -24379,7 +25283,7 @@ AFFD1C,civ,# F900 T7-ESPRT
 76E731,mil,# PC21 9117
 76E732,mil,# PC21 9118
 76E733,mil,# PC21 9119
-76E306,mil,# C130 721
+7.60E+307,mil,# C130 721
 76E307,mil,# C130 724
 76E308,mil,# C130 725
 76E309,mil,# C130 730
@@ -24391,6 +25295,7 @@ AFFD1C,civ,# F900 T7-ESPRT
 76E30F,mil,# A332 760
 76E310,mil,# A332 761
 76E311,mil,# A332 762
+76E312,mil,# A332 763
 76E313,mil,# A332 764
 76E314,mil,# A332 765
 ,,
@@ -24401,6 +25306,18 @@ AFFD1C,civ,# F900 T7-ESPRT
 505F88,mil,# MI8 0846
 505F72,mil,# H60 7642
 505F78,mil,# H60 7447
+505F6D,mil,# C27J 1931
+505FA0,mil,# GL5T 9513
+505F74,mil,# H60 7448
+505F70,mil,# H60 7640
+505FAF,mil,# L39 5254
+505FA1,mil,# GL5T 9633
+505F87,mil,# MI8 0845
+505F69,mil,# L410 2818
+505F77,mil,# H60 7446
+505F75,mil,# H60 7449
+505F6F,mil,# H60 7639
+505F71,mil,# H60 7641
 ,,
 [Slovenia],,
 506F30,civ,# PIPA S5-MTT 
@@ -24410,8 +25327,8 @@ AFFD1C,civ,# F900 T7-ESPRT
 506F31,civ,# WT9 S5-PIF
 506E1E,mil,# Z42 S5-DGF
 506E1B,mil,# Z42 S5-DEK
-506E21,mil,# Z42 S5-DGH
-506E18,mil,# Z42 S5-DEJ
+5.06E+23,mil,# Z42 S5-DGH
+5.06E+20,mil,# Z42 S5-DEJ
 506E1D,mil,# Z42 S5-DGC
 506E6D,mil,# B06 S5-HPK
 506F3A,civ,# TL30 S5-PGD
@@ -24448,21 +25365,48 @@ AFFD1C,civ,# F900 T7-ESPRT
 506FAF,civ,# BALL S5-OCD
 506E6C,mil,# B06 S5-HZJ
 506E6E,mil,# B06 S5-HKM
+506FB6,civ,# DA62 S5-DUI
+506FAE,civ,# ZZZZ S5-MMW
+506FAB,civ,# C172 S5-DKX
+506FC6,civ,# ONE S5-MMG
+506FC0,civ,# ???? S5-MTE
+506F12,civ,# WT9 S5-PIG
+506F0B,civ,# PIPA S5-MTR
+506FA6,civ,# RALL S5-DCR
+506F13,civ,# PIPA S5-MTS
+506FC3,civ,# DA40 S5-DUD
+5.06E+21,mil,# Z42 S5-DGG
+506FC4,civ,# EVSS S5-DTG
+506F3E,civ,# VL3 S5-PJM
+506FC9,civ,# ???? S5-JET
+506FC5,civ,# C172 S5-DIA
+506FC2,civ,# ???? ????
+506F26,civ,# GLID S5-3005
+506F92,civ,# PIAT S5-PGT
+506F32,civ,# ECHO S5-PID
 ,,
 [South Africa],,
 00AEC9,mil,# B737 ZS-RSA
+00B893,mil,# C130 402
 00B896,mil,# C130 405
+00B897,mil,# C130 406
 00B89B,mil,# C130 409
 00856B,mil,# FA50 ZS-CAS
-008569,mil,# FA50 ZS-CAQ
+8569,mil,# FA50 ZS-CAQ
 378910,civ,# C172 ZS-SVH
-00C7F6,mil,# BE20 650	
+00C7F6,mil,# BE20 650
+00A272,mil,# F900 ZS-NAN
+00CBAC,mil,# BE20 651
+00EAFD,mil,# BE20 652
+009DF3,mil,# C550 ZS-LIG
+00A0EC,mil,# C551 ZS-MLN
 ,,
-[Republic of Korea],,
+[South Korea],,
 71FC02,mil,# E737 65-327
 71FC05,mil,# E737 65-330
 71FC04,mil,# E737 65-329
 71FC03,mil,# E737 65-328
+71FC01,mil,# E737 64-700
 71FC22,mil,# E7? ????
 71FC72,mil,# E7? ????
 71FBF3,mil,# E7? ????
@@ -24480,22 +25424,19 @@ AFFD1C,civ,# F900 T7-ESPRT
 71F882,mil,# A332 19-003 (hex swap??)
 71F802,mil,# A332 19-003 (hex swap??)
 71F863,mil,# A332 19-002 
-71F880,mil,# A332 18-001 
+71F081,mil,# A332 19-002 
 71F883,mil,# A332 19-004
 71BE43,mil,# B748 22001
 71F832,mil,# ???? ???? 
 71F83F,mil,# ???? ???? 
 71F84E,mil,# ???? ???? 
 71F85B,mil,# ???? ???? 
-71F815,mil,# ???? ???? 
-71F005,mil,# ???? ???? 
+71F815,mil,# ???? ????  
 71F810,mil,# ???? ???? 
 71F849,mil,# ???? ???? 
 71F8CA,mil,# ???? ???? 
 71F8F4,mil,# ???? ???? 
-71F8FB,mil,# ???? ???? 
-71F832,mil,# ???? ???? 
-71F8F4,mil,# ???? ???? 
+71F8FB,mil,# ???? ????  
 71F853,mil,# ???? ???? 
 71F85F,mil,# ???? ???? 
 71F8AC,mil,# ???? ????
@@ -24522,9 +25463,307 @@ AFFD1C,civ,# F900 T7-ESPRT
 71F00D,mil,# P8 230921
 71F010,mil,# P8 230925
 71F011,mil,# P8 230926
+71F012,mil,# P8 230927
 71F909,mil,# C130 05-182
+71FA0C,mil,# CN35 30-084
+71FA0B,mil,# CN35 30-082
+71FA0E,mil,# CN35 30-088
+71F287,mil,# F16 93-096
+71FAF3,mil,# F16 92-031
+71F908,mil,# C130 95-181
+71FA01,mil,# CN35 10-044
+71FA03,mil,# CN35 20-046
+71FA05,mil,# CN35 20-048
+71FA06,mil,# CN35 20-049
+71FA0A,mil,# CN35 30-081
+71FA12,mil,# CN35 40-098
+71FA13,mil,# CN35 40-100
+71F0EB,mil,# ???? ???? - Tactical Hex
+71F0F4,mil,# ???? ???? - Tactical Hex
+71F0F5,mil,# ???? ???? - Tactical Hex
+71F0EE,mil,# ???? ???? - Tactical Hex
+71F87F,mil,# ???? ???? - Tactical Hex
+71F801,mil,# ???? ???? - Tactical Hex
+71F719,mil,# ???? ???? - Tactical Hex
+71F7D8,mil,# ???? ???? - Tactical Hex
+71F0ED,mil,# ???? ???? - Tactical Hex
+71F36B,mil,# ???? ???? - Tactical Hex
+71FF85,mil,# ???? ???? - Tactical Hex
+71F37D,mil,# ???? ???? - Tactical Hex
+71F380,mil,# ???? ???? - Tactical Hex
+71F0FA,mil,# A332 ??-??? - Tactical Hex
+71F31A,mil,# ???? ???? - Tactical Hex
+71F321,mil,# ???? ???? - Tactical Hex
+71F0F7,mil,# ???? ???? - Tactical Hex
+71F100,mil,# ???? ???? - Tactical Hex
+71FBC7,mil,# ???? ???? - Tactical Hex
+71F37C,mil,# ???? ???? - Tactical Hex
+71F37F,mil,# ???? ???? - Tactical Hex
+71F104,mil,# ???? ???? - Tactical Hex
+71F2D3,mil,# ???? ???? - Tactical Hex
+71F2D4,mil,# ???? ???? - Tactical Hex
+71F2B3,mil,# ???? ???? - Tactical Hex
+71F2B4,mil,# ???? ???? - Tactical Hex
+71F2B5,mil,# ???? ???? - Tactical Hex
+71F2B6,mil,# ???? ???? - Tactical Hex
+71F2BE,mil,# ???? ???? - Tactical Hex
+71F2BF,mil,# ???? ???? - Tactical Hex
+71F2C0,mil,# ???? ???? - Tactical Hex
+71F2C8,mil,# ???? ???? - Tactical Hex
+71F2CA,mil,# ???? ???? - Tactical Hex
+71F2C9,mil,# ???? ???? - Tactical Hex
+71F1CC,mil,# ???? ???? - Tactical Hex
+71F103,mil,# ???? ???? - Tactical Hex
+71F4D4,mil,# ???? ???? - Tactical Hex
+71F4DB,mil,# ???? ???? - Tactical Hex
+71F5BF,mil,# ???? ???? - Tactical Hex
+71F5FE,mil,# ???? ???? - Tactical Hex
+71F5EA,mil,# ???? ???? - Tactical Hex
+71F5FF,mil,# ???? ???? - Tactical Hex
+71F5F9,mil,# ???? ???? - Tactical Hex
+71F502,mil,# ???? ???? - Tactical Hex
+71F60F,mil,# ???? ???? - Tactical Hex
+71FA77,mil,# ???? ???? - Tactical Hex
+71FD79,mil,# ???? ???? - Tactical Hex
+71FD9D,mil,# ???? ???? - Tactical Hex
+71FD3B,mil,# ???? ???? - Tactical Hex
+71FE7A,mil,# ???? ???? - Tactical Hex
+71F8EB,mil,# ???? ???? - Tactical Hex
+71FF70,mil,# ???? ???? - Tactical Hex
+71F215,mil,# ???? ???? - Tactical Hex
+71FDFA,mil,# ???? ???? - Tactical Hex
+71FF74,mil,# ???? ???? - Tactical Hex
+71F271,mil,# ???? ???? - Tactical Hex
+71F66B,mil,# ???? ???? - Tactical Hex
+71F5FC,mil,# ???? ???? - Tactical Hex
+71F77E,mil,# ???? ???? - Tactical Hex
+71F26D,mil,# ???? ???? - Tactical Hex
+71F352,mil,# ???? ???? - Tactical Hex
+71F27E,mil,# ???? ???? - Tactical Hex
+71F26F,mil,# ???? ???? - Tactical Hex
+71F76D,mil,# ???? ???? - Tactical Hex
+71F740,mil,# ???? ???? - Tactical Hex
+71F744,mil,# ???? ???? - Tactical Hex
+71F746,mil,# ???? ???? - Tactical Hex
+71F74A,mil,# ???? ???? - Tactical Hex
+71F38B,mil,# ???? ???? - Tactical Hex
+71F38C,mil,# ???? ???? - Tactical Hex
+71F38D,mil,# ???? ???? - Tactical Hex
+71F38E,mil,# ???? ???? - Tactical Hex
+71F388,mil,# ???? ???? - Tactical Hex
+71F393,mil,# ???? ???? - Tactical Hex
+71F38F,mil,# ???? ???? - Tactical Hex
+71F390,mil,# ???? ???? - Tactical Hex
+71F392,mil,# ???? ???? - Tactical Hex
+71FB94,mil,# ???? ???? - Tactical Hex
+71F381,mil,# ???? ???? - Tactical Hex
+71F95F,mil,# ???? ???? - Tactical Hex
+71F808,mil,# ???? ???? - Tactical Hex
+71FB84,mil,# ???? ???? - Tactical Hex
+71F855,mil,# ???? ???? - Tactical Hex
+71F866,mil,# ???? ???? - Tactical Hex
+71F403,mil,# ???? ???? - Tactical Hex
+71F10C,mil,# ???? ???? - Tactical Hex
+71F2DD,mil,# ???? ???? - Tactical Hex
+71F2DE,mil,# ???? ???? - Tactical Hex
+71F32C,mil,# ???? ???? - Tactical Hex
+71F391,mil,# ???? ???? - Tactical Hex
+71FF66,mil,# ???? ???? - Tactical Hex
+71F32E,mil,# ???? ???? - Tactical Hex
+71FF7B,mil,# ???? ???? - Tactical Hex
+71FF62,mil,# ???? ???? - Tactical Hex
+71FF6F,mil,# A332 ??-??? - Tactical Hex
+71F8EA,mil,# A332 19-004 - Tactical Hex
+71FF8E,mil,# ???? ???? - Tactical Hex
+71F394,mil,# F15? ???? - Tactical Hex
+71FF5C,mil,# F16? ???? - Tactical Hex
+71FF65,mil,# F16? ???? - Tactical Hex
+71FF68,mil,# F16? ???? - Tactical Hex
+71FF72,mil,# F16? ???? - Tactical Hex
+71FA21,mil,# ???? ???? - Tactical Hex
+71F167,mil,# ???? ???? - Tactical Hex
+71FFAE,mil,# ???? ???? - Tactical Hex
+71FF5D,mil,# ???? ???? - Tactical Hex
+71F336,mil,# ???? ???? - Tactical Hex
+71F338,mil,# ???? ???? - Tactical Hex
+71F3A7,mil,# ???? ???? - Tactical Hex
+71F3A8,mil,# ???? ???? - Tactical Hex
+71F2E8,mil,# ???? ???? - Tactical Hex
+71F10F,mil,# ???? ???? - Tactical Hex
+71F3A5,mil,# ???? ???? - Tactical Hex
+71F2E6,mil,# ???? ???? - Tactical Hex
+71F118,mil,# ???? ???? - Tactical Hex
+71F115,mil,# ???? ???? - Tactical Hex
+71F3B8,mil,# ???? ???? - Tactical Hex
+71F3B9,mil,# ???? ???? - Tactical Hex
+71F3BC,mil,# ???? ???? - Tactical Hex
+71F121,mil,# ???? ???? - Tactical Hex
+71F2A3,mil,# ???? ???? - Tactical Hex
+71F124,mil,# ???? ???? - Tactical Hex
+71F122,mil,# ???? ???? - Tactical Hex
+71F333,mil,# ???? ???? - Tactical Hex
+71F12D,mil,# ???? ???? - Tactical Hex
+71F130,mil,# ???? ???? - Tactical Hex
+71F3CD,mil,# ???? ???? - Tactical Hex
+71F12A,mil,# ???? ???? - Tactical Hex
+71F3D0,mil,# ???? ???? - Tactical Hex
+71F2AD,mil,# ???? ???? - Tactical Hex
+71F185,mil,# ???? ???? - Tactical Hex
+71F17B,mil,# C30J ???? - Tactical Hex
+71F7D1,mil,# C30J ???? - Tactical Hex
+71F7D4,mil,# C30J ???? - Tactical Hex
+71F7F7,mil,# C30J ???? - Tactical Hex
+71F64A,mil,# Q4 ???? - Tactical Hex
+71F644,mil,# Q4 ???? - Tactical Hex
+71F136,mil,# ???? ???? - Tactical Hex
+71F139,mil,# ???? ???? - Tactical Hex
+71F13C,mil,# A332 ??-??? - Tactical Hex
+71F1B6,mil,# ???? ???? - Tactical Hex
+71F2B7,mil,# ???? ???? - Tactical Hex
+71F304,mil,# ???? ???? - Tactical Hex
+71F307,mil,# ???? ???? - Tactical Hex
+71F3E1,mil,# ???? ???? - Tactical Hex
+71F3E4,mil,# ???? ???? - Tactical Hex
+71F1E7,mil,# ???? ???? - Tactical Hex
+71F3E0,mil,# ???? ???? - Tactical Hex
+71F3E5,mil,# ???? ???? - Tactical Hex
+71F142,mil,# A332 ??-??? - Tactical Hex
+71F148,mil,# ???? ???? - Tactical Hex
+71F344,mil,# ???? ???? - Tactical Hex
+71F145,mil,# A332 ??-??? - Tactical Hex
+71F346,mil,# ???? ???? - Tactical Hex
+71F347,mil,# ???? ???? - Tactical Hex
+71F343,mil,# ???? ???? - Tactical Hex
+71F09F,mil,# ???? ???? - Tactical Hex
+71F14E,mil,# ???? ???? - Tactical Hex
+71F151,mil,# ???? ???? - Tactical Hex
+71F154,mil,# ???? ???? - Tactical Hex
+71F356,mil,# ???? ???? - Tactical Hex
+71F358,mil,# ???? ???? - Tactical Hex
+71F946,mil,# ???? ???? - Tactical Hex
+71F2CB,mil,# ???? ???? - Tactical Hex
+71F35A,mil,# ???? ???? - Tactical Hex
+71F0D3,mil,# ???? ???? - Tactical Hex
+71F0D6,mil,# ???? ???? - Tactical Hex
+71F0D9,mil,# ???? ???? - Tactical Hex
+71F324,mil,# ???? ???? - Tactical Hex
+71F35B,mil,# ???? ???? - Tactical Hex
+71F36A,mil,# ???? ???? - Tactical Hex
+71F36C,mil,# ???? ???? - Tactical Hex
+71F36E,mil,# ???? ???? - Tactical Hex
+71F36F,mil,# ???? ???? - Tactical Hex
+71F382,mil,# ???? ???? - Tactical Hex
+71F0DF,mil,# ???? ???? - Tactical Hex
+71F0E2,mil,# A332 ??-??? - Tactical Hex
+71F0E8,mil,# A332 ??-??? - Tactical Hex
+71F384,mil,# ???? ???? - Tactical Hex
+71F2E7,mil,# ???? ???? - Tactical Hex
+71F337,mil,# ???? ???? - Tactical Hex
+71F339,mil,# ???? ???? - Tactical Hex
+71F396,mil,# ???? ???? - Tactical Hex
+71F397,mil,# ???? ???? - Tactical Hex
+71F2EF,mil,# ???? ???? - Tactical Hex
+71F3AA,mil,# ???? ???? - Tactical Hex
+71F3A6,mil,# ???? ???? - Tactical Hex
+71F106,mil,# C30J ???? - Tactical Hex
+71F3BF,mil,# ???? ???? - Tactical Hex
+71F2A9,mil,# ???? ???? - Tactical Hex
+71F3BB,mil,# ???? ???? - Tactical Hex
+71F3BE,mil,# ???? ???? - Tactical Hex
+71F3BA,mil,# ???? ???? - Tactical Hex
+71F29F,mil,# ???? ???? - Tactical Hex
+71F3CE,mil,# ???? ???? - Tactical Hex
+71F3D2,mil,# ???? ???? - Tactical Hex
+71F112,mil,# ???? ???? - Tactical Hex
+71F305,mil,# ???? ???? - Tactical Hex
+71F3D3,mil,# ???? ???? - Tactical Hex
+71F11B,mil,# ???? ???? - Tactical Hex
+71F11E,mil,# ???? ???? - Tactical Hex
+71F3E2,mil,# ???? ???? - Tactical Hex
+71F3E3,mil,# ???? ???? - Tactical Hex
+71F2BD,mil,# ???? ???? - Tactical Hex
+71F3E6,mil,# ???? ???? - Tactical Hex
+71F342,mil,# ???? ???? - Tactical Hex
+71F2C7,mil,# ???? ???? - Tactical Hex
+71F128,mil,# ???? ???? - Tactical Hex
+71F8AA,mil,# ???? ???? - Tactical Hex
+71F127,mil,# ???? ???? - Tactical Hex
+71F133,mil,# ???? ???? - Tactical Hex
+71F12E,mil,# ???? ???? - Tactical Hex
+71F359,mil,# ???? ???? - Tactical Hex
+71F20B,mil,# Q4 ???? - Tactical Hex
+71F350,mil,# ???? ???? - Tactical Hex
+71F2D2,mil,# ???? ???? - Tactical Hex
+71F13F,mil,# ???? ???? - Tactical Hex
+71F2DB,mil,# ???? ???? - Tactical Hex
+71F2DC,mil,# ???? ???? - Tactical Hex
+71F369,mil,# ???? ???? - Tactical Hex
+71F14B,mil,# ???? ???? - Tactical Hex
+71F383,mil,# ???? ???? - Tactical Hex
+71F335,mil,# ???? ???? - Tactical Hex
+71F0B6,mil,# ???? ???? - Tactical Hex
+71FD5D,mil,# ???? ???? - Tactical Hex
+71F0DC,mil,# ???? ???? - Tactical Hex
+71F3A9,mil,# ???? ???? - Tactical Hex
+71F2FA,mil,# ???? ???? - Tactical Hex
+71F0BB,mil,# ???? ???? - Tactical Hex
+71F8E0,mil,# ???? ???? - Tactical Hex
+71F0F1,mil,# ???? ???? - Tactical Hex
+71F467,mil,# ???? ???? - Tactical Hex
+71F3BD,mil,# ???? ???? - Tactical Hex
+71F454,mil,# ???? ???? - Tactical Hex
+71F3FB,mil,# ???? ???? - Tactical Hex
+71FF0B,mil,# ???? ???? - Tactical Hex
+71F3CB,mil,# ???? ???? - Tactical Hex
+71F3CC,mil,# ???? ???? - Tactical Hex
+71F03E,mil,# E737 ???? - Tactical Hex
+71F041,mil,# E737 ???? - Tactical Hex
+71F3D1,mil,# ???? ???? - Tactical Hex
+71F310,mil,# ???? ???? - Tactical Hex
+71F3CF,mil,# ???? ???? - Tactical Hex
+71F3DF,mil,# ???? ???? - Tactical Hex
+71F109,mil,# ???? ???? - Tactical Hex
+71F040,mil,# E737 ???? - Tactical Hex
+71F03F,mil,# E737 ???? - Tactical Hex
+71F348,mil,# E737 ???? - Tactical Hex
+71F325,mil,# ???? ???? - Tactical Hex
+71FF89,mil,# ???? ???? - Tactical Hex
+71F2D5,mil,# ???? ???? - Tactical Hex
+71F355,mil,# ???? ???? - Tactical Hex
+71F037,mil,# ???? ???? - Tactical Hex
+71F000,mil,# ???? ???? - Tactical Hex
+71F357,mil,# ???? ???? - Tactical Hex
+71F370,mil,# ???? ???? - Tactical Hex
+71F37E,mil,# ???? ???? - Tactical Hex
+71F2A0,mil,# ???? ???? - Tactical Hex
+71F2A2,mil,# ???? ???? - Tactical Hex
+71FD52,mil,# ???? ???? - Tactical Hex
+71FF6C,mil,# ???? ???? - Tactical Hex
+71F04C,mil,# E737 ???? - Tactical Hex
+71FF7E,mil,# ???? ???? - Tactical Hex
+71F398,mil,# ???? ???? - Tactical Hex
+71F3F8,mil,# ???? ???? - Tactical Hex
+71F00A,mil,# E737 ???? - Tactical Hex
+71F3AB,mil,# E737 ???? - Tactical Hex
+71F3C0,mil,# ???? ???? - Tactical Hex
+71FDAC,mil,# ???? ???? - Tactical Hex
+71FD63,mil,# ???? ???? - Tactical Hex
+71F44C,mil,# ???? ???? - Tactical Hex
+71F445,mil,# ???? ???? - Tactical Hex
+71F45F,mil,# ???? ???? - Tactical Hex
+71F30F,mil,# ???? ???? - Tactical Hex
+71F62D,mil,# ???? ???? - Tactical Hex
+71F71C,mil,# ???? ???? - Tactical Hex
+71F3F7,mil,# ???? ???? - Tactical Hex
+71FAF0,mil,# ???? ???? - Tactical Hex
+71F0E5,mil,# ???? ???? - Tactical Hex
+71F3D4,mil,# ???? ???? - Tactical Hex
+71F2A2,mil,# ???? ???? - Tactical Hex
+71F07D,mil,# ???? ???? - Tactical Hex
 ,,
 [Spain],,
+354657,civ,# -TWR Sant Celoni
+354683,civ,# -TWR Campelo
 341390,mil,# F900 T.18-1
 341391,mil,# F900 T.18-2
 3432CD,mil,# CN35 T.19B-21
@@ -24537,6 +25776,15 @@ AFFD1C,civ,# F900 T7-ESPRT
 348089,mil,# EC35 HE.26-35A
 3474D8,mil,# EC35 HE.26-38A
 344609,mil,# CL2T UD.14-04
+347416,mil,# EC35 HE.26-32A
+34738F,mil,# EC35 HU.26-30A
+342696,mil,# CN35 D.4-02
+348088,mil,# EC35 HE.26-33A
+34738D,mil,# EC35 HE.26-41A
+347415,mil,# EC35 HE.26-44A
+3474D2,mil,# EC35 HE.26-33A
+3474D4,mil,# EC35 HE.26-35A
+3474D5,mil,# EC35 HE.26-48A
 ,,
 [Sweden],,
 4A8220,mil,# SF34 100004
@@ -24578,17 +25826,34 @@ AFFD1C,civ,# F900 T7-ESPRT
 4AECBE,mil,# G120 40206
 4AECBF,mil,# G120 40207
 4AECC0,mil,# G120 40208
-,,
-[Switzerland],,
-4B1FA7,mil,# DA42 HB-LZR
+4AECCB,mil,# G120 402??
+4AECCC,mil,# G120 402??
+4AECC5,mil,# G120 402??
+4AECC6,mil,# G120 402??
+4A82F4,mil,# SB05 60048
+4AEBD3,mil,# H60 161226
+4AECC3,mil,# GLEX 106111
+4AECC8,mil,# LJ60 60-252
+4AECCE,mil,# GLEX 106166
+4A924F,mil,# GLEX SE-DRO/60148?
+4A9250,mil,# GLEX SE-DRP/60178?
 ,,
 [Thailand],,
 885336,mil,# A345 60204
 885334,mil,# A320 60203
 885337,mil,# A320 60205
 881B81,mil,# SF34 70201
+881B82,mil,# SF34 70203
 881401,mil,# TEX2 N2773B/01
 881402,mil,# TEX2 N2792B/02
+881405,mil,# TEX2 F22-05/65
+881406,mil,# TEX2 F22-06/65
+881407,mil,# TEX2 F22-07/65
+881408,mil,# TEX2 F22-08/65
+881409,mil,# TEX2 F22-09/66
+88140A,mil,# TEX2 F22-10/66
+88140B,mil,# TEX2 F22-11/66
+88140C,mil,# TEX2 F22-12/66
 881BC7,mil,# DA40 B.F21-1/63
 881BC8,mil,# DA40 B.F21-2/63
 881BB8,mil,# DA40 B.F21-3/63
@@ -24596,6 +25861,7 @@ AFFD1C,civ,# F900 T7-ESPRT
 881BC4,mil,# DA40 B.F21-6/63
 881BC5,mil,# DA40 B.F21-7/63
 881BC6,mil,# DA40 B.F21-8/63
+881C65,mil,# DA42 F20-1/52
 881C66,mil,# DA42 F20-2/52
 881C69,mil,# DA42 F20-5/52
 881B86,mil,# DA42 F20-8/53
@@ -24667,7 +25933,27 @@ A583B7,mil,# B412 HS-CPV
 881C0B,mil,# EC55 93308
 881C0C,mil,# EC55 93309
 881B70,mil,# SU95 60206
-009666,mil,# EC45 9666
+9666,mil,# EC45 9666
+880406,mil,# BE20 1165
+881BA5,mil,# EC25 H11-2/58
+880417,mil,# PC12 2307
+88041A,mil,# K100 337
+881BB6,mil,# DA42 F20K-10/64
+881BD1,mil,# CT4 F16k-16/44
+881BCC,mil,# DA42 TF20k-5/63
+881BB4,mil,# DA42 F20k-8/64
+881BCF,mil,# CT4 F16k-13/44
+881BD5,mil,# CT4 F16k-20/47
+881403,mil,# TEX2 F22-03/65
+881C0A,mil,# B412 93307
+881BCE,mil,# DA42 TF20k-7/63
+881B7A,mil,# DA42 ????
+881C68,mil,# DA42 F20-4/52
+881BCD,mil,# DA42 TF20K-6/63
+881BB7,mil,# DA42 F20k-11/64
+881B96,mil,# PC6T B.JTh2-12/15
+88040D,mil,# A149 49048
+881BAF,mil,# PC6T B.JTH2-26/19
 ,,
 [Tunisia],,
 02B26A,mil,# C30J Z21121
@@ -24675,12 +25961,17 @@ A583B7,mil,# B412 HS-CPV
 02B26C,mil,# C30J Z21113
 02B26D,mil,# C30J Z21114
 02BA64,mil,# L410 Z21114
+02C540,mil,# TEX2 Y22081
+02C546,mil,# TEX2 Y23087
+02C541,mil,# TEX2 Y22082
+02C545,mil,# TEX2 Y23086
+02B26E,mil,# C130 Z21015
 ,,
 [Turkey],,
 4B8304,mil,# CN35 93-057
 4B9297,mil,# E737 13-003
-001071,mil,# BTB2
-001265,mil,# BTB2
+1071,mil,# BTB2
+1265,mil,# BTB2
 4B8378,mil,# BTB2
 5A65EE,mil,# BTB2
 4B83A1,mil,# BTB2 T318 
@@ -24689,12 +25980,25 @@ A583B7,mil,# B412 HS-CPV
 4B839C,mil,# CL60 KLH71
 4B8392,mil,# UAV TC-J1
 00107F,mil,# BTB2 
-001077,mil,# BTB2 
+1077,mil,# BTB2 
 00125D,mil,# BTB2 
 0010B7,mil,# BTB2
-001073,mil,# BTB2
+1073,mil,# BTB2
 4B83A9,mil,# BTB2 S52
 4BD16B,mil,# CL2P
+4B83B0,mil,# BTB2 ????
+4B83A3,mil,# BTB2 ????
+4B8360,mil,# BTB2 ????
+4B8399,mil,# BTB2 TC-J8
+4B8349,mil,# BTB2 TC-J36
+4B8394,mil,# BTB2 TC-J3
+4B83AA,mil,# BTB2 S53
+4B8362,mil,# BTB2 S39
+4B833B,mil,# BTB2 TC-J21
+4B83A6,mil,# BTB2 ????
+4B8363,mil,# BTB2 S48
+4B801F,mil,# GLF4 11-002
+4B83E2,mil,# BE20 10010
 ,,
 [Turkmenistan],,
 60181A,mil,# C27J 21 BLUE
@@ -24706,11 +26010,15 @@ A583B7,mil,# B412 HS-CPV
 899006,mil,# P3 3307
 899007,mil,# P3 3308
 89910F,mil,# B738 3701
+899009,mil,# P3 3310
+89900C,mil,# P3 3315
+899001,mil,# P3 3301
 ,,
 [Ukraine],,
 50FFB6,mil,# AN26 01 BLUE
 50FFD8,mil,# AN26 01 BLUE - THIS AND ABOVE BOTH STATED AS BLUE 01
 50FF9B,mil,# AN26 04 BLUE
+50FFC6,mil,# AN26 08 BLUE
 ,,
 [United Kingdom],,
 406F50,mil,# A109 GZ100
@@ -24733,6 +26041,7 @@ F6155F,mil,# EH10 Z862? - miscoding
 406AB0,mil,# DHC2 G-CICP
 406AB1,mil,# AUS9 G-CICR
 CAFEAB,mil,# H47 ZK550 - miscoding
+C87EE8,civ,#
 ,,
 [United Arab Emirates],,
 896C40,mil,# C17 1230
@@ -24781,6 +26090,12 @@ A4AD4F,mil,# DHC6 2276
 896026,mil,# DH8C 1320
 896028,mil,# DH8C 1321
 896C4D,mil,# K100 2235
+896C74,mil,# A139 1999
+896C72,mil,# A332 1303
+896C46,mil,# C208 2240
+896C4B,mil,# C208 2256
+896C4C,mil,# C208 2257
+896C73,mil,# A332 1304
 ,,
 [United States],,
 ADF9B7,civ,# C172 N52364
@@ -24808,7 +26123,7 @@ ADC21E,mil,# DH8D N986HA
 2E1719,mil,# TEX2 166011 - miscoding
 AA690E,mil,# GLEX 11-9355
 A7855B,mil,# GLF5 N584GA
-080010,mil,# C560 98-00010 - miscoding
+80010,mil,# C560 98-00010 - miscoding
 AC0A69,mil,# PC12 N875RJ/05-0646
 A77AE7,mil,# PC12 N581PC/06-0581
 A93240,mil,# PC12 N581PC/????
@@ -24817,20 +26132,6 @@ ADC21E,mil,# DH8D N986HA
 AC96DF,mil,# B350 N910CB
 A966B1,mil,# DHC6 N70464
 A966B2,mil,# DHC6 N70465
-AAACEC,mil,# C172 A7870N
-AAB198,mil,# C172 A7887N
-AAB595,mil,# C172 N7899N
-AAAA70,mil,# C172 N7869N
-A966B2,mil,# C172 N70465
-AAAA2A,mil,# C172 N7867N
-AAAD78,mil,# C172 N7874N
-AABBA5,mil,# C172 N7909N
-AAB0E9,mil,# C172 N7882N
-AA7EF2,mil,# C172 N7757L
-AAAD55,mil,# C172 N7873N
-AAAA07,mil,# C172 N7866N
-AAB54F,mil,# C172 N7897N
-ADBD96,mil,# C82R N9849C
 AD5CAA,mil,# H60 11-20351
 A5A95B,mil,# B763 N464KC / 11-46002
 ADF9DC,civ,# ZGND ???? Some random ground thing outside Newark Airport
@@ -24840,25 +26141,9 @@ A9ADD7,mil,# EC45 12-72233 - known miscode
 A75993,mil,# EC45 168247 - known miscode
 A05AE1,mil,# B350 N1218H
 A061A2,mil,# B350 N1233K
-AB0CAF,mil,# B350 N8107F	
+AB0CAF,mil,# B350 N8107F
 A2172E,mil,# BE20 80-23380
 A7E839,mil,# H500 286
-A8DEB6,mil,# B06 N67041
-A8E273,mil,# B06 N67147
-A8EE48,mil,# B06 N67498
-A8F54A,mil,# B06 N67665
-A8F54B,mil,# B06 N67666
-A8F568,mil,# B06 N67670
-A8E2FB,mil,# B06 N67670
-A8FFA0,mil,# B06 N67908
-AADD04,mil,# B06 N79987
-A90049,mil,# B06 N67952
-A8F107,mil,# B06 N67525
-AA8651,mil,# B06 N77766
-A8E672,mil,# B06 N67269	
-ACAFD6,mil,# B06 N91637
-A8ED53,mil,# B06 N67428
-A8E66E,mil,# B06 N67265
 A65127,mil,# CN35 96-6044 / N506KM
 ADEDBE,mil,# DH8B N997MG
 AB191B,mil,# H60 N814KB
@@ -24867,8 +26152,15 @@ A9E309,mil,# C208 N736TL
 0DE42B,mil,# F16 91-0379 - MISCODE
 A07FBD,mil,# PC12 05-0446
 A755DC,mil,# EC45 168246
-072136,mil,# EC45 10-72136 - miscode
+72136,mil,# EC45 10-72136 - miscode
 29CBB8,mil,# C130 165159 - MISCODE
+A10635,mil,# B732 73-1155
+B191D8,mil,# E3TF 75-0558 - MISCODE
+A3ED57,mil,# C30J 12-5759/N352MJ Tactical
+AA228D,mil,# C30J 13-5778/N752MJ Tactical
+A010EF,mil,# C30J 13-5778/N103MC Tactical
+A0C17E,mil,# C30J ??-????/N148MC Tactical
+A10CC5,mil,# C30J ??-????/N167MC Tactical
 ,,
 [Unknown or unassigned country],,
 43EE42,civ,# EA50 2-KISS
@@ -24883,32 +26175,36 @@ A755DC,mil,# EC45 168246
 520276,mil,# SW4 94-0262 - miscode
 4B8333,mil,# UAV BTB2
 4B8370,mil,# UAV BTB2
-008333,mil,# UAV BTB2
-000457,mil,# UAV BTB2
-001095,mil,# UAV BTB2
-001102,mil,# UAV BTB2
-001260,mil,# UAV BTB2
-001453,mil,# UAV BTB2
+8333,mil,# UAV BTB2
+457,mil,# UAV BTB2
+1095,mil,# UAV BTB2
+1102,mil,# UAV BTB2
+1260,mil,# UAV BTB2
+1453,mil,# UAV BTB2
 00108F,mil,# UAV BTB2
-001092,mil,# UAV BTB2
+1092,mil,# UAV BTB2
 520273,mil,# SW4 94-0265
 ,,
 [Uruguay],,
 A07029,mil,# E120 550
 E90E04,mil,# BE65 540
+E90191,mil,# C130 595
 ,,
 [Uzbekistan],,
 507FA2,mil,# IL76 08 White
 507F84,mil,# C295 04 White
 507F81,mil,# C295 01 White
+507F82,mil,# C295 02 White
+507F83,mil,# C295 03 White
 ,,
 [Vietnam],,
 888073,mil,# EC25 VN-8619
 8880D3,mil,# C295 8903
+8880D1,mil,# C295 8901
+8880D2,mil,# C295 8902
 ,,
 [Zambia],,
 A50EEF,mil,# C208 AF223
 08AF3E,mil,# C27J AF003
 780037,mil,# MA60 AF-608
 08AF3F,mil,# GLF6 AF-001
-,,
