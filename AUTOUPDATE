@@ -1,0 +1,101 @@
+#!/usr/bin/env bash
+#
+# ─────────────────────────────────────────────────────────────────────────────
+#  IMPORTANT – ONE-TIME SETUP REQUIRED (PER USER)
+#
+#  Each user that runs this script (manually or via cron) must explicitly
+#  mark the repository directory as trusted, due to Git security protections
+#  introduced in Git 2.35+ ("dubious ownership" checks).
+#
+#  Run ONCE as the user that will execute this script:
+#
+#      git config --global --add safe.directory /path/to/repo
+#
+#  Example:
+#      git config --global --add safe.directory /home/$USER/repo_name
+#
+# ─────────────────────────────────────────────────────────────────────────────
+#
+
+set -e
+
+# -----------------------------
+# Detect user and home directory dynamically
+# -----------------------------
+RUN_USER="$(id -un)"
+RUN_HOME="$(getent passwd "$RUN_USER" | cut -d: -f6)"
+: "${RUN_HOME:=$HOME}"
+
+# -----------------------------
+# Log file setup
+# -----------------------------
+LOGFILE="$RUN_HOME/logs/cron-jobs.log"
+mkdir -p "$(dirname "$LOGFILE")"
+
+# -----------------------------
+# TTY-aware logging
+# -----------------------------
+if [[ -t 1 ]]; then
+    # Interactive: show output + log
+    exec > >(tee -a "$LOGFILE") 2>&1
+else
+    # Cron: log only
+    exec >>"$LOGFILE" 2>&1
+fi
+
+# -----------------------------
+# Git safety for cron
+# -----------------------------
+export HOME="$RUN_HOME"
+export USER="$RUN_USER"
+export GIT_PAGER=cat
+
+# -----------------------------
+# Directory name for log prefix
+# -----------------------------
+SCRIPT_DIR_NAME="$(basename "$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)")"
+
+log() {
+    echo "$SCRIPT_DIR_NAME [$(date '+%Y-%m-%d %H:%M:%S')] $*"
+}
+
+# -----------------------------
+# Prevent overlapping runs (per user + repo)
+# -----------------------------
+LOCKFILE="/tmp/${SCRIPT_DIR_NAME}-${RUN_USER}.lock"
+exec 9>"$LOCKFILE" || exit 1
+flock -n 9 || exit 0
+
+# -----------------------------
+# Change to repo directory
+# -----------------------------
+cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
+
+# -----------------------------
+# Prefix Git output reliably
+# -----------------------------
+git_prefixed() {
+    # Usage: git_prefixed git <args>
+    "$@" 2>&1 | while IFS= read -r line; do
+        echo "$SCRIPT_DIR_NAME [$(date '+%Y-%m-%d %H:%M:%S')] $line"
+    done
+}
+
+# -----------------------------
+# Begin auto-update
+# -----------------------------
+log "AUTOUPDATE started (user=$RUN_USER)"
+
+git_prefixed git pull --ff-only
+
+if [[ -n $(git status --porcelain) ]]; then
+    log "Changes found. Committing and pushing..."
+    git add -A
+    git_prefixed git commit -m "Updated $(date +%Y-%m-%d)"
+    git_prefixed git push
+    log "Changes pushed successfully"
+else
+    log "No changes found. Skip pushing."
+fi
+
+log "AUTOUPDATE finished"
