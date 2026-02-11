@@ -17,6 +17,7 @@ A56BA0	mil	# B190 7T-WSI
 		
 [Angola]		
 090139	mil	# C295 R-751
+090138	mil	# C295 T-412
 		
 [Argentina]		
 E20022	mil	# C130 TC-69
@@ -79,6 +80,7 @@ E2004C	mil	# SIRA E-555
 E2004F	mil	# SIRA E-556
 E20100	mil	# B407 H-111
 E20114	mil	# B407 AE-340
+E20060	mil	# DHC6 T-89
 		
 [Armenia]		
 600039	mil	# IL76 76310
@@ -21297,6 +21299,7 @@ E80921	mil	# B350 FAC5733 - miscode
 0AC33A	mil	# C208 FAC5055
 0AC3ED	mil	# C208 FAC5068
 0AC0F6	mil	# B350 FAC5078
+0AC76B	mil	# UH1 EJC-5405
 		
 [Côte d'Ivoire]		
 038615	mil	# GLF5 TU-VAE
@@ -21386,6 +21389,9 @@ E847FE	mil	# EC45 FAE1256
 010197	mil	# C295 SU-BSP
 0100C6	mil	# BE20 SU-BAX
 01018C	mil	# C295 SU-BSL
+		
+[Ecuador]		
+E84802	mil	# G120 FAE1106
 		
 [Estonia]		
 511122	mil	# M28 44 BLACK
