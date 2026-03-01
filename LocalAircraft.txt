@@ -25595,6 +25595,7 @@ AFFD1C	civ	# F900 T7-ESPRT
 506FCC	civ	# PIVI S5-DLE
 506FD4	civ	# ???? S5-DIY
 506FCA	civ	# ???? S5-MMC
+506FBE	civ	# C172 S5-DKU
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA
