@@ -18877,7 +18877,6 @@ E20060	mil	# DHC6 T-89
 7CFAAE	civ	# ZGND VH-
 7CFAAF	civ	# ZGND VH-
 7CFAB0	civ	# ZGND VH-
-7CFAB1	civ	# ZGND VH-
 7CFAB2	civ	# ZGND VH-
 7CFAB3	civ	# ZGND VH-
 7CFAB4	civ	# ZGND VH-
@@ -20999,6 +20998,7 @@ E48C70	mil	# LYNX ZH972
 E48CB3	mil	# EC25 8505
 E48E28	mil	# E110 2317
 E49286	mil	# E110 2346
+E4A45A	mil	# UNIV 1880
 		
 [Brunei]		
 8953FC	mil	# C295 TUDB502
@@ -21321,6 +21321,8 @@ E80921	mil	# B350 FAC5733 - miscode
 0AC776	mil	# B212 EJC-4200
 0AC9FC	mil	# BE9L EJC-1116
 0AC3EE	mil	# C208 FAC5069
+0AC764	mil	# UH1 EJC-5418
+0AC75A	mil	# UH1 EJC-5430
 		
 [Côte d'Ivoire]		
 038615	mil	# GLF5 TU-VAE
@@ -24829,6 +24831,7 @@ F0D909	civ	#
 02011A	mil	# H47 CN-ALK
 02015D	mil	# PUMA CN-ASA
 02012F	mil	# B350 211
+02638E	mil	# C130 CN-???
 		
 [Mozambique]		
 006015	mil	# H25B FAM-002
@@ -26126,6 +26129,14 @@ AFFD1C	civ	# F900 T7-ESPRT
 71F10A	mil	# ???? ???? - Tactical Hex
 71F904	mil	# ???? ???? - Tactical Hex
 71F232	mil	# ???? ???? - Tactical Hex
+71F28D	mil	# ???? ???? - Tactical Hex
+71F084	mil	# ???? ???? - Tactical Hex
+71F096	mil	# ???? ???? - Tactical Hex
+71F150	mil	# ???? ???? - Tactical Hex
+71F080	mil	# ???? ???? - Tactical Hex
+71F07C	mil	# ???? ???? - Tactical Hex
+71F236	mil	# ???? ???? - Tactical Hex
+71F284	mil	# ???? ???? - Tactical Hex
 		
 [Spain]		
 354657	civ	# -TWR Sant Celoni
