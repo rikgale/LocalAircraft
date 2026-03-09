@@ -21327,6 +21327,7 @@ E80921,mil,# B350 FAC5733 - miscode,,
 0AC8C3,mil,# E314 FAC3110,,
 0AC8BF,mil,# E314 FAC3106,,
 0AC1AA,mil,# BE9L FAC5765,,
+0AC8B6,mil,# E314 FAC3121,,
 ,,,,
 [Côte d'Ivoire],,,,
 038615,mil,# GLF5 TU-VAE,,
@@ -26144,6 +26145,9 @@ AFFD1C,civ,# F900 T7-ESPRT,,
 71F07C,mil,# ???? ???? - Tactical Hex,,
 71F236,mil,# ???? ???? - Tactical Hex,,
 71F284,mil,# ???? ???? - Tactical Hex,,
+71F235,mil,# ???? ???? - Tactical Hex
+71F238,mil,# C30J 35-730 - Tactical Hex
+71F15A,mil,# ???? ???? - Tactical Hex
 ,,,,
 [Spain],,,,
 354657,civ,# -TWR Sant Celoni,,
