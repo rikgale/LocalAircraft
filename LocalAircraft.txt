@@ -21009,6 +21009,8 @@ E49286	mil	# E110 2346
 E4A45A	mil	# UNIV 1880
 E48EDD	mil	# E110 2336
 E4A491	mil	# AS50 N-5103
+E48F41	mil	# E110 2318
+E49DA6	mil	# AS50 8822
 		
 [Brunei]		
 8953FC	mil	# C295 TUDB502
@@ -21223,6 +21225,7 @@ E80635	civ	# A21N CC-DOJ
 7BE059	mil	# MI8 LH981728
 7A428F	mil	# Y20 20841
 7A443B	mil	# YUN8 31117
+7A4460	mil	# Y20 20940
 		
 [Colombia]		
 0AC3A8	mil	# B737 FAC0001
@@ -21358,6 +21361,9 @@ E80921	mil	# B350 FAC5733 - miscode
 0AC7AB	mil	# H60 EJC-2145
 0ACA14	mil	# TEX2 FAC2350
 0AC7A3	mil	# H60 EJC-2156
+0AC8A1	mil	# C295 FAC1281
+0AC775	mil	# B212 EJC-4203
+0AC830	mil	# UH1 FAC4408
 		
 [Côte d'Ivoire]		
 038615	mil	# GLF5 TU-VAE
@@ -21487,6 +21493,7 @@ E84802	mil	# G120 FAE1106
 		
 [Gabon]		
 03E325	mil	# C295 TR-KJF
+03E326	mil	# AT76 TR-KJG
 		
 [Germany]		
 3E9150	civ	# SF25 D-FUKO 
@@ -21516,6 +21523,7 @@ AC3FCD	mil	# B350 404
 46EC4D	mil	# H60 PN-77
 468970	mil	# E145 671
 46EC47	mil	# H60 PN-71
+468971	mil	# E145 729
 		
 [Guernsey]		
 43EAFE	civ	# 2-????
@@ -23832,6 +23840,8 @@ A66477	mil	# C30J N5105A (??? Test Reg)
 33FDA7	mil	# NH90 MM81624
 33FDC7	mil	# TOR MM7066
 33FD60	mil	# NH90 MM81564
+320077	mil	# A169 MM82155
+33FC8C	mil	# A119 MM82130
 		
 [Iran]		
 7324E3	mil	# F900 EP-IGC/5-9017
@@ -25033,6 +25043,7 @@ A4294E	mil	# B350 444 - known miscode
 0C217E	mil	# A139 AN-139
 0C215B	mil	# A139 AN-140
 0C215A	mil	# A139 AN-001
+0C217F	mil	# A139 AN-142
 		
 [Paraguay]		
 E880E8	mil	# C680 FAP3001
@@ -25115,6 +25126,7 @@ E88103	mil	# BE58 0902
 758740	mil	# BN2P 311
 75864A	mil	# F260 10-38
 7586A1	mil	# F260 10-33
+758658	mil	# C130 5011
 		
 [Poland]		
 48D900	mil	# PZ3T 029
@@ -25554,6 +25566,7 @@ AFFD1C	civ	# F900 T7-ESPRT
 7102A9	mil	# TOR 8310
 710309	mil	# PC21 2210
 710357	mil	# PC21 906
+71036B	mil	# HAWK 2104
 		
 [Senegal]		
 07007A	mil	# C295 6W-TTD
@@ -25784,6 +25797,7 @@ AFFD1C	civ	# F900 T7-ESPRT
 71F011	mil	# P8 230926
 71F012	mil	# P8 230927
 71F909	mil	# C130 05-182
+71F90B	mil	# C130 05-185
 71FA0C	mil	# CN35 30-084
 71FA0B	mil	# CN35 30-082
 71FA0E	mil	# CN35 30-088
@@ -26269,6 +26283,30 @@ AFFD1C	civ	# F900 T7-ESPRT
 71F246	mil	# ???? ???? - Tactical Hex
 71F126	mil	# ???? ???? - Tactical Hex
 71F245	mil	# ???? ???? - Tactical Hex
+71F29C	mil	# ???? ???? - Tactical Hex
+71F33F	mil	# E737 ??-??? - Tactical Hex
+71FBF2	mil	# ???? ???? - Tactical Hex
+71F00B	mil	# E737 ??-??? - Tactical Hex
+71F249	mil	# ???? ???? - Tactical Hex
+71FBA7	mil	# ???? ???? - Tactical Hex
+71FBA9	mil	# ???? ???? - Tactical Hex
+71F2A8	mil	# ???? ???? - Tactical Hex
+71F01C	mil	# ???? ???? - Tactical Hex
+71F24D	mil	# ???? ???? - Tactical Hex
+71F250	mil	# C30J 35-730 - Tactical Hex
+71F244	mil	# ???? ???? - Tactical Hex
+71F24E	mil	# ???? ???? - Tactical Hex
+71F022	mil	# E737 ??-??? - Tactical Hex
+71F9BD	mil	# ???? ???? - Tactical Hex
+71F252	mil	# ???? ???? - Tactical Hex
+71F24C	mil	# ???? ???? - Tactical Hex
+71FBAB	mil	# ???? ???? - Tactical Hex
+71F2AB	mil	# ???? ???? - Tactical Hex
+71F9BE	mil	# ???? ???? - Tactical Hex
+71FB87	mil	# ???? ???? - Tactical Hex
+71F9C2	mil	# ???? ???? - Tactical Hex
+71FBA5	mil	# ???? ???? - Tactical Hex
+71F308	mil	# ???? ???? - Tactical Hex
 		
 [Spain]		
 354657	civ	# -TWR Sant Celoni
@@ -26359,6 +26397,7 @@ AFFD1C	civ	# F900 T7-ESPRT
 4AECC9	mil	# LJ60 60-280
 4AECCA	mil	# LJ60 60-296
 4AEBE3	mil	# NH90 146056
+4AEBDF	mil	# H60 161238
 		
 [Switzerland]		
 CB7FC5	mil	# EC35 T-365 Miscode
@@ -26517,6 +26556,7 @@ A583B7	mil	# B412 HS-CPV
 02D481	mil	# AS50 L61002
 02B26F	mil	# C130 Z21016
 02C547	mil	# TEX2 Y23088
+02C544	mil	# TEX2 Y23085
 		
 [Turkey]		
 4B8304	mil	# CN35 93-057
