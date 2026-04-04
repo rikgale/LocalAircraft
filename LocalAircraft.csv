@@ -21369,6 +21369,7 @@ E80921,mil,# B350 FAC5733 - miscode,,
 0AC830,mil,# UH1 FAC4408,,
 0AC3F2,mil,# C208 FAC5074,,
 0AC3F1,mil,# C208 FAC5072,,
+0AC338,mil,# C560 FAC5764,,
 ,,,,
 [Côte d'Ivoire],,,,
 038615,mil,# GLF5 TU-VAE,,
@@ -23550,6 +23551,7 @@ A66477,mil,# C30J N5105A (??? Test Reg),,
 8A0A26,mil,# A400 A-4002,,
 8A041B,mil,# BE36 T-2502,,
 8A06E9,mil,# BE36 T-2508,,
+8A067C,mil,# AS55 HS-7205,,
 ,,,,
 [Italy],,,,
 33FD64,mil,# A139 MM81967,,
@@ -24068,6 +24070,7 @@ A7CE16,mil,# AT8T 1585,,
 68324F,mil,# A400 21 RED,,
 68306A,mil,# T154 UP-T5401,,
 6831F3,mil,# C295 03 RED,,
+6831F1,mil,# C295 01 RED,,
 ,,,,
 [Latvia],,,,
 502FAD,mil,# UAV ???? Latvia - Latvian Armed Forces - poss UAV Factory Penguin C,,
@@ -25023,6 +25026,9 @@ C815A3,mil,# B190 4607,,
 70C08A,mil,# PC9 437,,
 70C089,mil,# PC9 436,,
 70C0D2,mil,# HAWK 164,,
+70C0D4,mil,# HAWK 166,,
+70C0D9,mil,# B429 703,,
+70C083,mil,# PC9 430,,
 ,,,,
 [Pakistan],,,,
 761047,mil,# GLF4 4270,,
@@ -25579,6 +25585,8 @@ AFFD1C,civ,# F900 T7-ESPRT,,
 710309,mil,# PC21 2210,,
 710357,mil,# PC21 906,,
 71036B,mil,# HAWK 2104,,
+710187,mil,# AS32 6603,,
+710305,mil,# PC21 2206,,
 ,,,,
 [Senegal],,,,
 07007A,mil,# C295 6W-TTD,,
@@ -26319,6 +26327,19 @@ AFFD1C,civ,# F900 T7-ESPRT,,
 71F9C2,mil,# ???? ???? - Tactical Hex
 71FBA5,mil,# ???? ???? - Tactical Hex
 71F308,mil,# ???? ???? - Tactical Hex
+71F0CC,mil,# ???? ???? - Tactical Hex
+71F9C7,mil,# ???? ???? - Tactical Hex
+71F255,mil,# ???? ???? - Tactical Hex
+71F101,mil,# ???? ???? - Tactical Hex
+71F25A,mil,# ???? ???? - Tactical Hex
+71F9D1,mil,# ???? ???? - Tactical Hex
+71FBA6,mil,# ???? ???? - Tactical Hex
+71F258,mil,# ???? ???? - Tactical Hex
+71F256,mil,# ???? ???? - Tactical Hex
+71F24F,mil,# ???? ???? - Tactical Hex
+71F017,mil,# ???? ???? - Tactical Hex
+71F016,mil,# ???? ???? - Tactical Hex
+71FB88,mil,# ???? ???? - Tactical Hex
 ,,,,
 [Spain],,,,
 354657,civ,# -TWR Sant Celoni,,
@@ -26810,6 +26831,7 @@ E90F05,mil,# B212 034,,
 507F81,mil,# C295 01 White,,
 507F82,mil,# C295 02 White,,
 507F83,mil,# C295 03 White,,
+507FA9,mil,# AS32 212 White,,
 ,,,,
 [Vietnam],,,,
 888073,mil,# EC25 VN-8619,,
