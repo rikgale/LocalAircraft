@@ -21017,6 +21017,7 @@ E4A491	mil	# AS50 N-5103
 E48F41	mil	# E110 2318
 E49DA6	mil	# AS50 8822
 E49060	mil	# E110 7101
+E4A465	mil	# UNIV 1885
 		
 [Brunei]		
 8953FC	mil	# C295 TUDB502
@@ -23162,6 +23163,7 @@ AADD4B	mil	# BE20 FAH-015
 477FB6	mil	# Z42 22
 477F91	mil	# EC45 09
 477F89	mil	# Z42 23
+477F7E	mil	# EC25 77
 		
 [Ireland]		
 4CA44B	mil	# IRL PC12 280 
@@ -23865,6 +23867,11 @@ A66477	mil	# C30J N5105A (??? Test Reg)
 33FD9A	mil	# NH90 MM81603
 33FCBD	mil	# A169 MM82161
 33FCA0	mil	# A169 MM82181
+33FCE9	mil	# A169 MMM82075
+33FC63	mil	# A119 MM82136
+33FC61	mil	# P180 MM62338
+33FC6D	mil	# A169 MM82220
+33FC70	mil	# P180 MM?????
 		
 [Iran]		
 7324E3	mil	# F900 EP-IGC/5-9017
@@ -26356,6 +26363,12 @@ AFFD1C	civ	# F900 T7-ESPRT
 71F017	mil	# ???? ???? - Tactical Hex
 71F016	mil	# ???? ???? - Tactical Hex
 71FB88	mil	# ???? ???? - Tactical Hex
+71F25D	mil	# ???? ???? - Tactical Hex
+71F2C3	mil	# ???? ???? - Tactical Hex
+71F25C	mil	# ???? ???? - Tactical Hex
+71F0E3	mil	# ???? ???? - Tactical Hex
+71F021	mil	# ???? ???? - Tactical Hex
+71F0E0	mil	# ???? ???? - Tactical Hex
 		
 [Spain]		
 354657	civ	# -TWR Sant Celoni
@@ -26590,6 +26603,7 @@ A583B7	mil	# B412 HS-CPV
 881762	mil	# TEX2 J8-03/67
 881B95	mil	# PC6T B.JTh2-1/15
 88040F	mil	# A149 49050
+881C12	mil	# D228 1110
 		
 [Tunisia]		
 02B26A	mil	# C30J Z21121
