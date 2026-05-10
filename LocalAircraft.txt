@@ -90,6 +90,7 @@ E20114	mil	# B407 AE-340
 E20060	mil	# DHC6 T-89
 E20113	mil	# B407 AE-341
 E2007D	mil	# C182 PG-355
+E200AA	mil	# B406 AE-318
 		
 [Armenia]		
 600039	mil	# IL76 76310
@@ -21025,6 +21026,7 @@ E49288	mil	# E110 2344
 E4A469	mil	# UNIV 1910
 E48D04	mil	# EC25 N-7107
 E498C1	mil	# AS65 EB-2008
+E4A49E	mil	# E110 2019
 		
 [Brunei]		
 8953FC	mil	# C295 TUDB502
@@ -21419,6 +21421,10 @@ E80921	mil	# B350 FAC5733 - miscode
 0ACB79	mil	# C172 FAC2480
 0AC905	mil	# H60 FAC4108
 0AC7A8	mil	# H60 EJC-2149
+0AC7DE	mil	# B06 FAC4477
+0AC33C	mil	# C208 FAC5057
+0AC82E	mil	# UH1 FAC4403
+0AC904	mil	# H60 FAC4106
 		
 [Côte d'Ivoire]		
 038615	mil	# GLF5 TU-VAE
@@ -21590,6 +21596,8 @@ AC3FCD	mil	# B350 404
 46EC47	mil	# H60 PN-71
 468971	mil	# E145 729
 46ED9F	mil	# P3 153415
+46EC48	mil	# H60 PN-72
+46EC49	mil	# H60 PN-73
 		
 [Guernsey]		
 43EAFE	civ	# 2-????
@@ -23629,6 +23637,10 @@ A66477	mil	# C30J N5105A (??? Test Reg)
 8A06EA	mil	# BE58 T-2601
 8A06EB	mil	# BE58 T-2602
 8A0A87	mil	# C212 A-2117
+8A0ABF	mil	# FA8X A-0803
+8A0AC0	mil	# FA8X A-0804
+8A0ABE	mil	# FA8X A-0807
+8A0ABD	mil	# FA8X A-080?
 		
 [Italy]		
 33FD64	mil	# A139 MM81967
@@ -24960,7 +24972,6 @@ F0D911	civ	#
 0D0946	mil	# B407 1957
 0D0B28	mil	# C208 ANX-1260
 0D0E6B	mil	# C208 ANX-1261
-0D0A13	civ	# B738 3528 / XA-AWM
 0D0942	mil	# C501 3933
 0D082C	mil	# C130 3616
 0D0943	mil	# C501 3934
@@ -25378,6 +25389,7 @@ E8CFC7	mil	# C130 382
 E8CFCF	mil	# C56X EP-861
 E8CFD6	mil	# AN32 EP-835
 E8CFC4	mil	# DHC6 315
+E8CFC5	mil	# C27J 330
 		
 [Qatar]		
 06A20C	mil	# EUFI ZR504
@@ -25981,7 +25993,6 @@ AFFD1C	civ	# F900 T7-ESPRT
 71FA0C	mil	# CN35 30-084
 71FA0B	mil	# CN35 30-082
 71FA0E	mil	# CN35 30-088
-71F287	mil	# F16 93-096
 71FAF3	mil	# F16 92-031
 71F908	mil	# C130 95-181
 71FA01	mil	# CN35 10-044
@@ -26533,6 +26544,21 @@ AFFD1C	civ	# F900 T7-ESPRT
 71F34E	mil	# ???? ???? - Tactical Hex
 71FB89	mil	# ???? ???? - Tactical Hex
 71F287	mil	# F16 93-096 - Tactical Hex
+71F275	mil	# ???? ???? - Tactical Hex
+71F274	mil	# ???? ???? - Tactical Hex
+71F278	mil	# ???? ???? - Tactical Hex
+71FA0F	mil	# ???? ???? - Tactical Hex
+71F16C	mil	# ???? ???? - Tactical Hex
+71F0AA	mil	# ???? ???? - Tactical Hex
+71F023	mil	# ???? ???? - Tactical Hex
+71F27A	mil	# C30J 45-747 - Tactical Hex
+71F285	mil	# ???? ???? - Tactical Hex
+71F28E	mil	# ???? ???? - Tactical Hex
+71FBB0	mil	# ???? ???? - Tactical Hex
+71F81F	mil	# ???? ???? - Tactical Hex
+71F034	mil	# ???? ???? - Tactical Hex
+71FBD6	mil	# ???? ???? - Tactical Hex
+71F03D	mil	# ???? ???? - Tactical Hex
 		
 [Spain]		
 354657	civ	# -TWR Sant Celoni
