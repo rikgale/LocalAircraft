@@ -98,6 +98,7 @@ E20113	mil	# B407 AE-341
 E2007D	mil	# C182 PG-355
 E200AA	mil	# B406 AE-318
 E20118	mil	# C212 PA-62
+E20000	mil	# C182 PG-371
 		
 [Armenia]		
 600039	mil	# IL76 76310
@@ -23168,6 +23169,7 @@ AC3FCD	mil	# B350 404
 43F7C7	civ	# 2-????
 43F7D3	civ	# 2-????
 43F7D5	civ	# 2-????
+43F7D6	civ	# 2-????
 43F7D9	civ	# 2-????
 43F7DD	civ	# 2-????
 43F7DF	civ	# 2-????
@@ -24008,6 +24010,9 @@ A66477	mil	# C30J N5105A (??? Test Reg)
 33FE26	mil	# NH90 MM81541
 33FD44	mil	# NH90 MM81631
 33F552	mil	# NH90 MM81554
+33FD5B	mil	# EH10 MM81873
+33FC6B	mil	# A169 MM82222
+33FC62	mil	# A119 MM82137
 		
 [Iran]		
 7324E3	mil	# F900 EP-IGC/5-9017
