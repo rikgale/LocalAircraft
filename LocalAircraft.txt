@@ -99,6 +99,7 @@ E2007D	mil	# C182 PG-355
 E200AA	mil	# B406 AE-318
 E20118	mil	# C212 PA-62
 E20000	mil	# C182 PG-371
+E12503	mil	# BE20 0746
 		
 [Armenia]		
 600039	mil	# IL76 76310
@@ -21510,6 +21511,7 @@ E80921	mil	# B350 FAC5733 - miscode
 [Dominican Republic]		
 0C4046	mil	# E314 2905
 0C4059	mil	# TUKR 7508
+0C4053	mil	# TUKR 7502
 		
 [Ecuador]		
 E84834	mil	# FA7X FAE-052
@@ -21620,6 +21622,7 @@ E84802	mil	# G120 FAE1106
 [Guatemala]		
 0B4114	mil	# C208 360
 0B4354	mil	# PC12 707
+0B4151	mil	# C208 607
 		
 [Greece]		
 ABF486	mil	# B350 403
@@ -24241,6 +24244,7 @@ A7CE16	mil	# AT8T 1585
 6831F7	mil	# C295 07 RED
 6831F2	mil	# C295 02 RED
 6831F6	mil	# C295 06 RED
+6831CF	mil	# AN72 08 RED
 		
 [Latvia]		
 502FAD	mil	# UAV ???? Latvia - Latvian Armed Forces - poss UAV Factory Penguin C
@@ -25125,6 +25129,7 @@ F0D912	civ	#
 		
 [Mozambique]		
 006015	mil	# H25B FAM-002
+006100	mil	# ZZZZ FA-402
 		
 [Myanmar]		
 458CE4	mil	# AT45 0004
@@ -25611,6 +25616,7 @@ E8CFC5	mil	# C27J 330
 4A34C1	mil	# PUMA 87
 4A34CA	mil	# PUMA 71
 4A34CC	mil	# PUMA 34
+4A34CD	mil	# PUMA 60
 		
 [Russia]		
 194E97	mil	# T154 RF-85655
