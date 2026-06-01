@@ -18631,7 +18631,6 @@ E12503	mil	# BE20 0746
 7CF8C0	civ	# ZGND VH-
 7CF8C1	civ	# ZGND VH-
 7CF8C2	civ	# ZGND VH-
-7CF8C4	civ	# ZGND VH-
 7CF8DD	civ	# ZGND VH-
 7CF8DE	civ	# ZGND VH-
 7CF8E0	civ	# ZGND VH-
@@ -20767,6 +20766,7 @@ E12503	mil	# BE20 0746
 7CF9AA	mil	# H60 N48-011
 7CFAA9	mil	# H60 A60-011
 7CFAAA	mil	# H60 A60-012
+7CF8C4	mil	# GLF5 A51-00?
 		
 [Austria]		
 447AC7	civ	# -TWR Vienna
@@ -21458,6 +21458,7 @@ E80921	mil	# B350 FAC5733 - miscode
 0AC7D8	mil	# B06 FAC4470
 0AC7AA	mil	# H60 EJC-2146
 0ACA0A	mil	# C172 FAC2472
+0ACAB3	mil	# TEX2 FAC2355
 		
 [Côte d'Ivoire]		
 038615	mil	# GLF5 TU-VAE
@@ -21514,6 +21515,7 @@ E80921	mil	# B350 FAC5733 - miscode
 0C4046	mil	# E314 2905
 0C4059	mil	# TUKR 7508
 0C4053	mil	# TUKR 7502
+0C405C	mil	# A169 3080
 		
 [Ecuador]		
 E84834	mil	# FA7X FAE-052
@@ -23219,6 +23221,8 @@ AC3FCD	mil	# B350 404
 43F80F	civ	# 2-????
 43F848	civ	# 2-????
 43F83C	civ	# 2-????
+43F840	civ	# 2-????
+43F80E	civ	# 2-????
 		
 [Honduras]		
 0BA000	mil	# C208 FAH020
@@ -26764,6 +26768,8 @@ AFFD1C	civ	# F900 T7-ESPRT
 4AECCA	mil	# LJ60 60-296
 4AEBE3	mil	# NH90 146056
 4AEBDF	mil	# H60 161238
+4AECD1	mil	# GLEX 106064
+4AECD2	mil	# GLEX 106178
 		
 [Switzerland]		
 CB7FC5	mil	# EC35 T-365 Miscode
