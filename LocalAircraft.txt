@@ -20850,6 +20850,7 @@ E200FD	mil	# SIRA E-558
 702C46	mil	# C295 S3-BRT
 702C66	mil	# MI8 205
 702C65	mil	# B212 BH297
+702C8C	mil	# G115 82332
 702C8B	mil	# G115 82331
 702C8A	mil	# G115 82330
 		
@@ -21517,6 +21518,7 @@ E80921	mil	# B350 FAC5733 - miscode
 0C4059	mil	# TUKR 7508
 0C4053	mil	# TUKR 7502
 0C405C	mil	# A169 3080
+0C4052	mil	# TUKR 7501
 		
 [Ecuador]		
 E84834	mil	# FA7X FAE-052
@@ -21634,6 +21636,7 @@ E84802	mil	# G120 FAE1106
 46837C	civ	# TWR Gavdos
 ABF486	mil	# B350 403
 AC3FCD	mil	# B350 404
+A40D6C	mil	# B350 405
 46F483	mil	# AS65 HC-31
 46EC4B	mil	# H60 PN-75
 46EC4C	mil	# H60 PN-76
@@ -23237,6 +23240,7 @@ AC3FCD	mil	# B350 404
 43F83F	civ	# 2-????
 43F811	civ	# 2-????
 43F867	civ	# 2-????
+43F81E	civ	# 2-????
 		
 [Honduras]		
 0BA000	mil	# C208 FAH020
@@ -24298,6 +24302,8 @@ A7CE16	mil	# AT8T 1585
 502FA9	mil	# UAV ???? Latvia
 502FAE	mil	# AN2 030
 502FA2	mil	# TARR 021
+503FE2	mil	# H60 61
+503FE3	mil	# H60 62
 		
 [Libya]		
 01801C	mil	# AN72 5A-CAA
@@ -25247,6 +25253,7 @@ C815A3	mil	# B190 4607
 4780C7	civ	# A20N LN-SAE
 4780C8	civ	# A20N LN-SAF
 4780C9	civ	# A20N LN-SAG
+4780CA	civ	# EC45 LN-ODX
 		
 [Oman]		
 70C08D	mil	# C30J 505
@@ -25679,6 +25686,9 @@ E8CFDC	mil	# B738 357
 4A34CD	mil	# PUMA 60
 4A3508	mil	# ???? ????
 4A3516	mil	# ???? ????
+4A354A	mil	# ???? ????
+4A354C	mil	# ???? ????
+4A3518	mil	# ???? ????
 		
 [Russia]		
 194E97	mil	# T154 RF-85655
@@ -26069,6 +26079,9 @@ AFFD1C	civ	# F900 T7-ESPRT
 506FDF	civ	# ???? S5-MMK
 506FD8	civ	# ???? S5-DKI
 506FD2	civ	# ???? S5-DEG
+506FD5	civ	# ???? S5-KPL
+506FDD	civ	# ???? S5-PGU
+506FB7	civ	# WT9 S5-PDZ
 		
 [South Africa]		
 00AEC9	mil	# B737 ZS-RSA
