@@ -21097,6 +21097,7 @@ E49754	mil	# AS65 EB-2018
 E4A492	mil	# AS50 8824
 E4A90F	mil	# AS50 FAB-8826
 E48B10	mil	# E120 2003
+E4A456	mil	# UNIV 1836
 		
 [Brunei]		
 8953FC	mil	# C295 TUDB502
@@ -21573,6 +21574,7 @@ E80921	mil	# B350 FAC5733 - miscode
 35F01E	civ	# CH70 OY-9280 Denmark (miscode)
 459903	mil	# DHC6 OY-FHC
 459904	mil	# DHC6 OY-FHD
+459905	mil	# DHC6 OY-FHE
 		
 [Dominican Republic]		
 0C4046	mil	# E314 2905
@@ -21603,6 +21605,7 @@ E849C4	mil	# BE20 AN-235
 E84947	mil	# EC25 AEE-473
 E8493F	mil	# C550 IGM-628
 E84946	mil	# EC25 AEE-472
+E8492F	mil	# C172 AEE-161
 		
 [Egypt]		
 010177	mil	# C295 SU-BRU
@@ -23319,6 +23322,7 @@ A40D6C	mil	# B350 405
 43F858	civ	# 2-????
 43F885	civ	# 2-????
 43F86E	civ	# 2-????
+43F88F	civ	# 2-????
 		
 [Honduras]		
 0BA000	mil	# C208 FAH020
@@ -23660,6 +23664,7 @@ AADD4B	mil	# BE20 FAH-015
 800E74	mil	# AN32 KA-2700
 800E76	mil	# AN32 KA-2748
 800E02	mil	# AN32 KA2698
+800E34	mil	# AN32 KA3073
 		
 [Indonesia]		
 8A0134	mil	# KT1 LL-0112
@@ -23810,6 +23815,7 @@ A66477	mil	# C30J N5105A (??? Test Reg)
 8A06E5	mil	# BE36 T-2506
 8A0937	mil	# P28A T-2708
 8A0AD3	mil	# FA8X A-0806
+8A07C8	mil	# AS65 HR-3605
 		
 [Italy]		
 33FD64	mil	# A139 MM81967
@@ -24399,6 +24405,7 @@ A7CE16	mil	# AT8T 1585
 6831F2	mil	# C295 02 RED
 6831F6	mil	# C295 06 RED
 6831CF	mil	# AN72 08 RED
+68330B	mil	# ZZZZ 31 RED
 		
 [Latvia]		
 502FAD	mil	# UAV ???? Latvia - Latvian Armed Forces - poss UAV Factory Penguin C
@@ -24413,6 +24420,7 @@ A7CE16	mil	# AT8T 1585
 502FA2	mil	# TARR 021
 503FE2	mil	# H60 61
 503FE3	mil	# H60 62
+502FA8	mil	# ???? ????
 		
 [Libya]		
 01801C	mil	# AN72 5A-CAA
@@ -24491,6 +24499,9 @@ AAE4E2	mil	# BE20 M41-04
 750576	mil	# ANKA M56-01
 750577	mil	# ANKA M56-02
 750578	mil	# ANKA M56-03
+7505B2	mil	# A189 M73-01
+7505B3	mil	# A189 M73-02
+7505B4	mil	# A189 M73-03
 		
 [Maritime MMSI]		
 F10042	civ	#
@@ -25288,6 +25299,7 @@ AD2C00	mil	# C208 ANX-1263 - MISCODE
 02015A	mil	# PUMA CN-ARJ
 020040	mil	# C130 CN-AOR
 0201D7	mil	# C295 CN-AMT
+0201D8	mil	# C295 CN-AMU
 		
 [Mozambique]		
 006015	mil	# H25B FAM-002
@@ -25634,7 +25646,9 @@ A05ED4	mil	# MI8 653 - Miscode
 497FA7	mil	# H60 29807
 497FA8	mil	# H60 29808
 497CF4	mil	# H60 29810
+497CF5	mil	# H60 29811
 497A49	mil	# F16 15142
+497D01	mil	# H60 29901
 		
 [Peru]		
 E8CFB9	mil	# LJ45 526
@@ -25817,6 +25831,8 @@ E8CFDC	mil	# B738 357
 4A354A	mil	# ???? ????
 4A354C	mil	# ???? ????
 4A3518	mil	# ???? ????
+4A34BA	mil	# PUMA 78
+4A35A9	mil	# PUMA 21
 		
 [Russia]		
 194E97	mil	# T154 RF-85655
@@ -26942,6 +26958,7 @@ AFFD1C	civ	# F900 T7-ESPRT
 345301	mil	# A332 EC-337
 345305	mil	# A332 EC-336
 3455CF	mil	# AS32 HD.21-18
+345151	mil	# C295 D.06-03
 		
 [Sri Lanka]		
 777E0F	mil	# Y12 SCL-3128
